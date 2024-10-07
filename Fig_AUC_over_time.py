@@ -34,7 +34,10 @@ def update_elo(elo_scores, id1, id2, winner, K=32):
 
 if __name__ == "__main__":
     
-    file_path = 'all_evaluation_data.pkl'
+    data_dir="data"
+    os.makedirs(data_dir, exist_ok=True)
+    file_path = os.path.join(data_dir, 'all_evaluation_data.pkl')
+     
     if os.path.exists(file_path):
         with open(file_path, 'rb') as file:
             all_data = pickle.load(file)
@@ -47,13 +50,11 @@ if __name__ == "__main__":
     all_auc_labels=['GPT4o mini', 'GPT4o', 'GPT 3.5']
     result_files = ['combined_ELO_results_4omini.txt', 'combined_ELO_results_4o.txt', 'combined_ELO_results_35.txt']
     
-    auc_elo_dir = 'auc_elo_data'
-    os.makedirs(auc_elo_dir, exist_ok=True)
     all_auc_evolutions=[]
     for result_file in result_files:
         elo_scores = [1400] * num_of_samples
         match_counts = [0] * num_of_samples        
-        elo_results = read_elo_results(os.path.join(auc_elo_dir, result_file))
+        elo_results = read_elo_results(os.path.join(data_dir, result_file))
         #random.shuffle(elo_results)
     
         # Prepare interest data and other relevant variables

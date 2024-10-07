@@ -7,10 +7,10 @@ from sklearn.metrics import auc
 
 if __name__ == "__main__":
 
-    pkl_dir = 'gpt_ml_data'
-    os.makedirs(pkl_dir, exist_ok=True)
+    data_dir="data"
+    os.makedirs(data_dir, exist_ok=True)
 
-    with open(os.path.join(pkl_dir, 'full_data_gpt35.pkl'), 'rb') as file:
+    with open(os.path.join(data_dir, 'full_data_gpt35.pkl'), 'rb') as file:
         data_loaded = pickle.load(file)
     
     ranked_indices_gpt35 = data_loaded['ranked_indices']
@@ -19,7 +19,7 @@ if __name__ == "__main__":
     fpr_gpt35 = data_loaded['fpr']
     tpr_gpt35 = data_loaded['tpr']
 
-    with open(os.path.join(pkl_dir, 'full_data_gpt4o.pkl'), 'rb') as file:
+    with open(os.path.join(data_dir, 'full_data_gpt4o.pkl'), 'rb') as file:
         data_loaded = pickle.load(file)
     
     ranked_indices_gpt4o = data_loaded['ranked_indices']
@@ -29,7 +29,7 @@ if __name__ == "__main__":
     tpr_gpt4o = data_loaded['tpr']
 
 
-    with open(os.path.join(pkl_dir, 'full_data_ML.pkl'), 'rb') as file:
+    with open(os.path.join(data_dir, 'full_data_ML.pkl'), 'rb') as file:
         data_loaded = pickle.load(file)
     
     topNprecision_avg_ML = data_loaded['topNprecision_avg']

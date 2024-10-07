@@ -4,17 +4,12 @@ import csv
 import matplotlib.pyplot as plt
 import time
 import pickle
-
-
 import torch
 from torch import nn
 import torch.nn.functional as F
-
 import random
 from sklearn.metrics import roc_curve, auc, precision_recall_curve
-
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
-
 from datetime import datetime
 
 def print_log(log_string):
@@ -281,8 +276,10 @@ if __name__ == "__main__":
     log_file=os.path.join(log_dir, f"logs_{CURR_ID}.txt")
 
     # Load and prepare your data outside the loop if it's the same for each iteration
+    data_dir="data"
+    os.makedirs(data_dir, exist_ok=True)
+    file_path = os.path.join(data_dir, 'all_evaluation_data.pkl')
 
-    file_path = 'all_evaluation_data.pkl'
     if os.path.exists(file_path):
         with open(file_path, 'rb') as file:
             all_data = pickle.load(file)
@@ -453,7 +450,6 @@ if __name__ == "__main__":
     }
     
     # Save the dictionary to a pickle file
-    pkl_dir = 'gpt_ml_data'
-    os.makedirs(pkl_dir, exist_ok=True)
-    with open(os.path.join(pkl_dir,'full_data_ML.pkl'), 'wb') as file:
+ 
+    with open(os.path.join(data_dir,'full_data_ML.pkl'), 'wb') as file:
         pickle.dump(data_to_save, file)

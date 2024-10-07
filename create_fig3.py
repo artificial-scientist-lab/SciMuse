@@ -49,8 +49,9 @@ if __name__ == "__main__":
                 "Semantic distance\n"]
 
     color_map = {100: 'blue', 50: 'green', 25: 'red'}  # Different colors for each percentage
-
-    file_path = 'all_evaluation_data.pkl'
+    
+    data_dir="data"
+    file_path = os.path.join(data_dir, 'all_evaluation_data.pkl')
     if os.path.exists(file_path):
         with open(file_path, 'rb') as file:
             all_data = pickle.load(file)
