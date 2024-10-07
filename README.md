@@ -30,7 +30,7 @@ _**How interesting are AI-generated research ideas to experienced human research
 │   ├── combined_ELO_results_4omini.txt       # ELO results for GPT-4omini
 │   └── combined_ELO_results_4o.txt           # ELO results for GPT-4o
 │
-├── <a href="https://github.com/artificial-scientist-lab/SciMuse/tree/main/figures">figures</a>                                # Directory for storing generated figures
+├── <a href="https://github.com/artificial-scientist-lab/SciMuse/tree/main/figures">figures</a>                                   # Directory for storing generated figures
 │
 ├── create_fig3.py                            # Analysis of interest levels vs. knowledge graph features (for Fig. 3)
 ├── create_full_data_ML_pkl.py                # Code for generating supervised ML dataset (full_data_ML.pkl)
