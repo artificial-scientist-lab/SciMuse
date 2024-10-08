@@ -1,15 +1,14 @@
 # SciMuse
 
-### Interesting Research Idea Generation Using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Paper Availability](https://img.shields.io/badge/paper-available-green)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.17044-b31b1b.svg)](https://arxiv.org/abs/2405.17044)
 
-**Authors:** [**Xuemei Gu**](mailto:xuemei.gu@mpl.mpg.de), [**Mario Krenn**](https://mpl.mpg.de/research-at-mpl/independent-research-groups/krenn-research-group/)
-\
-**Preprint:** [arXiv:2405.17044](https://arxiv.org/abs/2405.17044)
+### How interesting are AI-generated research ideas to experienced human researchers, and how can we improve their quality?
 
-_**How interesting are AI-generated research ideas to experienced human researchers, and how can we improve their quality?**_
+
+📖 <u> Read our paper here: </u>\
+[**Interesting Research Idea Generation Using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders**](https://arxiv.org/abs/2405.17044#)\
+*[Xuemei Gu](mailto:xuemei.gu@mpl.mpg.de), [Mario Krenn](mailto:mario.krenn@mpl.mpg.de)*
 
 <img src="figures/scimuse.jpeg" alt="workflow" width="900"/>
 
