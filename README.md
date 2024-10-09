@@ -7,7 +7,7 @@
 
 
 📖 <u> Read our paper here: </u>\
-[**Interesting Research Idea Generation Using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders**](https://arxiv.org/abs/2405.17044#)\
+[**Interesting Scientific Idea Generation Using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders**](https://arxiv.org/abs/2405.17044#)\
 *[Xuemei Gu](mailto:xuemei.gu@mpl.mpg.de), [Mario Krenn](mailto:mario.krenn@mpl.mpg.de)*
 
 <img src="figures/scimuse.jpeg" alt="workflow" width="900"/>
