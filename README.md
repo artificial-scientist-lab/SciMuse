@@ -13,7 +13,7 @@
 <img src="figures/scimuse.jpeg" alt="workflow" width="900"/>
 
 > [!NOTE]\
-> Full Dynamic Knowledge Graph can be downloaded via [zenodo.org](https://zenodo.org/records/13900962)  
+> Full Dynamic Knowledge Graph can be downloaded via [zenodo.org](https://doi.org/10.5281/zenodo.13900962)  
 
 <pre>
 .
