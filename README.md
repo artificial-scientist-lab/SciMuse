@@ -7,13 +7,13 @@
 
 
 📖 <u> Read our paper here: </u>\
-[**Interesting Scientific Idea Generation Using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders**](https://arxiv.org/abs/2405.17044#)\
+[**Interesting Scientific Idea Generation Using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders**](https://arxiv.org/abs/2405.17044)\
 *[Xuemei Gu](mailto:xuemei.gu@mpl.mpg.de), [Mario Krenn](mailto:mario.krenn@mpl.mpg.de)*
 
 <img src="figures/scimuse.jpeg" alt="workflow" width="900"/>
 
 > [!NOTE]\
-> Full Dynamic Knowledge Graph can be downloaded via [zenodo.org](https://doi.org/10.5281/zenodo.13900962)  
+> Full Dynamic Knowledge Graph can be downloaded at [10.5281/zenodo.13900962](https://doi.org/10.5281/zenodo.13900962)  
 
 <pre>
 .
