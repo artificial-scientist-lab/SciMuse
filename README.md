@@ -13,7 +13,8 @@
 <img src="figures/scimuse.jpeg" alt="workflow" width="900"/>
 
 > [!NOTE]\
-> Full Dynamic Knowledge Graph can be downloaded at [10.5281/zenodo.13900962](https://doi.org/10.5281/zenodo.13900962)  
+> Full Dynamic Knowledge Graph can be downloaded at [10.5281/zenodo.13900962](https://doi.org/10.5281/zenodo.13900962)
+> How to get concept list and knowlegde graph, please refer to the method in our github repository [Impact4Cast](https://github.com/artificial-scientist-lab/Impact4Cast)
 
 <pre>
 .
