@@ -15,22 +15,23 @@
 > [!NOTE]\
 > Full Dynamic Knowledge Graph can be downloaded at [10.5281/zenodo.13900962](https://doi.org/10.5281/zenodo.13900962)
 
-> [!NOTE]\
-> Here's an overview of how to do concept extraction:
-> 1. Initial Concept Extraction:
-> We analyzed the titles and abstracts of approximately 2.44 million papers from four preprint datasets using the RAKE algorithm, enhanced with additional stopwords, to extract potential concept candidates.
->- Initial filtering retained two-word concepts appearing in at least nine articles.
->- Concepts with more than three words were retained if they appeared in six or more articles. 
->
-> 2. Quality Improvement: To enhance the quality of identified concepts, we implemented a suite of automated tools to address domain-independent errors commonly associated with RAKE. We then manually reviewed and removed inaccuracies such as non-conceptual phrases, verbs, and conjunctions. For further details, refer to the [Impact4Cast Paper](https://arxiv.org/abs/2402.08640) and our [GitHub code for concept extraction](https://github.com/artificial-scientist-lab/Impact4Cast/tree/main/create_concepts).
->
-> 3. Further Refinement with GPT:
-> We used GPT-3.5 to refine the concepts further, which resulted in the removal of 286,311 entries. Using Wikipedia, we restored 40,614 mistakenly removed entries, resulting in a final, refined list of 123,128 concepts. For details on prompt engineering, refer to the appendix of the [SciMuse paper](https://arxiv.org/abs/2405.17044).
->
-> The code for generating and refining concepts in this repository:
+
+## Concept Extraction
+1. Initial Concept Extraction:
+We analyzed the titles and abstracts of approximately 2.44 million papers from four preprint datasets using the RAKE algorithm, enhanced with additional stopwords, to extract potential concept candidates.
+- Initial filtering retained two-word concepts appearing in at least nine articles.
+- Concepts with more than three words were retained if they appeared in six or more articles. 
+
+2. Quality Improvement: To enhance the quality of identified concepts, we implemented a suite of automated tools to address domain-independent errors commonly associated with RAKE. We then manually reviewed and removed inaccuracies such as non-conceptual phrases, verbs, and conjunctions. For further details, refer to the [Impact4Cast Paper](https://arxiv.org/abs/2402.08640) and our [GitHub code for concept extraction](https://github.com/artificial-scientist-lab/Impact4Cast/tree/main/create_concepts).
+
+3. Further Refinement with GPT:
+We used GPT-3.5 to refine the concepts further, which resulted in the removal of 286,311 entries. Using Wikipedia, we restored 40,614 mistakenly removed entries, resulting in a final, refined list of 123,128 concepts. For details on prompt engineering, refer to the appendix of the [SciMuse paper](https://arxiv.org/abs/2405.17044).
+
+The code for generating and refining concepts in this repository:
 [GitHub - Impact4Cast Concept Extraction](https://github.com/artificial-scientist-lab/Impact4Cast/tree/main/create_concepts).
 
 
+## Files in this repository
 <pre>
 .
 ├── <a href="https://github.com/artificial-scientist-lab/SciMuse/tree/main/data">data</a>                                      # Directory containing datasets
