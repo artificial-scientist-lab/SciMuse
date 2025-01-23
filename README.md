@@ -15,6 +15,20 @@
 > [!NOTE]\
 > Full Dynamic Knowledge Graph can be downloaded at [10.5281/zenodo.13900962](https://doi.org/10.5281/zenodo.13900962)
 
+## The SciMuse benchmark
+
+<b>The SciMuse Benchmark tests how well a model can predict expert humans' ranking of the scientific interest of personalized research ideas.</b> The higher the model's quality, the better it can predict what experts consider interesting ideas. Ultimately, models with high scores can be used to rank millions of ideas and select a few exceptionally exciting interdisciplinary ideas that could vastly accelerate scientific progress — that is the dream.
+
+In the paper, we have nearly 3,000 personalized <i>scientific ideas</i> ranked by more than 100 highly experienced research group leaders (in the fields of biology, chemistry, physics, computer science, math, and humanities). The goal of the SciMuse Benchmark is to rank the 3,000 ideas from most interesting to least interesting. To evaluate, we use the AUC of a binary classification task that separates the ideas into high-interest and low-interest categories.
+
+To achieve this, we establish an ELO ranking for each idea by simulating many matchups between randomly chosen pairs of ideas. In each matchup, the LLM is given two ideas along with five papers from the corresponding researchers, A and B. The LLM then estimates whether researcher A ranked their idea higher than researcher B's. The final ELO ranking is used, together with the ground truth, to compute the AUC. The final result is computed by an average over 100 random shufflings of the matchup orders.
+
+<img src="figures/scimuse_benchmark_5k.png" alt="workflow" width="900"/>
+
+For privacy reasons, both the research questions and the expert-human rankings are private. Thus, this benchmark cannot be part of any training dataset of the models. If you want to help testing other models for the benchmark, please write to us ([Xuemei Gu](mailto:xuemei.gu@mpl.mpg.de), [Mario Krenn](mailto:mario.krenn@mpl.mpg.de)). We will need API access to your model for 5000 calls or (ideally) more.
+
+The curves clearly do not converge yet, meaning the final AUC for infinite matchups (and thus the ultimate AUC of the model) is higher than the ones at 5000 matchups. However, due to costly execution, we did not run some of the models for more matchups (specifically, the GPT o1 evaluation costs roughly $300). In any case, the AUC at 5000 matchups is a lower limit of the final AUC and clearly distinguishes the quality of the different models.
+
 
 ## Concept Extraction
 1. Initial Concept Extraction:
