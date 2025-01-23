@@ -23,6 +23,7 @@ In the paper, we have nearly 3,000 personalized <i>scientific ideas</i> ranked b
 
 To achieve this, we establish an ELO ranking for each idea by simulating many matchups between randomly chosen pairs of ideas. In each matchup, the LLM is given two ideas along with five papers from the corresponding researchers, A and B. The LLM then estimates whether researcher A ranked their idea higher than researcher B's. The final ELO ranking is used, together with the ground truth, to compute the AUC. The final result is computed by an average over 100 random shufflings of the matchup orders.
 
+### Results at 22.01.2025
 <img src="figures/scimuse_benchmark_5k.png" alt="workflow" width="900"/>
 
 For privacy reasons, both the research questions and the expert-human rankings are private. Thus, this benchmark cannot be part of any training dataset of the models. If you want to help testing other models for the benchmark, please write to us ([Xuemei Gu](mailto:xuemei.gu@mpl.mpg.de), [Mario Krenn](mailto:mario.krenn@mpl.mpg.de)). We will need API access to your model for 5000 calls or (ideally) more.
