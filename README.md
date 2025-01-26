@@ -83,3 +83,15 @@ The code for generating and refining concepts in this repository:
 │
 └── Fig_AUC_over_time.py                      # Zero-shot ranking of research suggestions by LLMs (for Fig. 6)
 </pre>
+
+
+## How to cite
+
+```
+@article{gu2024generation,
+  title={Interesting Scientific Idea Generation using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders},
+  author={Gu, Xuemei and Krenn, Mario},
+  journal={arXiv preprint arXiv:2405.17044},
+  year={2024}
+}
+```
