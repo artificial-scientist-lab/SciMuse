@@ -30,7 +30,7 @@ To achieve this, we establish an ELO ranking for each idea by simulating many ma
 | Gemini 2 Flash      | 0.6620     |
 | GPT o1             | 0.6574     |
 | Claude 3.5 Sonnet  | 0.6456     |
-| DeekSeek R1        | 0.6409     |
+| DeepSeek R1        | 0.6409     |
 | GPT 4o             | 0.6309     |
 | Grok 2             | 0.6160     |
 | GPT 3.5            | 0.5684     |
