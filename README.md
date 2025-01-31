@@ -27,7 +27,7 @@ To achieve this, we establish an ELO ranking for each idea by simulating many ma
 
 | Name of Model      | AUC @ 5000 |
 |---------------------|------------|
-| Gemini 2 Flash      | 0.6620     |
+| Gemini 2 Flash Thinking      | 0.6620     |
 | GPT o1             | 0.6574     |
 | Claude 3.5 Sonnet  | 0.6456     |
 | DeepSeek R1        | 0.6409     |
