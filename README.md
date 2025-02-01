@@ -23,7 +23,7 @@ In the paper, we have nearly 3,000 personalized <i>scientific ideas</i> ranked b
 
 To achieve this, we establish an ELO ranking for each idea by simulating many matchups between randomly chosen pairs of ideas. In each matchup, the LLM is given two ideas along with five papers from the corresponding researchers, A and B. The LLM then estimates whether researcher A ranked their idea higher than researcher B's. The final ELO ranking is used, together with the ground truth, to compute the AUC. The final result is computed by an average over 100 random shufflings of the matchup orders.
 
-### Results at 22.01.2025
+### Results at 01.02.2025
 
 | Name of Model      | AUC @ 5000 |
 |---------------------|------------|
