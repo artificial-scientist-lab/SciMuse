@@ -57,7 +57,17 @@ The code for generating and refining concepts in this repository:
 [GitHub - Impact4Cast Concept Extraction](https://github.com/artificial-scientist-lab/Impact4Cast/tree/main/create_concepts).
 
 
-## Files in this repository
+## Files in this repository for reproducing results
+To reproduce the results, download the repository. The file content is explained in detail below. 
+
+**Figure 3** can be reproduced in the following way:
+1. run the file `create_fig3.py` (creates `Fig3.png`)
+
+**Figure 4** can be reproduced in the following way:
+1. run `create_full_data_ML_pkl.py` to produce `full_data_ML.pkl` (takes less than 15 minutes on a CPU)
+2. run `create_full_data_gpt_pkl.py` to produce `full_data_gpt35.pkl` and `full_data_gpt4o.pkl` (takes less than 15 minutes on a CPU)
+3. run `create_fig4.py` to create the final figure (creates `Fig4.png`)
+   
 <pre>
 .
 ├── <a href="https://github.com/artificial-scientist-lab/SciMuse/tree/main/data">data</a>                                      # Directory containing datasets
