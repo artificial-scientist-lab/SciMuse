@@ -58,7 +58,7 @@ The code for generating and refining concepts in this repository:
 
 
 ## Files in this repository for reproducing results
-To reproduce the results, download the repository. The file content is explained in detail below. 
+To reproduce the results, download the repository. The file content is explained in detail below. It requires [Pytorch](https://github.com/pytorch/pytorch), [skikit-learn](https://github.com/scikit-learn/scikit-learn).
 
 **Figure 3** can be reproduced in the following way:
 1. run the file `create_fig3.py` (creates `Fig3.png`)
