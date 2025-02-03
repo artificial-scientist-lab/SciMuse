@@ -102,7 +102,7 @@ To reproduce the results, download the repository. The file content is explained
 @article{gu2024generation,
   title={Interesting Scientific Idea Generation using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders},
   author={Gu, Xuemei and Krenn, Mario},
-  journal={arXiv preprint arXiv:2405.17044},
+  journal={arXiv:2405.17044},
   year={2024}
 }
 ```
