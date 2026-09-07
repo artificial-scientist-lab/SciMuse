@@ -1,0 +1,447 @@
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+2: Time-domain Compressed Sensing
+3: Method and apparatus for creating a microscopic sample image of a molecular vibrational response of a sample
+4: Speeding up Field-Resolved Spectroscopy by Compressed Sensing
+5: Recent advances in petahertz electric field sampling
+
+Researcher B:
+1: Room-Temperature Sputtered Ultralow-Loss Silicon Nitride
+2: Pure quintic dispersion microresonator frequency combs
+3: Dark solitons in Fabry-Perot resonators with Kerr media and normal dispersion
+4: Multi-stage spontaneous symmetry breaking of light in Kerr ring resonators
+5: On-the-fly precision spectroscopy with a dual-modulated tunable diode laser and Hz-level referencing to a cavity
+6: 4-field symmetry breakings in twin-resonator photonic isomers
+7: 4-Field Symmetry Breakings in Microresonator-Based Photonic Molecules
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: Cavity-enhanced vibrational spectroscopy of deep tissue in-vivo with spectral and temporal selectivity
+Main Objective (1-2 sentences): Certain vibrational peaks can correspond to key mechanisms that reflect the dynamics inside deep tissue, especially in vivo. By coupling to a cavity, the SNR is greatly enhanced that allows high spectral and temporal resolution. 
+
+Research Question & Novel Results (2 points):
+1) Enhance SNR with coupling signal to cavity
+2) Use that advantage to enhance a useful vibrational peak that is key to some ultrafast mechanism
+
+
+
+###################
+
+
+
+
+optical field: An **optical field** is the (typically complex) electromagnetic field at optical frequencies—described by its spatial and temporal amplitude, phase, polarization, and spectrum—that governs how light propagates and interacts with matter.
+
+quantum nonlocality: Quantum nonlocality is the experimentally observed fact that measurements on entangled systems can exhibit correlations that violate Bell inequalities—i.e., cannot be explained by any local hidden-variable theory—while still forbidding faster-than-light signalling.
+
+Two researchers A and B, with expertise in "optical field" and "quantum nonlocality" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Wigner function tomography via optical parametric amplification
+2: Quantifying optical rogue waves
+3: Multi-photon electron emission with non-classical light
+4: Crystal superlattices for versatile and sensitive quantum spectroscopy
+5: Classical model of spontaneous parametric down-conversion
+6: Photon pairs bi-directionally emitted from a resonant metasurface
+7: Spontaneous Parametric Down-Conversion Beaming from a Lithium Niobate Nanostructured Resonator
+
+Researcher B:
+1: Localizing Eavesdroppers Inside a Quantum Channel Using Stimulated Brillouin Scattering
+2: Eavesdropper localization for quantum and classical channels via nonlinear scattering
+3: Measuring higher-order photon correlations of faint quantum light: a short review
+4: QUBE-II-Quantum Key Distribution with a CubeSat
+5: Integrated Photonics for Quantum Communication on a Cubesat
+6: QUBE-Towards Quantum Key Distribution with Small Satellites
+7: Phase-locking an interferometer with single-photon detections
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: A pseudo-deterministic SPDC source enables long distance QKD with satellites
+Main Objective (1-2 sentences): A pseudo-deterministic single photon sources based on spontaneous parametric down conversion can provide cheap but accessible SPS useful for QKD. With such development, many sources were integrated into photonic structures and implemented in satellites, demonstrating QKD capabilities in record-breaking distances.
+
+Research Question & Novel Results (2 points):
+1) A deterministic SPDC source would bring the cost down by a magnitude allowing for expedited device manufacturing
+2) These sources then were modified into a chip that is compatible for satellite use, demonstrating QKD at a scale that is comparable to classical cyber security.
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Tunable fiber source of entangled UV-C and infrared photons
+2: Tunable Fiber Source of Entangled Ultraviolet and Infrared Photons
+3: Resonant metasurfaces for generating complex quantum states
+4: Multi-photon electron emission with non-classical light
+5: Time-resolved purification of photon pairs from ultrasmall sources
+6: Towards quantum-enhanced Raman spectroscopy for bioimaging applications
+7: Wigner function tomography via optical parametric amplification
+
+Researcher B:
+1: Collective behaviors of motile bacteria
+2: Chemotaxis of the human pathogen Pseudomonas aeruginosa to the neurotransmitter acetylcholine
+3: Impact of direct physical association and motility on fitness of a synthetic interkingdom microbial community
+4: Regulation by cyclic di-GMP attenuates dynamics and enhances robustness of bimodal curli gene activation in Escherichia coli
+5: Systematic mapping of chemoreceptor specificities for Pseudomonas aeruginosa
+6: Dynamic fluctuations in a bacterial metabolic network
+7: Engineering a Synthetic RNA Segregation System
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: Fiber source for quantum-enhanced Raman spectroscopy of bacterial RNA
+Main Objective (1-2 sentences): Raman spectroscopy with entangled photons enable sensitive and efficient identification of RNA sequences. A fully fiber-coupled system creates a compact device that can be incorporated into any biology lab.
+
+Research Question & Novel Results (2 points):
+1) Can such a low signal spectroscopy be entirely fiber coupled to enable better device preparation down the line?
+2) Entangled photons can be used to perform non-classical Raman spectroscopy of bacterial RNA.
+
+
+
+
+
+###################
+
+
+
+
+single molecule localization: Single-molecule localization is the statistical inference of a molecule’s position by fitting the microscope’s point-spread function to the detected photon distribution, allowing its coordinates to be estimated with precision well below the diffraction limit (set roughly by the PSF width divided by \(\sqrt{N}\) detected photons).
+
+field experiment: A field experiment is an experiment conducted in a real-world environment (rather than a controlled lab) in which the investigator deliberately varies an independent variable and measures its effect on outcomes while attempting to control or account for confounding factors.
+
+Two researchers A and B, with expertise in "single molecule localization" and "field experiment" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+2: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+3: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+4: Small molecule inhibitors of mammalian glycosylation
+5: Setting the stage for universal pharmacological targeting of the glycocalyx
+6: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+7: Fluorophores' talk turns them dark
+
+Researcher B:
+1: A global review of the state of the evidence of household air pollution's contribution to ambient fine particulate matter and their related health impacts
+2: Oxidation precursors around the Arabian Peninsula-Evaluation of EMAC model results with ship-based measurements of HCHO, H2O2, ROOH and HOx
+3: Modelling of tropospheric NO2 using WRF-Chem with optimized temporal NOx emission profiles derived from in-situ observations-Comparisons to in-situ, satellite, and MAX-DOAS observations over central Europe
+4: The temperature sensitivity of mono-and sesquiterpene emissions from terrestrial vegetation: Insights from a meta-analysis
+5: Impact of reduced aircraft emission on HOx Chemistry in the upper troposphere during BLUESKY Campaign 2020.
+6: Comprehensive multiphase chlorine chemistry in the box model CAABA/MECCA: Implications to atmospheric oxidative capacity
+7: Ozone production and chemical regime analysis in the upper tropical troposphere
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: Imaging of nanoparticles found in air pollutants shown to accelerate ozone production
+Main Objective (1-2 sentences): Organic nanoparticles found in the troposphere have been shown to act as a catalyst for ozone production. Single molecule microscopy captures the dynamics of this mechanism with high spectral and spatial resolution.
+
+Research Question & Novel Results (2 points):
+1) What is the mechanism behind the nanoparticles found in the atmosphere and their role as catalysts that increase ozone production?
+2) The change in shape and motion of these nanoparticles reveal the nature of the interactions they have with small molecules involved with ozone production.
+
+
+
+
+
+###################
+
+
+
+
+tissue repair: Tissue repair is the coordinated, multi-stage biological process that restores tissue function after injury by stopping damage (hemostasis/inflammation), rebuilding structure via cell proliferation and extracellular-matrix deposition, and then remodeling that new material to recover (as much as possible) the original mechanical and functional properties.
+
+optical response: The *optical response* of a material is its (generally frequency- and wavevector-dependent) linear or nonlinear electromagnetic susceptibility—equivalently its dielectric function or refractive index—characterizing how induced polarization and currents modify incident light through absorption, dispersion, reflection, transmission, and scattering.
+
+Two researchers A and B, with expertise in "tissue repair" and "optical response" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+2: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+3: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+4: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+5: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+
+Researcher B:
+1: Cooperative subwavelength molecular quantum emitter arrays
+2: Classical phase synchronization in dissipative non-Hermitian coupled systems
+3: Cooperative effects in dense cold atomic gases including magnetic dipole interactions
+4: Linear optical elements based on cooperative subwavelength emitter arrays
+5: Metasurface-based hybrid optical cavities for chiral sensing
+6: Cooperative quantum phenomena in light-matter platforms
+7: Theory of phase-adaptive parametric cooling
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: Laser-assisted tissue regeneration with simultaneous optical readout
+Main Objective (1-2 sentences): Ultrafast laser pulses have been shown to be helpful to stimulate tissue growth in skin cells and more. By integrating spectroscopic readout, live-monitoring of tissue regeneration is implemented.
+
+Research Question & Novel Results (2 points):
+1) Can the amount of laser-assisted tissue regrowth be monitored in-situ?
+2) A simultaneous optical readout is implemented alongside ultrafast laser-assisted tissue growth to monitor the progress real-time.
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Spontaneous Parametric Down-Conversion Beaming from a Lithium Niobate Nanostructured Resonator
+2: Tunable fiber source of entangled UV-C and infrared photons
+3: Optimized multiphoton absorption measurements in nonlinear interferometers
+4: Tunable Fiber Source of Entangled Ultraviolet and Infrared Photons
+5: Wigner function tomography via optical parametric amplification
+6: Analysis of the signal measured in spectral-domain optical coherence tomography based on nonlinear interferometers
+7: Photon pairs bi-directionally emitted from a resonant metasurface
+
+Researcher B:
+1: Strategic interdependence and preferences for debt mutualization in the eurozone
+2: What Growth Strategies Do Citizens Want?
+3: Threats and solidarity in the Eurozone: how Italian and German citizens respond to information about Italexit
+4: Tying Your Hands and Getting Stuck? The European Origins of Italy's Economic Stagnation
+5: Who wants wage moderation? Trade exposure, export-led growth, and the irrelevance of bargaining structure
+6: " Die Ursache der Stagnation ist der Niedergang des lohngetriebenen Wachstums": Interview
+7: How should we think about modern capitalism? A growth models approach
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: Fourier approach to analyzing per capita income fluctuations in European history
+Main Objective (1-2 sentences): Income per capita goes through oscillatory changes in history in short time scales. A fourier analysis of these short coherences reveal the impact of unique events and their contributions to the overall trend in national economical growth.
+
+Research Question & Novel Results (2 points):
+1) Can a coherence picture capture the short time-scale oscillations of economic growth?
+2) The effective decay rates of the coherence of per-capita income trends reveal the impact of global events on individual finance in Europe.
+
+
+
+
+
+###################
+
+
+
+
+drug resistant mutant: A **drug-resistant mutant** is a variant of an organism (or a cancer cell) whose genome has changed so that the drug’s interaction with its target is reduced (or compensated for), giving that variant a **selective advantage** and allowing it to survive and proliferate under drug exposure.
+
+optical sensing: Optical sensing is the measurement of physical, chemical, or biological quantities by illuminating a system and inferring the measurand from how it modifies the light’s properties—such as intensity, phase, spectrum, polarization, or temporal coherence—via interactions like absorption, scattering, refraction, or emission.
+
+Two researchers A and B, with expertise in "drug resistant mutant" and "optical sensing" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Impact of crowding on the diversity of expanding populations
+2: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+3: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+4: Evolutionary rescue is promoted in compact cellular populations
+5: Mechano-evolution and drug resistance in compact populations
+
+Researcher B:
+1: Temporal self-compression and self-frequency shift of sub-mJ pulses at 8 MHz repetition rate
+2: Compact Yb fiber few-cycle pulse source based on precision pulse compression and shaping with an adaptive fiber Bragg grating
+3: Backward Rocket Propulsion of Particles Optically Trapped in Hollow-core Photonic Crystal Fiber
+4: Adaptively Controlled Sub-100 fs Yb Fiber Chirped Pulse Amplification System
+5: Temporal self-compression and self-frequency shift of sub-microjoule pulses at 8 MHz repetition rate
+6: Temporal Self-Compression and Self-Frequency Shift of Submicrojoule Pulses at a Repetition Rate of 8 MHz
+7: 7-octave high-brightness CEP-stable light source
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: Ultrafast laser treatment quickens evolutionary cycle for faster mutation screening 
+Main Objective (1-2 sentences): Pulsed lasers can expedite cell aging without inflicting damage on the natural cell cycle when tuned to the right pulse energy, frequency, and repetition rate. This leads to a faster turnover, enabling higher throughput of screening for mutation screening.
+
+Research Question & Novel Results (2 points):
+1) Can data throughput for mutation screening be expedited by pulsed laser treatment?
+2) By studying the optical response of the cells involved, the laser treatment properties can be tuned to promote cell propagation without inflicting damage, and therefore increasing throughput for biological research.
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Inter-Vortex Forward Brillouin Scattering by Chiral Phonons
+2: Optoacoustic cooling of traveling hypersound waves
+3: Guided Brillouin Interactions-from Optical Vortex Isolators to Extreme Thermodynamics
+4: Localizing Eavesdroppers Inside a Quantum Channel Using Stimulated Brillouin Scattering
+5: Inter-vortex forward Brillouin scattering by chiral flexural phonons in twisted photonic crystal fibre
+6: Order of Magnitude Increase in Storage Time of Brillouin-based Memory
+7: Implementation of an Optoacoustic Activation Function based on Stimulated Brillouin Scattering
+
+Researcher B:
+1: Quintic Dispersion Soliton Frequency Combs in a Microresonator
+2: Pure quintic dispersion microresonator frequency combs
+3: Spontaneous symmetry breaking of Kerr solitons in Fabry Perot Resonators
+4: Symmetry Broken Vectorial Kerr Frequency Combs for Fabry-P\'erot Resonators
+5: Symmetry Breaking in High-Q Silicon Nitride Resonators
+6: Long-Range "Talking" of Vector Solitons and their Synchronization in Fabry-Perot Resonators
+7: Multi-stage spontaneous symmetry breaking of light in Kerr ring resonators
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: Brillouin scattering as non-destructive readout of coupled Kerr solitons in Fabry Perot Resonators
+Main Objective (1-2 sentences): Brillouin scattering can provide information about the symmetry conservation of the source of phonons. It enables the read out of the quantum states of Kerr solitons in Fabry Perot Resonators without being a competing decay channel.
+
+Research Question & Novel Results (2 points):
+1) Can Brillouin scattering be used to characterize solitons in Fabry Perot Resonators?
+2) Brillouin scattering provides information about the state of Kerr solitons coupled to resonators.
+
+
+
+
+
+###################
+
+
+
+
+resistance evolution: Resistance evolution is the process by which a population under a selective pressure (e.g., antibiotics, pesticides, radiation) changes its genotype/phenotype distribution over generations so that variants with higher survival and reproduction under that pressure become more prevalent, increasing the population’s effective “resistance” to it.
+
+pseudovirus neutralization assay: A pseudovirus neutralization assay is an experiment that uses a replication-incompetent, engineered “decoy” virus displaying a target viral surface protein plus a measurable reporter signal to quantify how effectively antibodies (or sera) prevent the virus from entering cells, typically reported as an inhibitory concentration or dilution (e.g., IC50/ID50).
+
+Two researchers A and B, with expertise in "resistance evolution" and "pseudovirus neutralization assay" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+2: Impact of crowding on the diversity of expanding populations
+3: Evolutionary rescue is promoted in compact cellular populations
+4: Mechano-evolution and drug resistance in compact populations
+5: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+
+Researcher B:
+1: Unraveling Eumelanin Radical Formation by Nanodiamond Optical Relaxometry in a Living Cell
+2: Molekulare Pinzetten als Breitbandinhibitor viraler Infektionen
+3: Data-Mining Unveils Structure-Property-Activity Correlation of Viral Infectivity Enhancing Self-Assembling Peptides
+4: Peptide Bispecifics Inhibiting HIV-1 Infection by an Orthogonal Chemical and Supramolecular Strategy
+5: Cm-p5 Peptide Dimers Inhibit Biofilms of Candida albicans Clinical Isolates, C. parapsilosis and Fluconazole-Resistant Mutants of C. auris
+6: METHODS FOR STIMULUS-SENSITIVE ACTUATION OF NANOMEMBRANES AND DEVICES THEREFORE
+7: A Versatile and Efficient Method to Isolate DNA-Polymer Conjugates
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences): New pseudovirus successfully alters the resistance evolution of a cell population 
+
+Research Question & Novel Results (2 points):
+1) Can a lab designed virus alter the preference for evolutionary trait against drugs
+2) Virus can be chemically modified in a systematic manner to select which preferred trait survives cell population evolution.
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Wigner function tomography via optical parametric amplification
+2: Quantifying optical rogue waves
+3: Multi-photon electron emission with non-classical light
+4: Crystal superlattices for versatile and sensitive quantum spectroscopy
+5: Classical model of spontaneous parametric down-conversion
+6: Photon pairs bi-directionally emitted from a resonant metasurface
+7: Spontaneous Parametric Down-Conversion Beaming from a Lithium Niobate Nanostructured Resonator
+
+Researcher B:
+1: Localizing Eavesdroppers Inside a Quantum Channel Using Stimulated Brillouin Scattering
+2: Eavesdropper localization for quantum and classical channels via nonlinear scattering
+3: Measuring higher-order photon correlations of faint quantum light: a short review
+4: QUBE-II-Quantum Key Distribution with a CubeSat
+5: Integrated Photonics for Quantum Communication on a Cubesat
+6: QUBE-Towards Quantum Key Distribution with Small Satellites
+7: Phase-locking an interferometer with single-photon detections
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences): SPDC based on defects in metasurfaces are integrated into satellites. This allows for QKD protocols across the earth.
+
+Research Question & Novel Results (2 points):
+1) Can QKD protocol be implemented with high security across two SPDC emitters in satellites?
+2) The integration of these metasurfaces in a compact and environmental robust manner enables successful QKD implementations in satellites orbiting the Earth.
+
+
+
+
+
+###################
+

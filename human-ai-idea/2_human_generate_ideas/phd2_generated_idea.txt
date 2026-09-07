@@ -1,0 +1,239 @@
+
+Project Title: Field-resolved isotope dynamics
+Main Objective (1-2 sentences): Use field measurements to interrogate and extend typical fine-structure measurements. Research Question & Novel Results (2 points):
+1.	Does performing fieldoscopy measurements provide an advantage over standard isotope-shift spectroscopy measurements?
+2.	Using time-domain measurements, we could gain access to the dynamics of the nucleus and test atomic theory.
+
+################### 2
+
+Project Title: Nonlinear diffractive quantum neural network
+Main Objective (1-2 sentences): Realize a quantum neural network with the architecture of a diffractive neural network. Nonlinearity comes from a nonlinear metasurface.
+
+Research Question & Novel Results (2 points):
+
+1.	Can diffractive neural networks be used for quantum tasks?
+2.	Diffractive neural networks possess many degrees of freedom, these could be exploited to solve complex tasks.
+
+################### 3
+
+Project Title: Evolutionary rescue in prehistorical human-environment systems
+Main Objective (1-2 sentences): Study and extract strategies developed by humans in the past that led to evolutionary rescue. Research Question & Novel Results (2 points):
+1.	When has humanity been threatened by harsh conditions in the past and how did they overcome them.
+2.	Can some of these strategies be applied now?
+
+################### 4
+
+Project Title: Viral infection dynamics in regenerative spiny mouse
+Main Objective (1-2 sentences): Here we want to study how the host cell infection spread dynamics change in an environment where cells can be regenerated.
+
+Research Question & Novel Results (2 points):
+
+1.	Is viral spread affected detrimentally due to cells being regenerated?
+2.	Multi-color super resolution techniques could be used to reveal these dynamics, leading to a potential development of new treatment techniques
+
+################### 5
+
+Project Title: Internet on animals and molecular vibrations: What biologging and spectroscopy have in common.
+Main Objective (1-2 sentences): Recent results on biologging techniques show that animal colonies, specially geese, behave in the same way as molecules when they vibrate. Establishing this relationship is crucial to opening the key to the universe.
+
+Research Question & Novel Results (2 points):
+
+1.	Can the macro world and micro-, nano-, ato-, world be connected?
+2.	Are they all the same? What are the geese trying to tell us?
+
+################### 6
+
+Project Title: Biped muscle inverse design: Applying evolutionary algorithms to extract traits that lead to biped locomotion,
+Main Objective (1-2 sentences): Use evolutionary algorithms inspired by natural selection to identify design traits that lead to robust walking. Research Question & Novel Results (2 points):
+1.	Which combination of muscle arrangements lead to bipedality?
+2.	What are the common traits that we could keep to continue improving robot design.
+
+################### 7
+ 
+Project Title: Quantum probes for genetic regulation
+Main Objective (1-2 sentences): Develop quantum probes e.g. entangled photons to study genetic regulation dynamics. Research Question & Novel Results (2 points):
+1.	Studying ADN to RNA transcription with quantum probes leads to non-invasive, robust and lower noise studies.
+2.	Applying these studies on algae populations to further understand their genetic regulation mechanisms
+
+################### 8
+
+Project Title: Ultrafast-compressed sensing of spiny mouse regenerative cells.
+Main Objective (1-2 sentences): Use femtosecond laser pulses at 1030nm to analyse spiny mouse cells, allowing to understand key moments in their regenerative processes.
+
+Research Question & Novel Results (2 points):
+
+1.	Can electric field sampling techniques be used as label-free, non-invasive methods for studying cells?
+2.	Can the femtosecond pulses' power be used to selectively drive lesions and regeneration of the cells?
+
+################### 9
+
+Project Title: Femtosecond extreme learning machine for knowledge graph acceleration
+Main Objective (1-2 sentences): Realize an extreme learning machine with femtosecond pulses that is able to perform analog search operations Research Question & Novel Results (2 points):
+1.	Use femtosecond pulses to generate numerical representations and embeddings of graphs.
+2.	Can this type of neuromorphic implementation be used to outperform digital architectures
+
+################### 10
+
+Project Title: THz time domain spectroscopy applied to soil transformations
+Main Objective (1-2 sentences): Apply time domain spectroscopy to characterize different soil samples, linking spectroscopic signatures to particular soil transformations.
+
+Research Question & Novel Results (2 points):
+
+1.	Build a library of THz spectra from soil samples to enable rapid and non-destructive reconstruction of land use
+2.	How do different soil use factors correlate to electromagnetic responses?
+
+################### 11
+
+Project Title: Correlation of molecules and cell structures, a super resolution and cryo-ET approach
+Main Objective (1-2 sentences): Link molecular positions to cell structures to uncover molecular assembly strategies. Research Question & Novel Results (2 points):
+1.	How does the nanoscale organization of molecules affect ceullar structures.
+2.	Can super resolution fluorescence reveal previously unseen structural arrangements?
+
+################### 12
+
+Project Title: Single photon for probing gene regulation..
+Main Objective (1-2 sentences): Apply single photons to induce changes in typical gene regulation receptors Research Question & Novel Results (2 points):
+1.	Are gene regulation receptors sensible to single photons?
+2.	Is this response different from that of classical light?
+
+############################################ 13
+
+Project Title: Extracellular RNA and behavioural change
+Main Objective (1-2 sentences): Integrate extraceullar RNA measurements with psychological assesments to track personality traits. Research Question & Novel Results (2 points):
+1.	Does extraceullar RNA indicate traits or psychological patterns?
+ 
+2.	Can this be used to forecast future personality traits?
+
+################### 14
+
+Project Title: Real time mapping with coherent tomography of an spiny mouse injured spinal cord
+Main Objective (1-2 sentences): Use coherent tomography methods to track the regeneration of a spiny mouse's spinal cord Research Question & Novel Results (2 points):
+1.	Does the regeration process show any particular signature during the tomopgrahy process?
+2.	Obtain a 3D representation of the spinal chord.
+
+################### 15
+
+Project Title: Creating Black Hole Analogues with Femtosecond Laser Pulses
+Main Objective (1-2 sentences): Use ultra-short laser pulses in optical media to mimic black hole horizons. Study horizon-like effects, such as photon emission, in a lab setting.
+
+Research Question & Novel Results (2 points):
+
+1.	Can laser pulses create optical event horizons that mimic black hole physics?
+2.	How do pulse properties affect photon emission and energy flow near these horizons?
+
+###################
+
+Project Title: Evaluating the Mortality Impact of Antiviral Drugs
+Main Objective (1-2 sentences): Measure the impact of applied antiviral drugs and how they can shift or impact excess mortality trends Research Question & Novel Results (2 points):
+1.	Predict and estimate reductions of mortality rates for different demographics and scenarios
+2.	Can a prediction be made about which % of the population needs to receive a specific treatment for favorable pandemic scenarios.
+
+###################
+
+Project Title: Cross-polarized optical imaging of spinal cord injury
+Main Objective (1-2 sentences): Develop a non-invasive cross polarization imaging technique specific for spinal cord injury and recovery. Research Question & Novel Results (2 points):
+1.	Can cross polarization techniques be used to determine and quantify successful injured spinal cord treatments
+2.	In-vivo tracking?
+
+###################
+
+Project Title: How metabolism shapes brain cell adaptation
+Main Objective (1-2 sentences): determine how metabolic stress influences which cell states expand, survive, or decline in diseased brain tissue. Research Question & Novel Results (2 points):
+1.	Do changes in cholesterol metabolism create selective triggers that favor brain tissue expansion?
+2.	Can certain diets influence brain tissue development?
+
+###################
+
+Project Title: Ultrafast pulses for Sars-cov inaction
+Main Objective (1-2 sentences): Investigate wether ultrafast, ultrashort laser pulses can be used to inactivate covid without damaging other biological tissue
+
+Research Question & Novel Results (2 points):
+
+1.	Develop a light-based antiviral treatment
+2.	What is the underlying mechanism that enables the deactivation of viruses with light.
+
+###################
+
+Project Title: Mapping molecular vibrations in living cells
+Main Objective (1-2 sentences): Integrate field resolved spectroscopy with super resolution microscopy Research Question & Novel Results (2 points):
+1.	Create a correlation between specific vibrational fingerprints and super resolution images
+2.	Investigate further cell dynamics
+
+###################
+
+Project Title: Adaptive control of quantum optical systems
+Main Objective (1-2 sentences): Apply active inference as a control system to enable self-optimizing quantum light sources Research Question & Novel Results (2 points):
+1.	Can we dynamically tune our light source's parameters to reduce uncertainty?
+2.	Discover new strategies for quantum state generation
+
+###################
+ 
+Project Title: RNA Auditory improvement
+Main Objective (1-2 sentences): develop specific RNA binding molecules for improving the human auditory system Research Question & Novel Results (2 points):
+1.	Can RNA proteins be develop such that they improve the human ear?
+2.	Can these RNA proteins detect and amplify specific audio patterns?
+
+###################
+
+Project Title: Gene expression under quantum light
+Main Objective (1-2 sentences): Use entangled, quantum light to probe gene expression. Research Question & Novel Results (2 points):
+1.	Does using quantum light sources for imaging provide a noticeable advantage over standard imaging methods for studying gene expression?
+2.	Can quantum probe reveal rare gene expression events?
+
+###################
+
+Project Title: Historical overview of quantum optics and migration waves
+Main Objective (1-2 sentences): Connect all the different socio, geo, political conditions which led to forced migration and the development of quantum optics
+
+Research Question & Novel Results (2 points):
+
+1.	How does force migration affect the development of science?
+2.	Which social conditions are required for a healthy scientific environment
+
+###################
+
+Project Title: Evolutionary rescue of three monkeys
+Main Objective (1-2 sentences): Case study on how a whole species of monkeys could be saved from extinction Research Question & Novel Results (2 points):
+1.	Highlight the dangers of hunting and its impact on local monkey populations
+2.	What makes these monkeys so special that we only need three of them to save the whole species?
+
+###################
+
+Project Title: Mapping spacial organization of crystals with fourier transform spectroscopy
+Main Objective (1-2 sentences): combine Fourier transform spectroscopy with spatial correlation analysis to reveal specific crystal arrangement structures
+Research Question & Novel Results (2 points):
+
+1.	How can fourier spectroscopy be able to resolve crystal formation effects with high precision
+2.	Which resolution is needed?
+
+###################
+
+Project Title: Ultrashort pulses for historical sampling
+Main Objective (1-2 sentences): Apply ultrashort pulses on historical samples e.g. paintings to determine their composition, age, etc. Research Question & Novel Results (2 points):
+1.	Can ultrashort laser pulses extract DNA or molecular signatures from delicate historical samples without causing damage?
+2.	Which sort of frequencies, power, etc. can be used to probe historical samples?
+
+###################
+
+Project Title: Tracking drug resistance with optical coherence tomography
+Main Objective (1-2 sentences): Use OCT imaging to non-invasively monitor structural changes in tissues or tumors as drug resistance evolves in real time.
+
+Research Question & Novel Results (2 points):
+
+1.	Can OCT detect signatures in tissues that indicate drug resistantance?
+ 
+2.	How does tissue formation correlate to drug resistance?
+
+###################
+
+Project Title: Evolutionary rescue with inverse design
+Main Objective (1-2 sentences): Devleop inverse design strategies to develop microstrucutres which favour evolutionary rescue Research Question & Novel Results (2 points):
+1.	Can inverse designed microstructures enables favourable cell growth?
+2.	How do different spatial contraints influence favourable mutation?
+
+###################
+
+Project Title: Predicting Tissue Regeneration in Spiny Mice Using Machine Learning
+Main Objective (1-2 sentences): Apply machine learning to uncover celullar features which lead to tissue regeneration Research Question & Novel Results (2 points):
+1.	Can a machine learning model be created in order to predict wether tissue will be regenerated or not?
+2.	Uncover tissue properties which lead to successful healing.

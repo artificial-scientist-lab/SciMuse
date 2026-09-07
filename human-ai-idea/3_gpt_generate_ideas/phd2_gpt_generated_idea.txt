@@ -1,0 +1,1576 @@
+# GPT outputs for phd2
+# Source: questions_phd2.txt
+# Delimiter: ###################
+
+### PIECE 1
+###################
+### PROMPT
+electric field: An electric field **\( \mathbf{E}(\mathbf{r},t) \)** is a vector field defined as the **force per unit positive test charge** at each point in space and time, \( \mathbf{E} = \mathbf{F}/q \), equivalently the field sourced by charge (and time-varying magnetic fields) that enters Maxwell’s equations and determines electromagnetic forces on charges.
+
+isotope shift spectroscopy: Isotope shift spectroscopy is the measurement of tiny isotope-dependent differences in atomic or molecular transition frequencies—arising from changes in nuclear mass (mass shift) and nuclear charge distribution (field shift)—to extract information about nuclear structure and to test atomic theory.
+
+Two researchers A and B, with expertise in "electric field" and "isotope shift spectroscopy" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+2: Time-domain Compressed Sensing
+3: Method and apparatus for creating a microscopic sample image of a molecular vibrational response of a sample
+4: Speeding up Field-Resolved Spectroscopy by Compressed Sensing
+5: Recent advances in petahertz electric field sampling
+
+Researcher B:
+1: Oscillator-strength ratio of two Fe XVII soft X-ray transitions essential for plasma diagnostics finally agrees with theory
+2: Challenging Beyond-the-Standard-Model Solutions to the Fine-Structure Anomaly in Heavy Muonic Atoms
+3: Evidence against nuclear polarization as source of fine-structure anomalies in muonic atoms
+4: Testing standard-model extensions with isotope shifts in few-electron ions
+5: Access to the kaon radius with kaonic atoms
+6: Testing Standard Model extensions with few-electron ions
+7: Comment on" Nuclear Excitation by Free Muon Capture"
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Petahertz Electric-Field–Resolved Laser Spectroscopy of Highly Charged Ions for Next-Generation Isotope-Shift Tests of New Physics**
+
+Main Objective (1-2 sentences):  
+Develop a petahertz, time-domain (field-resolved) laser spectroscopy platform—accelerated by compressed sensing—to measure isotope shifts in few-electron highly charged ions with unprecedented control of the driving electric field and systematic uncertainties. Use these measurements to extract nuclear charge radii and constrain beyond-the-Standard-Model (BSM) forces in regimes where relativistic and QED effects are strongly enhanced.
+
+Research Question & Novel Results (2 points):  
+1) **Can phase-stable, waveform-controlled petahertz electric fields suppress or calibrate dominant systematic errors (AC Stark shifts, line pulling, transient fields) enough to enable isotope-shift measurements in highly charged ions at a sensitivity competitive with or surpassing muonic-atom constraints?**  
+2) **Do isotope-shift King-plot nonlinearities in few-electron ions persist (or change predictably) under precisely characterized ultrafast driving fields, allowing a clean separation of nuclear field shift, mass shift, and potential BSM contributions (e.g., new short-range bosons coupled to neutrons/electrons)?**
+
+###################
+
+### PIECE 2
+###################
+### PROMPT
+nonlinear metasurfaces: Nonlinear metasurfaces are optically thin, subwavelength-patterned interfaces made of nonlinear materials that locally tailor light–matter interactions so that the output field can change frequency and waveform (e.g., via harmonic generation or mixing) with engineered, spatially varying amplitude/phase/polarization control.
+
+long range: In physics, “long range” denotes an interaction or correlation whose strength decays so slowly with distance (often as a power law, e.g., \(\sim 1/r^\alpha\) with small \(\alpha\)) that it remains significant over distances much larger than microscopic scales and can make distant parts of a system strongly coupled (often leading to nonlocal or size-dependent behavior).
+
+Two researchers A and B, with expertise in "nonlinear metasurfaces" and "long range" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Wigner function tomography via optical parametric amplification
+2: Quantifying optical rogue waves
+3: Multi-photon electron emission with non-classical light
+4: Crystal superlattices for versatile and sensitive quantum spectroscopy
+5: Classical model of spontaneous parametric down-conversion
+6: Photon pairs bi-directionally emitted from a resonant metasurface
+7: Spontaneous Parametric Down-Conversion Beaming from a Lithium Niobate Nanostructured Resonator
+
+Researcher B:
+1: Localizing Eavesdroppers Inside a Quantum Channel Using Stimulated Brillouin Scattering
+2: Eavesdropper localization for quantum and classical channels via nonlinear scattering
+3: Measuring higher-order photon correlations of faint quantum light: a short review
+4: QUBE-II-Quantum Key Distribution with a CubeSat
+5: Integrated Photonics for Quantum Communication on a Cubesat
+6: QUBE-Towards Quantum Key Distribution with Small Satellites
+7: Phase-locking an interferometer with single-photon detections
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Long‑Range Nonlinear Metasurface “Tap” for In‑Line Quantum‑Channel Diagnostics and Eavesdropper Localization**
+
+Main Objective (1-2 sentences):  
+Develop an optically thin nonlinear metasurface that performs engineered parametric frequency conversion on faint quantum signals, creating a controllable, nonlocal (long‑range) scattering signature that enables distributed monitoring and localization of perturbations/eavesdroppers along fiber or free‑space quantum links without destroying the transmitted quantum state.
+
+Research Question & Novel Results (2 points):  
+1) **Can a resonant SPDC/OPA metasurface be designed to imprint a tunable, phase‑coded nonlinear idler/second‑harmonic “beacon” whose correlations remain measurable over long distances, enabling eavesdropper localization from higher‑order photon statistics rather than direct signal interception?**  
+2) **What are the fundamental limits (added noise, disturbance, range scaling, and security impact) of metasurface‑induced frequency mixing as a long‑range sensing mechanism in QKD channels, and can optimized spatial phase/polarization profiles outperform stimulated Brillouin–based localization in sensitivity and stealth?**
+
+###################
+
+### PIECE 3
+###################
+### PROMPT
+evolutionary rescue: Evolutionary rescue is when a population facing rapid environmental change avoids extinction because natural selection (often acting on pre‑existing genetic variation or new mutations) increases the frequency of traits that restore positive population growth before numbers fall to zero.
+
+human environment interaction: Human–environment interaction is the coupled, feedback-driven dynamical system in which human activities alter environmental states (e.g., via energy/material fluxes and land-use changes) and those altered environmental conditions in turn constrain and reshape human behavior, health, and societies.
+
+Two researchers A and B, with expertise in "evolutionary rescue" and "human environment interaction" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Impact of crowding on the diversity of expanding populations
+2: Evolutionary rescue is promoted in compact cellular populations
+3: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+4: Mechano-evolution and drug resistance in compact populations
+5: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+
+Researcher B:
+1: Uniformity and Diversity in Handaxe Shape at the End of the Acheulean in Southwest Asia
+2: Replicability in Lithic Analysis
+3: Evaluating possible prehistoric cave art in the central Mediterranean: Analyses of pigment traces and identification of taphonomic processes at Ghar Hasan, Malta
+4: A climatic evaluation of the southern dispersal route
+5: Reply to:'No direct evidence for the presence of Nubian Levallois technology and its association with Neanderthals at Shukbah Cave'
+6: Geometric morphometric analyses of Levallois points from the Levantine Middle Paleolithic do not support functional specialization
+7: Reply to: Accurate population proxies do not exist between 11.7 and 15 ka in North America
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Evolutionary Rescue of Human Technologies: A Spatial Eco‑Evolutionary Model of Paleolithic Toolkits Under Rapid Climate Shifts**
+
+Main Objective (1-2 sentences):  
+Develop and test a quantitative framework that treats stone‑tool traditions as spatially expanding “populations” of cultural variants subject to environmental change, asking when innovation and transmission can “rescue” human groups from demographic collapse. The project will integrate A’s compact-population evolutionary rescue theory with B’s high-resolution lithic morphometrics and paleoclimate/dispersal reconstructions.
+
+Research Question & Novel Results (2 points):  
+1) **Under what combinations of climate-driven habitat loss, group density, and dispersal geometry (e.g., corridor vs patchy refugia) does cultural “evolutionary rescue” predictably occur, and do these regimes match observed bursts/shifts in Levallois and late Acheulean shape diversity across Southwest Asia?**  
+2) **Do spatial-front dynamics (range-edge expansion vs core stability) generate distinctive, testable signatures in tool-shape variance and replicability—analogous to mutation–selection balance in compact biological populations—and can these signatures distinguish adaptive innovation from drift or taphonomic filtering in archaeological assemblages?**
+
+###################
+
+### PIECE 4
+###################
+### PROMPT
+host cell infection: Host cell infection is the process by which a pathogen (such as a virus or bacterium) attaches to a susceptible cell, crosses or bypasses its membrane barriers, and then hijacks or perturbs the cell’s molecular machinery to replicate itself and spread.
+
+spiny mouse: A spiny mouse (genus *Acomys*) is a small rodent notable in biology for its unusually advanced regenerative ability—able to shed and regrow skin and repair tissues with reduced scarring—making it a key mammalian model for studying the mechanisms of wound healing and tissue regeneration.
+
+Two researchers A and B, with expertise in "host cell infection" and "spiny mouse" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+2: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+3: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+4: Small molecule inhibitors of mammalian glycosylation
+5: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+6: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+7: Fluorophores' talk turns them dark
+
+Researcher B:
+1: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+2: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+3: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+4: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+5: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Spatiotemporal Mapping and Control of Viral Entry During Scarless Repair in the Spiny Mouse**
+
+Main Objective (1-2 sentences):  
+Leverage super-resolution imaging and micrometer–millisecond “paintbrush” delivery to visualize and perturb host-cell infection pathways in regenerating *Acomys* tissues, aiming to identify infection vulnerabilities and protective mechanisms unique to scarless healing.
+
+Research Question & Novel Results (2 points):  
+1) **Do regenerating spiny mouse tissues transiently reprogram cell-surface RNA–protein/glycoRNA domains (and glycosylation states) in ways that enhance or suppress viral attachment and entry compared to non-regenerating mammals?**  
+2) **Can precisely timed, localized modulation of glycosylation or entry-factor accessibility (via nanoparticle/small-molecule microdelivery) causally shift infection outcomes in vivo during defined stages of spiny mouse wound healing and spinal cord regeneration?**
+
+###################
+
+### PIECE 5
+###################
+### PROMPT
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Time-domain Compressed Sensing
+2: Method and apparatus for creating a microscopic sample image of a molecular vibrational response of a sample
+3: Speeding up Field-Resolved Spectroscopy by Compressed Sensing
+4: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+5: Recent advances in petahertz electric field sampling
+
+Researcher B:
+1: An automated approach for counting groups of flying animals applied to one of the world's largest bat colonies
+2: Accelerometer-based detection of African swine fever infection in wild boar
+3: The Internet of Animals: what it is, what it could be
+4: A multi-species evaluation of digital wildlife monitoring using the Sigfox IoT network
+5: Wild goose chase: Geese flee high and far, and with aftereffects from New Year's fireworks
+6: Internet on animals: Wi-Fi-enabled devices provide a solution for big data transmission in biologging
+7: Gaining proficiency in flight transforms energy landscapes during ontogeny
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Petahertz-Enabled “Internet of Animals”: Compressed-Sensing Field-Resolved Spectroscopy for Noninvasive Wildlife Health and Stress Monitoring**
+
+Main Objective (1-2 sentences):  
+Develop a lightweight, low-power biosensing platform that uses compressed-sensing, time-domain/field-resolved spectroscopy principles to infer physiological stress and infection signatures in free-ranging animals, and transmit only the most informative features over wildlife IoT networks.
+
+Research Question & Novel Results (2 points):  
+1) **Can compressed-sensing time-domain spectroscopy recover reliable biochemical/physiological “fingerprints” (e.g., stress hormones, hydration/thermoregulation proxies, inflammation markers) from sparse measurements compatible with wearable, battery-limited biologgers?**  
+2) **Do spectroscopic signatures fused with accelerometry and movement ecology data enable earlier and more specific detection of events like infection (e.g., ASF in wild boar) or acute stressors (e.g., fireworks disturbance) than current activity-only models, while minimizing data transmission via Sigfox/Wi‑Fi “edge” compression?**
+
+###################
+
+### PIECE 6
+###################
+### PROMPT
+natural selection: Natural selection is the population-level mechanism by which heritable variations that increase an organism’s reproductive success in a given environment tend to grow in frequency over generations, shifting the distribution of traits much like a biased sampling process acting on a stochastic source of variation.
+
+robust locomotion: Robust locomotion is the ability of a moving agent (animal or robot) to maintain stable, controllable motion and achieve its task despite disturbances and uncertainties—such as uneven terrain, impacts, noise, or modeling errors—by exploiting feedback, dynamics, and mechanical/energetic margins.
+
+Two researchers A and B, with expertise in "natural selection" and "robust locomotion" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Impact of crowding on the diversity of expanding populations
+2: Evolutionary rescue is promoted in compact cellular populations
+3: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+4: Mechano-evolution and drug resistance in compact populations
+5: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+
+Researcher B:
+1: 'Virtual pivot point' in human walking: Always experimentally observed but simulations suggest it may not be necessary for stability
+2: Questions around the catapult mechanism in human legged locomotion
+3: BirdBot achieves energy-efficient gait with minimal control using avian-inspired leg clutching
+4: Data for BirdBot Achieves Energy-Efficient Gait with Minimal Control Using Avian-Inspired Leg Clutching
+5: Muscle prestimulation tunes velocity preflex in simulated perturbed hopping
+6: Robot leg and robotic system
+7: Learning plastic matching of robot dynamics in closed-loop central pattern generators: data
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Evolving Robust Locomotion: Natural Selection on Mechanical “Preflex” Strategies Under Terrain Disturbance**
+
+Main Objective (1-2 sentences):  
+Develop an experimental–computational framework where populations of locomotion controllers and leg morphologies evolve under controlled disturbance “landscapes,” to identify which heritable design features reliably increase stability, efficiency, and task success. The project will connect population-expansion/selection dynamics to the emergence of low-control, mechanically robust gait strategies (e.g., clutching, prestimulation, virtual pivot-like behaviors).
+
+Research Question & Novel Results (2 points):  
+1) **How do spatial structure and expansion-like dynamics (e.g., colonizing new terrain patches) bias which locomotion traits are “selected,” and can we predict when robust strategies win due to drift/sectoring versus true performance advantages?**  
+2) **Which mechanically embedded feedback (“preflex” margins such as leg clutching or tuned muscle prestimulation) are most evolutionarily accessible—i.e., emerge fastest and most reliably—under different disturbance regimes, and do they reduce the need for higher-level control while preserving stability?**
+
+###################
+
+### PIECE 7
+###################
+### PROMPT
+quantum state: A quantum state is the complete mathematical specification (e.g., a normalized vector in a Hilbert space or, more generally, a density operator) that encodes all physically accessible information about a system, determining the probability distributions for outcomes of all possible measurements and its subsequent unitary evolution.
+
+gene expression: Gene expression is the regulated process by which the information encoded in a gene’s DNA sequence is transcribed into RNA and often translated into protein, thereby converting a static genetic “blueprint” into functional molecules that determine a cell’s behavior.
+
+Two researchers A and B, with expertise in "quantum state" and "gene expression" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Crystal superlattices for versatile and sensitive quantum spectroscopy
+2: Collectively Enhanced Giant Circular Dichroism of Germanium Nanohelix Square Lattice Arrays
+3: Tunable fiber source of entangled UV-C and infrared photons
+4: Photon pairs bi-directionally emitted from a resonant metasurface
+5: Quantifying optical rogue waves
+6: Analysis of the signal measured in spectral-domain optical coherence tomography based on nonlinear interferometers
+7: Resonant metasurfaces for generating complex quantum states
+
+Researcher B:
+1: Selection drives convergent gene expression changes during transitions to co-sexuality in haploid sexual systems
+2: Evolutionary dynamics of sex-biased gene expression in a young XY system: insights from the brown alga genus Fucus
+3: Examples of bioanalysis activities on the ABiMS (Analysis and Bioinformatic for Marine Science) platform
+4: Mechanisms of Intrinsic Postzygotic Isolation: From Traditional Genic and Chromosomal Views to Genomic and Epigenetic Perspectives
+5: Genetic Regulation of Brown Algal Life Cycles: Development and Evolutionary Transcriptomic Surveys
+6: Red macroalgae in the genomic era
+7: Scarlet tide: the first report of sex chromosomes in red algae
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Quantum-Enhanced Circular Dichroism Spectroscopy to Read Out Chromatin and Epigenetic State in Marine Algae**
+
+Main Objective (1-2 sentences):  
+Develop a metasurface- and entangled-photon–based circular dichroism/optical activity platform to non-destructively measure chiral signatures of DNA–protein packaging and associated regulatory states, and link these optical signatures to transcriptome-wide gene expression patterns across algal life-cycle and sex transitions.
+
+Research Question & Novel Results (2 points):  
+1) Can quantum-light illumination (entangled UV–IR photon pairs) combined with resonant chiral metasurfaces detect subtle, label-free changes in chromatin compaction/epigenetic remodeling that correlate with convergent gene expression shifts during transitions to co-sexuality?  
+2) Do sex-biased gene expression programs in emerging algal sex chromosome systems produce distinct, measurable chiroptical “fingerprints” at the nucleoprotein level (e.g., nucleosome organization), enabling a new optical phenotype for studying regulatory evolution and postzygotic isolation mechanisms?
+
+###################
+
+### PIECE 8
+###################
+### PROMPT
+light matter interaction: Light–matter interaction is the set of processes by which electromagnetic fields couple to the charges and currents in materials—driving excitation and polarization and resulting in absorption, emission, scattering, and dispersion as governed by Maxwell’s equations and quantum transition dynamics.
+
+spiny mouse: A “spiny mouse” refers to certain *Acomys* species whose skin and tissue biomechanics (notably easily tearing skin, rapid wound closure, and unusually robust regeneration of skin, hair follicles, and cartilage) make them a mammalian model system for studying regenerative healing and scar suppression.
+
+Two researchers A and B, with expertise in "light matter interaction" and "spiny mouse" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Speeding up Field-Resolved Spectroscopy by Compressed Sensing
+2: Recent advances in petahertz electric field sampling
+3: Time-domain Compressed Sensing
+4: Method and apparatus for creating a microscopic sample image of a molecular vibrational response of a sample
+5: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+
+Researcher B:
+1: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+2: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+3: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+4: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+5: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Field-Resolved Femtosecond Laser “Regeneration Windows” in Spiny Mouse Skin: Linking Ultrafast Light–Tissue Dynamics to Scarless Healing**
+
+Main Objective (1-2 sentences):  
+Identify and control ultrafast (fs–ps) light–matter interaction regimes in *Acomys* skin that trigger pro-regenerative, low-scar wound responses, using field-resolved spectroscopy and compressed-sensing-enabled imaging during and after femtosecond laser exposure.
+
+Research Question & Novel Results (2 points):  
+1) **Which measurable field-resolved signatures (e.g., nonlinear polarization dynamics, transient dispersion/absorption, vibrational response) predict whether femtosecond irradiation produces regenerative vs fibrotic healing in spiny mouse tissue?**  
+2) **Can temporally shaped pulse trains (optimized via compressed sensing/closed-loop control) steer deep-tissue nonlinear dynamics to selectively modulate ECM mechanics and inflammation, yielding a reproducible “optical recipe” for scar suppression and enhanced appendage/cartilage regeneration?**
+
+###################
+
+### PIECE 9
+###################
+### PROMPT
+short laser pulse: A short laser pulse is a temporally confined burst of coherent electromagnetic radiation whose duration is so brief (typically picoseconds to femtoseconds) that it implies a correspondingly broad optical spectrum by the time–bandwidth uncertainty relation.
+
+navigation system: A navigation system is a measurement-and-estimation framework that fuses sensor data (e.g., inertial, GNSS, magnetic, visual) with a dynamical model to continuously infer an object’s state—position, velocity, and attitude—in a chosen reference frame, typically via filtering/optimization to manage noise and uncertainty.
+
+Two researchers A and B, with expertise in "short laser pulse" and "navigation system" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+2: Speeding up Field-Resolved Spectroscopy by Compressed Sensing
+3: Method and apparatus for creating a microscopic sample image of a molecular vibrational response of a sample
+4: Time-domain Compressed Sensing
+5: Recent advances in petahertz electric field sampling
+
+Researcher B:
+1: Logic Mill--A Knowledge Navigation System
+2: Logic Mill-A Knowledge Navigation System, arXiv preprint 2301.00200
+3: Filling the Gap: The Consequences of Collaborator Loss in Corporate R&D
+4: New options for patenting in Europe
+5: Modelling the Large and Dynamically Growing Bipartite Network of German Patents and Inventors, arXiv preprint 2201.09744
+6: Profiting from Data Commons: Theory, Evidence, and Strategy Implications
+7: Modelling the large and dynamically growing bipartite network of German patents and inventors
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**PulseNav: Compressed-Sensing, Field-Resolved Ultrafast Laser Signatures for High-Integrity Navigation and Provenance**
+
+Main Objective (1-2 sentences):  
+Develop a navigation-like estimation framework that uses compressed sensing to infer and track ultrafast, field-resolved laser–matter interaction “signatures” (spectral-temporal fingerprints) for robust material identification and measurement integrity in real time.
+
+Research Question & Novel Results (2 points):  
+1) **Can a state-space filtering/optimization approach (borrowed from navigation) jointly estimate ultrafast electric-field waveforms and sample parameters from sparsely sampled time-domain measurements, enabling faster field-resolved spectroscopy without sacrificing accuracy?**  
+2) **Can “integrity monitoring” concepts from navigation (fault detection/exclusion, uncertainty bounds) be adapted to detect model mismatch or tissue-induced nonlinearities in femtosecond laser interactions, producing provably reliable fingerprints for deep-tissue sensing and instrument provenance?**
+
+###################
+
+### PIECE 10
+###################
+### PROMPT
+time domain spectroscopy: Time-domain spectroscopy measures a material’s response to a short, well-defined excitation pulse (often an ultrafast optical or THz pulse) as a function of time and then Fourier-transforms that temporal signal to obtain its frequency-dependent absorption, refractive index, or conductivity.
+
+natural landscape: A **natural landscape** is a region-scale configuration of Earth’s surface shaped predominantly by **natural processes** (e.g., tectonics, erosion, hydrology, and ecology), whose structure and evolution can be treated as the **spatiotemporal outcome of coupled nonlinear dynamical systems** driven by energy and mass fluxes, with minimal direct human alteration.
+
+Two researchers A and B, with expertise in "time domain spectroscopy" and "natural landscape" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Speeding up Field-Resolved Spectroscopy by Compressed Sensing
+2: Recent advances in petahertz electric field sampling
+3: Time-domain Compressed Sensing
+4: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+5: Method and apparatus for creating a microscopic sample image of a molecular vibrational response of a sample
+
+Researcher B:
+1: Assessing changes in global fire regimes
+2: The legacy of 1300 years of land use in Jamaica
+3: Charcoal abundance measurements are affected by freeze-drying
+4: Evidence confirms an anthropic origin of Amazonian Dark Earths
+5: The curse of conservation: empirical evidence demonstrating that changes in land-use legislation drove catastrophic bushfires in southeast Australia
+6: Fire in the clouds: How changing land use shaped an Andean biodiversity hotspot
+7: Developing Transdisciplinary Approaches to Sustainability Challenges: The Need to Model Socio-Environmental Systems in the Longue Duree
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Field-Resolved THz Time‑Domain Spectroscopy of Pyrogenic Carbon to Reconstruct Fire Regimes and Land‑Use Legacies**
+
+Main Objective (1-2 sentences):  
+Develop a non-destructive, physics-based “spectral fingerprint” method using THz/ultrafast time-domain spectroscopy (with compressed sensing) to rapidly quantify charcoal/pyrogenic carbon properties in soils and sediments, linking microscopic combustion signatures to landscape-scale fire and land-use histories.
+
+Research Question & Novel Results (2 points):  
+1) **Can field-resolved THz time-domain spectra uniquely separate pyrogenic carbon formed under different fire intensities, fuel types, and oxygen/moisture conditions, enabling a new calibration between spectral features and combustion regime?**  
+2) **Do spectroscopically inferred charcoal properties (e.g., aromaticity/graphitization, conductivity proxies, moisture binding) reveal distinguishable signatures of anthropogenic land-use (e.g., Amazonian Dark Earth formation, legislative-driven burning shifts) versus climate-driven fire variability across regions and time?**
+
+###################
+
+### PIECE 11
+###################
+### PROMPT
+single molecule localization microscopy: Single-molecule localization microscopy is a super-resolution fluorescence technique that sparsely activates individual emitters so their diffraction-limited images don’t overlap, fits each spot’s point-spread function to localize the molecule’s position with nanometer precision, and reconstructs a high-resolution image from many such localizations over time.
+
+cryogenic electron tomography: Cryogenic electron tomography (cryo-ET) is a 3D imaging technique in which a specimen is rapidly vitrified to preserve it in a near-native state, then imaged in a transmission electron microscope over a range of tilt angles so that a volumetric structure can be computationally reconstructed from the resulting low-dose projection images.
+
+Two researchers A and B, with expertise in "single molecule localization microscopy" and "cryogenic electron tomography" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Small molecule inhibitors of mammalian glycosylation
+2: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+3: Setting the stage for universal pharmacological targeting of the glycocalyx
+4: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+5: Fluorophores' talk turns them dark
+6: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+7: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+
+Researcher B:
+1: Developments in cryo-FIB Sample Preparation: Targeting in Cryo-Lift-Out Preparation of Tissues and Machine Learning Models for Fully Automated On-Grid Lamella Preparation
+2: Structural Analysis of COPI Pathway in Chlamydomonas reinhardtii
+3: Optimizing Cryo-FIB lamellas for sub-5A in situ structural biology
+4: Correlative Cryo-FIB Milling using METEOR, an Integrated Fluorescent Light Microscope
+5: Towards the Visual Proteomics of C. reinhardtii using High-throughput Collaborative in situ Cryo-ET
+6: Serial Lift-Out-Sampling the Molecular Anatomy of Whole Organisms
+7: In situ architecture of the ciliary base reveals the stepwise assembly of intraflagellar transport trains
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Live-to-Vitrified Correlative SMLM–Cryo-ET to Map Glycocalyx Remodeling and Viral RNA Replication Sites in Infected Cells**
+
+Main Objective (1-2 sentences):  
+Develop a correlative workflow that uses multicolor single-molecule localization microscopy (SMLM) to identify and quantify glycocalyx perturbations and human coronavirus RNA replication structures in live cells, then rapidly vitrifies and targets the same sites for cryo-FIB lamella preparation and cryo-electron tomography (cryo-ET) to reveal their 3D ultrastructure.
+
+Research Question & Novel Results (2 points):  
+1) **How do pharmacological glycosylation inhibitors alter the nanoscale organization of the cell-surface glycocalyx, and which specific ultrastructural changes (membrane curvature, coat assemblies, vesicle/cisternal architecture) emerge at those sites in cryo-ET?**  
+2) **Where (relative to glycocalyx state and membrane trafficking landmarks) do coronavirus RNA puncta detected by multicolor SMLM correspond to distinct 3D replication organelle morphologies in cryo-ET, and can inhibitor-driven glycocalyx remodeling shift these morphologies in a predictable way?**
+
+###################
+
+### PIECE 12
+###################
+### PROMPT
+single photon: A single photon is one quantum of a quantized electromagnetic field mode—i.e., a state with exactly one excitation (energy \(E=\hbar\omega\)) that yields discrete, indivisible detection events while exhibiting wave-like propagation and quantum superposition.
+
+self organization: Self-organization is the spontaneous emergence of coherent macroscopic structure or function from local interactions among a system’s components—without centralized control—typically driven by intrinsic dynamics under constraints and sustained by energy/entropy flows (e.g., far from equilibrium).
+
+Two researchers A and B, with expertise in "single photon" and "self organization" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Tunable Fiber Source of Entangled Ultraviolet and Infrared Photons
+2: Collectively Enhanced Giant Circular Dichroism of Germanium Nanohelix Square Lattice Arrays
+3: Two-photon-absorption measurements in the presence of single-photon losses
+4: Broadband Sensing with Undetected Photons with Strong Parametric Amplification
+5: Classical model of spontaneous parametric down-conversion
+6: Photon pairs bi-directionally emitted from a resonant metasurface
+7: Multi-photon electron emission with non-classical light
+
+Researcher B:
+1: NR2E3 transcription factor and photoreceptor fate: identification of gene regulatory networks causing retinal remodelling in NR2E3-associated diseases
+2: Zebrafish transposable elements show extensive diversification in age, genomic distribution, and developmental expression
+3: Lima1 mediates the pluripotency control of membrane dynamics and cellular metabolism
+4: Multiomic atlas with functional stratification and developmental dynamics of zebrafish cis-regulatory elements
+5: Specific photoreceptor cell fate pathways are differentially altered in NR2E3-associated diseases
+6: Doxorubicin changes the spatial organization of the genome around active promoters
+7: Shear stress switches the association of endothelial enhancers from ETV/ETS to KLF transcription factor binding sites
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+Single‑Photon Quantum Microscopy to Probe Self‑Organized Gene‑Regulatory and Chromatin Dynamics in Living Photoreceptor Systems
+
+Main Objective (1-2 sentences):  
+Develop a low-phototoxic, single-photon–enabled imaging and sensing platform to measure how gene regulatory networks and 3D genome organization self-organize in photoreceptor cells (and zebrafish retinal models) under developmental cues and stress. The project will link quantized-light detection advantages (ultimate sensitivity, minimal dose) to emergent biological order in nuclear and regulatory architecture.
+
+Research Question & Novel Results (2 points):  
+1) Can single-photon/undetected-photon imaging quantitatively reveal early, weak, and spatially heterogeneous self-organization transitions in enhancer–promoter contacts and chromatin topology during NR2E3-driven photoreceptor fate decisions and retinal remodeling?  
+2) Do controlled mechanical/chemical perturbations (e.g., shear stress, doxorubicin) induce reproducible “phase-change–like” reconfiguration rules in cis-regulatory element activity, and can those rules be predicted from local interaction models validated by single-photon-limited measurements?
+
+###################
+
+### PIECE 13
+###################
+### PROMPT
+extracellular rna: Extracellular RNA (exRNA) is RNA that cells release outside their membranes—often packaged in vesicles or bound to proteins—where it can remain stable in body fluids and act as a transferable information-carrying signal (and biomarker) between cells.
+
+large scale longitudinal study: A large-scale longitudinal study is a research design that tracks a large cohort of individuals over extended time, repeatedly measuring variables to quantify how outcomes evolve and how earlier exposures predict later effects (often leveraging within-subject change to reduce confounding).
+
+Two researchers A and B, with expertise in "extracellular rna" and "large scale longitudinal study" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+2: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+3: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+4: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+5: Setting the stage for universal pharmacological targeting of the glycocalyx
+6: Fluorophores' talk turns them dark
+7: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+
+Researcher B:
+1: (Re)Considering Personality in Criminological Research
+2: MegaOath Project-Treatment Selection
+3: Down to the core: The role of the common core of dark traits for aversive relationship behaviors
+4: Personality, self-knowledge, and meat reduction intentions
+5: Trait-specificity versus global positivity: A critical test of alternative sources of assumed similarity in personality judgments.
+6: Defining and Describing Morality: The View from Personality Psychology
+7: Beyond the Mean: Can We Improve the Predictive Power of Psychometric Scales?
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Liquid Biopsies for Personality Dynamics: Longitudinal Extracellular RNA Profiling as a Biological Readout of Stable Traits and Within-Person Change**
+
+Main Objective (1-2 sentences):  
+Build a large-scale longitudinal cohort that repeatedly collects blood/saliva for extracellular RNA (exRNA) alongside intensive psychometric assessment to test whether exRNA signatures can predict, track, and mechanistically inform changes in personality-relevant traits and social-behavioral outcomes over time.
+
+Research Question & Novel Results (2 points):  
+1) **Do baseline exRNA profiles (vesicle- and protein-bound RNA panels) improve out-of-sample prediction of future aversive relationship behaviors and “dark trait” expressions beyond state-of-the-art psychometric scales and demographic covariates?**  
+2) **When individuals show within-person shifts in traits or moral/self-knowledge measures, do corresponding within-person changes in specific exRNA pathways (e.g., immune/inflammatory, neuroendocrine stress, glycoRNA/RNA-binding protein complexes) reveal distinct biological subtypes of the same behavioral phenotype?**
+
+###################
+
+### PIECE 14
+###################
+### PROMPT
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+2: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+3: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+4: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+5: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+
+Researcher B:
+1: Apparatus, methods and computer-accessible media for in situ three-dimensional reconstruction of luminal structures
+2: Ultralong Imaging Range Chromatic Confocal Microscopy
+3: Polarization Independent Optical Coherence Tomography
+4: Optical coherent tomography with extended depth of focus based on zinc selenide lens chromatic dispersion
+5: Cross-Polarized Optical Coherence Tomography System with Unpolarized Light. Photonics 2022, 9, 76
+6: A Proposal to Perform High Contrast Imaging of Human Palatine Tonsil with Cross Polarized Optical Coherence Tomography
+7: Sa1941 HIGH-RESOLUTION HYPERSPECTRAL IMAGING IN MOUSE COLITIS MODEL
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Label-Free, Depth-Resolved Biomechanical Imaging of the Spinal Cord Lesion Niche to Predict and Modulate CNS Regeneration**
+
+Main Objective (1-2 sentences):  
+Develop and apply advanced polarization-independent/cross-polarized OCT and chromatic confocal imaging to noninvasively map 3D microstructure and optical proxies of mechanics in zebrafish and spiny mouse spinal cord injuries, and link these readouts to regenerative success or failure. Use these measurements to evaluate how extracellular matrix components (e.g., small leucine-rich proteoglycans) reshape the lesion environment over time.
+
+Research Question & Novel Results (2 points):  
+1) **Can cross-polarized/polarization-independent OCT-derived metrics (e.g., birefringence/scattering anisotropy) serve as quantitative, longitudinal biomarkers of lesion ECM organization and mechanical constraint that predict regenerative outcomes across regenerative (zebrafish/spiny mouse) vs non-regenerative conditions?**  
+2) **Does targeted perturbation of small leucine-rich proteoglycans produce measurable, depth-resolved changes in lesion microstructure/optical-mechanical signatures that causally correlate with improved axon regrowth and functional recovery, enabling an image-guided strategy to optimize pro-regenerative interventions?**
+
+###################
+
+### PIECE 15
+###################
+### PROMPT
+laser pulse: A laser pulse is a temporally localized burst of coherent electromagnetic radiation emitted by a laser, characterized by its pulse duration, energy (or peak power), spectrum, and phase, typically produced via Q-switching or mode-locking to concentrate optical power into a short time interval.
+
+black hole: A black hole is a solution of general relativity describing a region of spacetime whose curvature is so extreme that an event horizon forms, beyond which all future-directed timelike and null geodesics inevitably end at the interior (typically a singularity in classical GR), so that no information or causal influence can propagate to infinity.
+
+Two researchers A and B, with expertise in "laser pulse" and "black hole" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+2: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+3: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+4: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+5: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+
+Researcher B:
+1: A burst storm from the repeating FRB 20200120E in an M81 globular cluster
+2: The second data release from the European Pulsar Timing Array II. Customised pulsar noise models for spatially correlated gravitational waves
+3: Long-term scintillation studies of EPTA pulsars-I. Observations and basic results
+4: The Event Horizon Telescope Image of the Quasar NRAO 530
+5: Rotation measure variations in Galactic Centre pulsars
+6: Resolving the Inner Parsec of the Blazar J1924-2914 with the Event Horizon Telescope
+7: A freely precessing magnetar following an X-ray outburst
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Femtosecond-Laser “Analog Horizons” in Living Soft Tissue: A Biophotonic Testbed for Black-Hole–Like Wave Trapping and Information Flow**
+
+Main Objective (1-2 sentences):  
+Develop an in vivo/ex vivo femtosecond-laser platform that uses ultrafast, highly nonlinear refractive-index and mechanical changes in soft tissue to create transient “effective horizons” for acoustic/elastic waves, enabling controlled laboratory analogs of horizon physics while simultaneously revealing new tissue-scale dynamics relevant to injury and repair.
+
+Research Question & Novel Results (2 points):  
+1) **Can femtosecond-laser–induced spatiotemporal changes in tissue (optical, thermal, and mechanical) be tuned to form a measurable analog event horizon for acoustic/elastic perturbations, and what observable signatures (e.g., mode conversion, trapped wave packets, horizon-like redshifts) confirm it?**  
+2) **How do horizon-like trapping and extreme gradient “spacetime” analogs modify stress propagation and microdamage signaling in injured neural tissue, and can this uncover new mechanical-control principles that either inhibit or promote regenerative responses?**
+
+###################
+
+### PIECE 16
+###################
+### PROMPT
+targeted drug: A targeted drug is a therapeutic agent engineered to preferentially accumulate at and act on a specific molecular marker (e.g., a receptor or mutated protein) characteristic of the diseased cells—often by using high-affinity binding or a delivery carrier—thereby increasing efficacy while reducing off‑target interactions and side effects.
+
+excess mortality: Excess mortality is the difference between the number of observed deaths in a population over a given time period and the number expected based on a baseline model of “normal” mortality for comparable periods, with the excess attributed (directly or indirectly) to unusual events or conditions.
+
+Two researchers A and B, with expertise in "targeted drug" and "excess mortality" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+2: Setting the stage for universal pharmacological targeting of the glycocalyx
+3: Small molecule inhibitors of mammalian glycosylation
+4: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+5: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+6: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+7: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+
+Researcher B:
+1: Age and sex adjustments are critical when comparing death rates
+2: Assessing the quality of data on international migration flows in Europe: the case of undercounting
+3: Short-Term Fertility Fluctuations Data series (STFF)-Methodological note
+4: What should be the baseline when calculating excess mortality? New approaches suggest that we have underestimated the impact of the COVID-19 pandemic and previous winter peaks
+5: Sensitivity analysis of excess mortality due to the COVID-19 pandemic
+6: Pandemic Roller-Coaster? Birth Trends in Higher-Income Countries During the COVID-19 Pandemic
+7: Variation in mortality burden of the COVID-19 pandemic across federal states in Germany
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**From Cell-Surface Targeting to Population Survival: Linking Glycocalyx-Directed Therapeutics to Excess-Mortality Signatures**
+
+Main Objective (1-2 sentences):  
+Develop a framework that connects mechanistic, cell-level performance of glycocalyx-targeted drug delivery (validated by super-resolution imaging) to real-world, population-level outcomes by quantifying how uptake/target engagement heterogeneity could translate into changes in excess mortality during infectious-disease waves.
+
+Research Question & Novel Results (2 points):  
+1) **How does single-cell variability in glycocalyx composition and surface RNA/protein domains predict heterogeneity in targeted-drug uptake and antiviral/anti-inflammatory efficacy, and can these mechanistic distributions be parameterized to improve models of population mortality impact?**  
+2) **Which excess-mortality baselines and age/sex adjustment strategies are most sensitive to detecting the real-world benefit (and potential unintended harms) of deploying a glycocalyx-targeted intervention, and can mechanistically informed priors reduce bias in cross-region comparisons?**
+
+###################
+
+### PIECE 17
+###################
+### PROMPT
+spinal cord: The spinal cord is a long, cylindrical bundle of central nervous system tissue that functions as a high-bandwidth, bidirectional signal conduit and reflex-processing hub, relaying sensory inputs to the brain and distributing motor commands to the body via peripheral nerves.
+
+cross polarization: Cross polarization is an NMR technique in which radiofrequency fields are applied to two coupled spin species (typically abundant \(^{1}\!H\) and dilute \(^{13}\!C\)) to satisfy the Hartmann–Hahn matching condition, enabling transfer of spin polarization from the high-gyromagnetic-ratio nuclei to the low-gyromagnetic-ratio nuclei and thereby boosting the latter’s signal (often in solids under MAS).
+
+Two researchers A and B, with expertise in "spinal cord" and "cross polarization" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+2: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+3: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+4: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+5: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+
+Researcher B:
+1: Cross-Polarized Optical Coherence Tomography System with Unpolarized Light. Photonics 2022, 9, 76
+2: Feasibility and safety of tethered capsule endomicroscopy in studying the natural history of Barrett's esophagus: a multi-center study
+3: A Proposal to Perform High Contrast Imaging of Human Palatine Tonsil with Cross Polarized Optical Coherence Tomography
+4: Source polarisation independent single-shot cross-polarised optical coherence tomography approaches: a comparison
+5: Depth of focus extension in optical coherence tomography using ultrahigh chromatic dispersion of zinc selenide
+6: Systems and methods for an actively controlled optical imaging device
+7: Apparatus, methods and computer-accessible media for in situ three-dimensional reconstruction of luminal structures
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+Cross-Polarized OCT of Spinal Cord Lesion Microstructure to Predict and Modulate Regenerative Outcomes
+
+Main Objective (1-2 sentences):  
+Develop and validate cross-polarized optical coherence tomography (CP-OCT) as a label-free, depth-resolved method to quantify extracellular matrix (ECM) organization, fibrosis, and mechanical anisotropy in spinal cord lesions across regenerative vs non-regenerative models, and link these signatures to functional regeneration.
+
+Research Question & Novel Results (2 points):  
+1) Can CP-OCT-derived birefringence/depolarization metrics non-invasively distinguish “pro-regenerative” vs “inhibitory” lesion environments (e.g., spiny mouse, zebrafish, conventional rodent) by resolving collagen/SLRP-driven ECM alignment and scar maturation in 3D over time?  
+2) Do early CP-OCT microstructural signatures predict—and provide real-time feedback to optimize—interventions that alter lesion mechanics (e.g., targeting small leucine-rich proteoglycans or modulating matrix stiffness), enabling a new imaging-guided strategy to shift mammalian spinal cord healing toward regenerative remodeling?
+
+###################
+
+### PIECE 18
+###################
+### PROMPT
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Impact of crowding on the diversity of expanding populations
+2: Evolutionary rescue is promoted in compact cellular populations
+3: Mechano-evolution and drug resistance in compact populations
+4: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+5: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+
+Researcher B:
+1: Ketogenic diet uncovers differential metabolic plasticity of brain cells
+2: Hypercaloric diet triggers transient molecular rearrangements of astrocytes selectively in the arcuate nucleus
+3: The cholesterol-syntesis intermediates for treatment demyelinating disorders
+4: Myelin dysfunction drives amyloid-b deposition in models of Alzheimer's disease
+5: Local cholesterol metabolism orchestrates remyelination
+6: Myelin insulation as a risk factor for axonal degeneration in autoimmune demyelinating disease
+7: Diet triggers specific responses of hypothalamic astrocytes in time and region dependent manner
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Spatial Mechano‑Metabolic Evolution in Myelinated Brain Tissue: How Lipid Microenvironments Shape Expansion and Drug Resistance**
+
+Main Objective (1-2 sentences):  
+Develop and test a quantitative framework linking **spatial population expansion, mechanical confinement, and selection** (A) with **local cholesterol/myelin biology and diet‑driven metabolic remodeling** (B) to explain how brain microenvironments bias the emergence and persistence of resistant or maladaptive cell states.
+
+Research Question & Novel Results (2 points):  
+1) **How do myelin- and cholesterol-defined tissue architectures (and their remodeling during demyelination/remyelination) alter “crowding,” radial expansion, and selection to promote or suppress evolutionary rescue of rare variants in brain-resident or invading cell populations?**  
+2) **Can diet-driven metabolic shifts (e.g., ketogenic vs hypercaloric) reprogram astrocyte/oligodendrocyte lipid handling in ways that predictably change the mechanochemical landscape and thereby steer the evolution of therapy resistance or degeneration-associated cell states?**
+
+###################
+
+### PIECE 19
+###################
+### PROMPT
+laser pulse: A **laser pulse** is a temporally finite burst of coherent electromagnetic radiation from a laser, characterized by its **pulse duration** and corresponding **spectral bandwidth** (linked via the time–bandwidth product), and often described in terms of its **peak power/energy**, **phase**, and **mode-locked or Q-switched** generation mechanism.
+
+sars cov: SARS‑CoV refers to a lineage of coronaviruses—enveloped, positive‑sense single‑stranded RNA viruses—that infect human respiratory cells by binding (via their spike protein) to ACE2 receptors, then using the host’s cellular machinery to replicate and spread, causing severe acute respiratory syndrome.
+
+Two researchers A and B, with expertise in "laser pulse" and "sars cov" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+2: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+3: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+4: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+5: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+
+Researcher B:
+1: Implementation in the Distribution Grid and the Microgrids
+2: Providing Flexibility via Residential Batteries
+3: Hyperbolic discretization of simplified Euler equation via Riemann invariants
+4: Convergence study for composite gas flow in pipes
+5: Model-order reduction for hyperbolic relaxation systems
+6: Efficient gas network simulations
+7: Flexibility in the Distribution Grid
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Real-Time Model-Reduced “Digital Twin” Control of Femtosecond Laser Pulse–Tissue Interaction for Precision Spinal Cord Lesion Engineering**
+
+Main Objective (1-2 sentences):  
+Develop a physics-informed, computationally efficient digital twin that predicts deep-tissue nonlinear responses to femtosecond laser pulses and enables closed-loop control of laser parameters to create reproducible spinal cord lesion microenvironments in regenerative animal models.
+
+Research Question & Novel Results (2 points):  
+1) **How can hyperbolic PDE model-order reduction and fast numerical solvers be adapted to accurately capture shock-like, highly nonlinear laser energy deposition and resulting transient mechanical/thermal wave propagation in living spinal cord tissue in real time?**  
+2) **Can a closed-loop controller (driven by the reduced digital twin and real-time optical/acoustic feedback) tune pulse duration/energy/phase to selectively sculpt extracellular matrix mechanics (e.g., proteoglycan-rich regions) and thereby causally test which microenvironmental properties inhibit or permit CNS regeneration?**
+
+###################
+
+### PIECE 20
+###################
+### PROMPT
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Recent advances in petahertz electric field sampling
+2: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+3: Time-domain Compressed Sensing
+4: Method and apparatus for creating a microscopic sample image of a molecular vibrational response of a sample
+5: Speeding up Field-Resolved Spectroscopy by Compressed Sensing
+
+Researcher B:
+1: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+2: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+3: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+4: Fluorophores' talk turns them dark
+5: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+6: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+7: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Petahertz Field-Resolved Super-Resolution Microscopy of Live-Cell Nanoenvironments**
+
+Main Objective (1-2 sentences):  
+Integrate petahertz electric-field sampling/field-resolved spectroscopy with live-cell super-resolution localization microscopy to map nanoscale chemical-vibrational signatures in specific cellular domains in real time. This will enable label-assisted targeting with label-free, ultrafast readout of molecular state and dynamics.
+
+Research Question & Novel Results (2 points):  
+1) **Can field-resolved vibrational spectroscopy (accelerated by time-domain compressed sensing) be performed at super-resolution–defined subcellular sites to distinguish local chemical states (e.g., glycoRNA/RBP domains, viral RNA-associated compartments) beyond what fluorescence alone can report?**  
+2) **How do ultrafast, nanoscale changes in molecular structure and environment (hydration, bonding, nanoparticle–membrane interactions) evolve immediately after targeted delivery (“paintbrush”) or during infection progression, and can these dynamics predict functional outcomes such as uptake efficiency or viral replication stages?**
+
+###################
+
+### PIECE 21
+###################
+### PROMPT
+optical character: In particle and nuclear physics, a system’s **optical character** refers to the extent to which its interaction with an incoming wave or particle can be modeled by a **complex optical potential**—with the real part describing elastic phase shifts (refraction) and the imaginary part accounting for loss of flux into inelastic/absorptive channels (absorption).
+
+active inference: Active inference is a Bayesian, variational principle stating that an agent perceives and acts by updating an internal generative model and choosing actions that minimize expected free energy (prediction error plus uncertainty), thereby keeping its sensory states within viable bounds.
+
+Two researchers A and B, with expertise in "optical character" and "active inference" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Tiniest Sources of Spontaneous Parametric Down Conversion
+2: Tunable fiber source of entangled UV-C and infrared photons
+3: Characterizing the spatiotemporal correlations of bright entangled quantum states of light using classical methods
+4: Photon pairs bi-directionally emitted from a resonant metasurface
+5: Collectively Enhanced Giant Circular Dichroism of Germanium Nanohelix Square Lattice Arrays
+6: Resonant metasurfaces for generating complex quantum states
+7: Analysis of the signal measured in spectral-domain optical coherence tomography based on nonlinear interferometers
+
+Researcher B:
+1: Shared computational principles for language processing in humans and deep language models
+2: Active inference as a computational framework for consciousness
+3: A shared linguistic space for transmitting our thoughts from brain to brain in natural conversations
+4: Event boundaries shape temporal organization of memory by resetting temporal context
+5: On keeping our adversaries close, preventing collateral damage, and changing our minds. Comment on Clark et al.
+6: Simultaneous mnemonic and predictive representations in the auditory cortex
+7: Spatiotemporal dynamics of human high gamma discriminate naturalistic behavioral states
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Active-Inference Optical Potentials: Learning Complex “Absorption” and “Refraction” in Metasurface Quantum Light Sources**
+
+Main Objective (1-2 sentences):  
+Develop an active-inference framework that treats complex optical potentials as learnable latent causes in a generative model, enabling adaptive control and inference of loss (imaginary part) and phase/dispersion (real part) in resonant metasurface and fiber-based entangled-photon sources from indirect measurements.
+
+Research Question & Novel Results (2 points):  
+1) **Can active inference reliably infer an effective complex optical potential (separating refraction-like phase shifts from absorption-like inelastic loss) from spatiotemporal correlation measurements of entangled photon pairs, even when only classical/partial observables are available?**  
+2) **Can an active-inference controller choose experimental interventions (pump shaping, resonance tuning, geometry selection) that minimize expected free energy to autonomously discover device settings that maximize entanglement quality while diagnosing—and functionally “explaining”—loss channels as optical-character parameters?**
+
+###################
+
+### PIECE 22
+###################
+### PROMPT
+rna binding protein: An RNA-binding protein is a protein that selectively recognizes and attaches to RNA molecules via specific sequence/shape and chemical interactions, thereby controlling how the RNA is processed, transported, stabilized, or translated into protein.
+
+musical rhythm: Musical rhythm is the structured temporal pattern of sound events, describable in physics as a hierarchy of periodicities and phase relationships (often with controlled deviations) that the auditory system entrains to, analogous to coupled oscillators locking to a driving signal.
+
+Two researchers A and B, with expertise in "rna binding protein" and "musical rhythm" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+2: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+3: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+4: Setting the stage for universal pharmacological targeting of the glycocalyx
+5: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+6: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+7: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+
+Researcher B:
+1: Attention modulates neural measures associated with beat perception
+2: Reliability of neural entrainment in the human auditory system
+3: Reliable estimation of internal oscillator properties from a novel, fast-paced tapping paradigm
+4: Neural synchronization is strongest to the spectral flux of slow music and depends on familiarity and beat salience
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Entrainment-Inspired Control of RNA–Protein Condensates: “Beat Patterns” to Program RNA Binding and Viral RNA Dynamics in Live Cells**
+
+Main Objective (1-2 sentences):  
+Develop rhythm-inspired, temporally patterned nanoscale “stimulation sequences” (analogous to musical beat hierarchies and phase locking) to control when and where RNA-binding proteins engage RNA in living cells, and quantify the resulting changes in RNA localization, stability, and viral RNA replication using multicolor super-resolution imaging.
+
+Research Question & Novel Results (2 points):  
+1) **Can temporally patterned delivery (periodic vs syncopated, phase-shifted, or fluctuating “spectral-flux-like” sequences) drive phase-locked assembly/disassembly of RNA–RBP clusters at the cell surface or cytoplasm, revealing resonance-like timescales for selective RNA binding and condensate formation?**  
+2) **Do coronaviral RNAs exploit (or can be disrupted by) specific cellular “entrainment regimes” of RBP engagement, such that altering temporal patterns of local chemical/nanoparticle perturbations measurably changes viral RNA trafficking/replication dynamics at the single-RNA level?**
+
+###################
+
+### PIECE 23
+###################
+### PROMPT
+quantum state: A **quantum state** is the complete mathematical specification of a system (typically a vector in Hilbert space, or more generally a density operator) that determines the probabilities and expectation values for all possible measurement outcomes and hence its subsequent evolution.
+
+gene expression: Gene expression is the regulated process by which the information encoded in a gene’s DNA sequence is transcribed into RNA and often translated into protein, thereby converting a static genetic “instruction” into a functional molecular output that affects the cell’s behavior.
+
+Two researchers A and B, with expertise in "quantum state" and "gene expression" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Tunable Fiber Source of Entangled Ultraviolet and Infrared Photons
+2: Collectively Enhanced Giant Circular Dichroism of Germanium Nanohelix Square Lattice Arrays
+3: Two-photon-absorption measurements in the presence of single-photon losses
+4: Broadband Sensing with Undetected Photons with Strong Parametric Amplification
+5: Classical model of spontaneous parametric down-conversion
+6: Photon pairs bi-directionally emitted from a resonant metasurface
+7: Multi-photon electron emission with non-classical light
+
+Researcher B:
+1: NR2E3 transcription factor and photoreceptor fate: identification of gene regulatory networks causing retinal remodelling in NR2E3-associated diseases
+2: Zebrafish transposable elements show extensive diversification in age, genomic distribution, and developmental expression
+3: Lima1 mediates the pluripotency control of membrane dynamics and cellular metabolism
+4: Multiomic atlas with functional stratification and developmental dynamics of zebrafish cis-regulatory elements
+5: Specific photoreceptor cell fate pathways are differentially altered in NR2E3-associated diseases
+6: Doxorubicin changes the spatial organization of the genome around active promoters
+7: Shear stress switches the association of endothelial enhancers from ETV/ETS to KLF transcription factor binding sites
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Entangled-Photon Microscopy for Live Multiomic Mapping of Chromatin–Enhancer Dynamics Under Mechanical and Drug Perturbations**
+
+Main Objective (1-2 sentences):  
+Develop and apply low-photon, quantum-correlated (entangled/undetected-photon) imaging to quantify real-time chromatin organization and enhancer–promoter activity changes in living cells and zebrafish tissues during shear stress and doxorubicin exposure, linking physical genome architecture to gene-expression outcomes.
+
+Research Question & Novel Results (2 points):  
+1) **Can entangled-photon/undetected-photon sensing measure nanoscale chromatin and nuclear refractive-index changes at doses low enough to avoid triggering transcriptional stress responses, while still predicting enhancer activation states observed in ATAC-seq/ChIP/RNA-seq?**  
+2) **Do shear stress and doxorubicin induce distinct, quantifiable “quantum-imaging signatures” of promoter neighborhood reorganization that causally correlate with transcription-factor binding switches (e.g., ETV/ETS→KLF) and retinal/photoreceptor regulatory network rewiring (e.g., NR2E3 pathways)?**
+
+###################
+
+### PIECE 24
+###################
+### PROMPT
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Collectively Enhanced Giant Circular Dichroism of Germanium Nanohelix Square Lattice Arrays
+2: Characterizing the spatiotemporal correlations of bright entangled quantum states of light using classical methods
+3: Spontaneous Parametric Down-Conversion Beaming from a Lithium Niobate Nanostructured Resonator
+4: Classical model of spontaneous parametric down-conversion
+5: Towards quantum-enhanced Raman spectroscopy for bioimaging applications
+6: Tunable Fiber Source of Entangled Ultraviolet and Infrared Photons
+7: Wigner function tomography via optical parametric amplification
+
+Researcher B:
+1: Living in the here and now: Extended temporalities of forced migration
+2: Migrant eldercare workers in Asia
+3: 21. Migrant eldercare workers
+4: Southern reconfigurations of the ageing-migration nexus
+5: Doctoral Thesis Review - Anmeldelse av doktoravhandling
+6: Introduction: living in the 'here and now': extended temporalities of forced migration
+7: The temporal borders of transnational belonging: Aging migrant domestic workers in Singapore
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Quantum-Optical “Time Diaries”: Privacy-Preserving Sensing of Extended Temporalities in Forced Migration and Migrant Care Work**
+
+Main Objective (1-2 sentences):  
+Develop and pilot a quantum-inspired, photonics-based sensing and analysis toolkit (using low-light Raman/parametric-light methods and classical reconstructions) to measure how “lived time” and stress-related micro-temporal patterns manifest in everyday settings of displaced people and migrant eldercare workers, while minimizing identifiability and surveillance risk.
+
+Research Question & Novel Results (2 points):  
+1) **Can quantum-enhanced (or quantum-inspired) low-photon spectroscopy and correlation-based optical measurements detect non-invasive, interpretable biomarkers of chronic stress/temporal disruption (e.g., in voice, skin, or wearable-adjacent materials) that correlate with ethnographically identified “extended temporalities” of waiting, precarity, and transnational obligation?**  
+2) **Can classical reconstructions of quantum-light statistics (e.g., Wigner/correlation tomography concepts) be repurposed to create new, privacy-preserving “temporal signature” metrics that link micro-scale physiological rhythms to macro-scale social time (visa regimes, care schedules, remittance cycles) without collecting personally identifying content?**
+
+###################
+
+### PIECE 25
+###################
+### PROMPT
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+2: Impact of crowding on the diversity of expanding populations
+3: Evolutionary rescue is promoted in compact cellular populations
+4: Mechano-evolution and drug resistance in compact populations
+5: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+
+Researcher B:
+1: The statistical power of three monkeys
+2: OPEN ACCESS EDITED BY
+3: The otolith vermis: A systems neuroscience theory of the Nodulus and Uvula
+4: Influence of sensory modality and control dynamics on human path integration
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Mechanosensory-Guided Spatial Evolution: How Closed-Loop Movement and Sensing Shape Drug-Resistant “Rescue” in Compact Cell Populations**
+
+Main Objective (1-2 sentences):  
+Develop and test a theory linking **systems neuroscience principles of sensory integration and control** (path integration, feedback dynamics) with **spatial evolutionary rescue** in **crowded, mechanically constrained cellular populations**, to predict when and where resistant mutants emerge and spread under therapy-like stress.
+
+Research Question & Novel Results (2 points):  
+1) **How do feedback-controlled movement rules (e.g., path-integration–like navigation, modality-dependent sensing noise) alter the balance between radial expansion and selection, and thereby shift the probability and spatial localization of evolutionary rescue in compact populations?**  
+2) **Can mechanosensory “control laws” measured in cells (durotaxis/contact inhibition/stress-sensing) be mapped onto a systems-level model—analogous to nodulus/uvula control of self-motion—to identify new intervention points that suppress resistance by disrupting information flow rather than increasing drug dose?**
+
+###################
+
+### PIECE 26
+###################
+### PROMPT
+spatial organization: Spatial organization is the arrangement and correlation of a system’s components in space—often quantified by distributions, symmetries, and correlation functions—which constrains interactions and thereby determines the system’s macroscopic behavior.
+
+fourier transform spectroscopy: Fourier transform spectroscopy is a technique in which an interferometer measures a broadband light signal as an interferogram (intensity vs optical path difference), and the sample’s spectrum is then obtained by applying a Fourier transform to that interferogram.
+
+Two researchers A and B, with expertise in "spatial organization" and "fourier transform spectroscopy" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+2: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+3: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+4: Setting the stage for universal pharmacological targeting of the glycocalyx
+5: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+6: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+7: Fluorophores' talk turns them dark
+
+Researcher B:
+1: Measurement of minute volumes of chiral molecules using in-fiber polarimetry
+2: Future directions in novel laser source development: Dynamical properties, and beam manipulation
+3: Tunable fiber source of entangled UV-C and infrared photons
+4: Tunable and state-preserving frequency conversion of single photons in hydrogen
+5: Tunable Fiber Source of Entangled Ultraviolet and Infrared Photons
+6: Experimental optical simulator of reconfigurable and complex quantum environment
+7: Low-noise supercontinuum generation in chiral all-normal dispersion photonic crystal fibers
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Spatiotemporally-Resolved Fourier-Transform Chiroptical Nanospectroscopy of Cell-Surface GlycoRNA/RBP Domains**
+
+Main Objective (1-2 sentences):  
+Develop a microscopy-compatible Fourier transform spectroscopy (FTS) platform using broadband, low-noise fiber supercontinuum and in-fiber polarimetry to map chiral and vibrational spectral fingerprints with micrometer-to-nanometer spatial organization on live-cell surfaces, focusing on glycoRNA/RNA-binding protein (RBP) domains and their role in molecular entry and infection.
+
+Research Question & Novel Results (2 points):  
+1) **Do distinct spatial domains of glycoRNAs and RBPs on the glycocalyx exhibit measurable, domain-specific chiroptical/FTS spectral signatures (e.g., circular dichroism or polarization-resolved interferometric contrast), and how do these signatures correlate with super-resolution-defined domain geometry and symmetry?**  
+2) **How do nanoscale perturbations (targeting glycocalyx components, adding cell-penetrating peptides, or introducing viral RNA/proteins) reshape the spatial correlation functions of these domains over time, and can FTS-derived spectral changes predict functional outcomes like uptake efficiency or infection progression?**
+
+###################
+
+### PIECE 27
+###################
+### PROMPT
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+2: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+3: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+4: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+5: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+
+Researcher B:
+1: The source of the Black Death in fourteenth-century central Eurasia
+2: Genomic analyses of hair from Ludwig van Beethoven
+3: Tracing the Early Stages of the Second Plague Pandemic
+4: Language trees with sampled ancestors support a hybrid model for the origin of Indo-European languages
+5: Genomic surveillance of vancomycin-resistant Enterococcus faecium reveals spread of a linear plasmid conferring a nutrient utilization advantage
+6: Recombination-aware phylogenetic analysis sheds light on the evolutionary origin of SARS-CoV-2
+7: Robust phylodynamic analysis of genetic sequencing data from structured populations
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Phylo-Mechanics of Tissue Repair: Using Regenerating Spinal Cord Lesions as “Evolution Experiments” to Predict and Prevent Infection in Wound Microenvironments**
+
+Main Objective (1-2 sentences):  
+Create controlled spinal cord injury/repair microenvironments in regenerative vertebrate models and use high-resolution genomics/phylodynamics to quantify how tissue mechanics and extracellular matrix composition shape microbial colonization, transmission, and rapid evolution.
+
+Research Question & Novel Results (2 points):  
+1) **How do lesion-site extracellular matrix features (e.g., small leucine-rich proteoglycans) and mechanical properties causally alter pathogen population structure and within-host evolutionary dynamics, as inferred by recombination-aware phylogenetics and phylodynamic models?**  
+2) **Can we build a predictive model that links biophysical injury/repair trajectories (tracked in zebrafish/spiny mouse, including laser-perturbed microdamage) to “outbreak-like” invasion thresholds for opportunists (e.g., VRE), enabling mechanistically grounded, evolution-aware anti-infective biomaterial or treatment strategies?**
+
+###################
+
+### PIECE 28
+###################
+### PROMPT
+drug resistance evolution: Drug resistance evolution is the population-level process where random genetic variants (or acquired genetic changes) that reduce a drug’s effectiveness are selectively amplified under drug treatment, so the pathogen or cancer becomes dominated by resistant cells over time.
+
+oct imaging: Optical coherence tomography (OCT) imaging is a low-coherence interferometric technique that measures depth‑resolved backscattered light (via coherence gating, typically in a Michelson interferometer) to reconstruct micrometer‑scale cross‑sectional images of tissue, analogous to ultrasound but using near‑infrared light.
+
+Two researchers A and B, with expertise in "drug resistance evolution" and "oct imaging" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Evolutionary rescue is promoted in compact cellular populations
+2: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+3: Mechano-evolution and drug resistance in compact populations
+4: Impact of crowding on the diversity of expanding populations
+5: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+
+Researcher B:
+1: Sa1941 HIGH-RESOLUTION HYPERSPECTRAL IMAGING IN MOUSE COLITIS MODEL
+2: Systems, methods, and media for capsule-based multimode endoscopy
+3: Ultralong Imaging Range Chromatic Confocal Microscopy
+4: Deep Tissue Characterization with Optical Coherence Elastography: A Comparison of Different Methods
+5: Chromatic Confocal Tomography
+6: Cross-polarized optical coherence tomography system with unpolarized light
+7: A Proposal to Perform High Contrast Imaging of Human Palatine Tonsil with Cross Polarized Optical Coherence Tomography
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**OCT-Guided Mechano‑Evolution: Real‑Time Imaging of Spatial Drug‑Resistance Emergence in Compact Tumor/Microbial Populations**
+
+Main Objective (1-2 sentences):  
+Develop an OCT-based platform to noninvasively map growth, crowding, and mechanical stress in compact cell populations during drug treatment, and link these spatial biophysical states to when and where resistant lineages arise and take over. The goal is to create predictive, image-derived biomarkers of evolutionary rescue and resistance spread.
+
+Research Question & Novel Results (2 points):  
+1) **Can OCT/OCT‑elastography–derived maps of local density and stiffness predict the spatial “hotspots” and timing of resistant mutant establishment during drug exposure in compact populations?**  
+2) **How do drug dosing schedules interact with mechanically constrained radial expansion (e.g., crowding-driven growth front dynamics) to shift the balance between selection and spatial expansion, and can imaging-feedback control suppress evolutionary rescue?**
+
+###################
+
+### PIECE 29
+###################
+### PROMPT
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Evolutionary rescue is promoted in compact cellular populations
+2: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+3: Impact of crowding on the diversity of expanding populations
+4: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+5: Mechano-evolution and drug resistance in compact populations
+
+Researcher B:
+1: Mixed integer neural inverse design
+2: Fabrication of moire on curved surfaces
+3: Autoinverse: Uncertainty aware inversion of neural networks
+4: Learning Deposition Policies for Fused Multi-Material 3D Printing
+5: Large-Batch, Neural Multi-Objective Bayesian Optimization
+6: Method for creating a colored laser marking
+7: Shape from Release: Inverse Design and Fabrication of Controlled Release Structures
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+Neural Inverse Design of “Mechano‑Evolution” Microenvironments to Control Evolutionary Rescue and Drug Resistance
+
+Main Objective (1-2 sentences):  
+Create and fabricate mechanically structured growth landscapes (via multi-material 3D printing and inverse design) that steer spatial population expansion and selection, then quantify how these designed mechanics alter evolutionary rescue and resistance emergence in compact microbial/tumor-like populations.
+
+Research Question & Novel Results (2 points):  
+1) Which spatial patterns of stiffness, confinement, and curvature (designed by mixed-integer neural inverse design with uncertainty) most strongly suppress or delay evolutionary rescue by reshaping the balance between radial expansion and selection in compact populations?  
+2) Can closed-loop Bayesian optimization over fabricated microenvironments discover non-intuitive “mechanical control laws” (e.g., crowding gradients or moiré-like stress fields) that reproducibly minimize resistant mutant fixation while maintaining overall population viability?
+
+###################
+
+### PIECE 30
+###################
+### PROMPT
+spiny mouse: A “spiny mouse” refers to certain rodents in the genus *Acomys* that, unlike typical lab mice, have stiff spine-like hairs and are scientifically notable because they can regenerate complex tissues (skin, hair follicles, cartilage, and parts of the ear) with unusually low scarring, making them a valuable model for studying mammalian regeneration.
+
+machine learning: Machine learning is a set of statistical/optimization methods that infer a parameterized model \(f_\theta\) from data by minimizing a loss function (often with regularization), enabling the model to generalize and make predictions on new inputs without being explicitly programmed with the underlying rule.
+
+Two researchers A and B, with expertise in "spiny mouse" and "machine learning" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+2: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+3: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+4: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+5: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+
+Researcher B:
+1: Euclid preparation-XXVI. The Euclid Morphology Challenge: Towards structural parameters for billions of galaxies
+2: Accuracy and precision of triaxial orbit models I: SMBH mass, stellar mass, and dark-matter halo
+3: Accuracy and precision of triaxial orbit models-II. Viewing angles, shape, and orbital structure
+4: Euclid preparation-XXIV. Calibration of the halo mass function in L (n) CDM cosmologies
+5: Euclid preparation: XXVIII. Modelling of the weak lensing angular power spectrum
+6: VizieR Online Data Catalog: Galaxies with good spectroscopic redshifts (Euclid Coll+, 2022)
+7: The Isotropic Center of NGC 5419--A Core in Formation?
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+### RESPONSE
+Project Title:  
+**Cosmic-to-Tissue Morphology: Self-Supervised “Shape Statistics” and Bayesian Inference for Quantifying Scarless Regeneration in the Spiny Mouse**
+
+Main Objective (1-2 sentences):  
+Develop and adapt machine-learning morphology pipelines originally built for Euclid-scale galaxy structure inference to quantify 3D tissue remodeling and lesion-environment mechanics in regenerating spiny mouse CNS/skin, enabling predictive, low-scar regeneration biomarkers from imaging.
+
+Research Question & Novel Results (2 points):  
+1) **Can galaxy-inspired structural parameterization (e.g., multi-component “bulge/disk”-like decompositions and shape/anisotropy inference) yield a compact, interpretable set of quantitative descriptors for regenerating lesions that predicts functional outcomes and scarring better than conventional histology scores?**  
+2) **Can Bayesian forward modeling of imaging data disentangle viewing-angle/sectioning biases and measurement noise to reveal the true spatiotemporal dynamics of ECM mechanics (e.g., proteoglycan-driven stiffness/organization) that permit spiny-mouse CNS regeneration, identifying causal microenvironment features to target in non-regenerative mammals?**
+
+###################
+

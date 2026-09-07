@@ -1,0 +1,1031 @@
+Guidance for evaluation:
+1: scientifically incoherent
+2: roughly coherent, but either not interesting or infeasible
+3: feasible and somewhat interesting but vague
+4: genuinly solid with prospect of relevant insights
+5: top-notch, prospect of critical new insights, as an expert in the field would come up with
+(*) inspiring/relevant but very unconventional out-of-the-box-thinking (and therefore unclear feasibility)
+
+Project 1
+
+Mechanically Modulated Drug Resistance: Linking Spatial Evolutionary Rescue to Cryo‑EM Structures of Nucleolar Stress and RNA Polymerase I
+
+Determine how growth in crowded/compact populations and mechanical constraints reshape the evolution of drug resistance, and connect those population-level outcomes to drug- and stress-induced structural states of RNA Polymerase I and nucleolar surveillance factors resolved by cryo‑EM.
+
+How do spatial growth geometry and crowding (e.g., range expansion fronts vs compact colonies) change which resistance genotypes are favored, and do those genotypes converge on distinct structural/functional perturbations of Pol I–nucleolar surveillance pathways under therapy?
+
+Do mechanical constraints and drug exposure induce specific, targetable conformational states or assemblies (Pol I complexes and/or nucleolar surveillance components such as p53-linked factors) that predict “evolutionary rescue” likelihood, enabling structure-guided combination therapies that suppress resistance emergence in compact populations?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 2
+
+Analysis of drug resistances in South East Asia and their temporal evolution in historic context
+
+Analyze which drug resistances have developed in the population of South East Asia in the past. In a more detailed analysis investigate the evolution of that resistance over time and if applicable link it to the historic context.
+
+Gain an overview over drug resistance in South East Asia
+
+Via the temporal evolution in the historic context causes or accelerators for drug resistance might be found that my help to prevent further drug resistances in that region
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 3
+
+Ultrafast, Enantiomer-Resolved Photopharmacology to Steer and Measure Drug-Resistance Evolution in Spatially Compact Populations
+
+Develop light-controlled, enantiopure (and tunable enantiomeric excess) drug pulses and apply them with ultrafast fiber-laser delivery to compact microbial/tumor model populations to test whether spatiotemporal dosing waveforms can suppress or redirect resistance evolution.
+
+Can precisely timed, ultrafast “selection pulses” using different enantiomeric excess values create evolutionary trajectories (and rescue/extinction boundaries) that are unattainable with conventional continuous dosing in radially expanding/compact populations?
+
+Do resistance mechanisms (mutation vs gene acquisition; target modification vs efflux) show enantiomer-specific and pulse-shape–specific selection signatures, enabling a predictive mapping from optical dosing waveform + ee to the probability and genetic basis of evolutionary rescue?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 4
+
+Quantum-Inspired Molecular String Embeddings to Predict and Steer Evolutionary Drug Resistance in Spatially Compact Populations
+
+Develop a quantum-optics–inspired, AI-driven representation of drugs and resistance mutations as molecular strings to predict which treatment sequences minimize evolutionary rescue of resistant clones in crowded, spatially structured microbial/tumor-like populations.
+
+Can quantum-design concepts (e.g., non-linear mappings and high-dimensional state encodings) produce molecular string representations that more accurately predict resistance trajectories—cross-resistance and collateral sensitivity—than classical cheminformatics embeddings?
+
+How do spatial constraints (crowding, radial expansion, and compact population geometry) interact with drug–target interaction changes encoded from molecular strings to determine the optimal drug combinations or cycling policies that suppress evolutionary rescue?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 5
+
+Crowding, Dispersal, and “Evolutionary Rescue” in Stone Tools: A Mechano‑Evolutionary Model of Acheulean–Middle Paleolithic Lithic Diversity
+
+Develop and test a unified quantitative framework that treats lithic techno-morphological change as an “expanding population” process, where demographic crowding, dispersal routes, and environmental stress shape how diversity emerges, persists, or collapses across space and time.
+
+Can mechanisms analogous to evolutionary rescue (selection vs. spatial expansion under crowding) predict when lithic traditions maintain stable handaxe/point forms versus rapidly diversify or disappear along dispersal corridors (e.g., the southern route)?
+
+Do geometric morphometric time-series and replicability tests reveal signatures of “compact-population” dynamics (high interaction/copying rates) versus “frontier expansion” dynamics (founder effects and drift), producing distinct, testable patterns of within-site and between-site lithic variability?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 6
+
+Using quantum interactions to map drug resistance
+
+The project will first model the theory of using quantum particles - such as entangled aingle photons - to measure drug resistance. In particular, the collapse during measurement of the quantum system. Then experiments will be designed to leverage this new source of information on drug resistance.
+
+Before the collapse: what can a quantum system see of the cells' before we measure?
+
+Can we bring some of this information over when we measure?
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############
+
+
+Project 7
+
+Differences in evolutionary rescue of Homo Sapiens compared to Neanderthals using models from cellular populations
+
+Investigate differences in evolutionary rescue of Homo Sapiens compared to Neanderthals. These investigations and/or results are guided by models and results from cellular populations.
+
+Might establish a link between large scale evolution of mammalian populations and cellular population
+
+Might reveal another factor / reason for Neanderthal extinction
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############
+
+
+Project 8
+
+Contact-Mechanics–Driven Evolution of Nucleolar Stress Resistance: Linking Crowding, Spatial Expansion, and RNA Polymerase I Structural States
+
+Determine how physical cell–cell/molecular contact regimes in compact, crowded populations reshape selection on the nucleolar surveillance pathway (via RNA Polymerase I and p53/NLRP3-linked stress signaling), and identify the structural mechanisms that enable rapid evolutionary rescue under stress.
+
+How do gradients of crowding and radial expansion in compact populations quantitatively shift the probability and timing of evolutionary rescue for variants that alter Pol I activity or nucleolar surveillance (p53 stabilization), and can these shifts be predicted by spatial-evolution models coupled to measurable contact mechanics?
+
+Which stress- and evolution-selected Pol I conformational/assembly states (captured by cryo-EM under defined “molecular contact” conditions—crowding agents, phase-separating nucleolar components, inhibitor binding) causally change rRNA transcription and nucleolar signaling, creating selectable phenotypes that drive drug-resistance trajectories?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 9
+
+Ultrafast Multispectral Optical Mapping of Mechano‑Evolution and Drug‑Resistant Mutant Emergence in Compact Expanding Cell Populations
+
+Develop a label‑free, high‑throughput optical sensing platform using ultrafast broadband fiber‑laser pulses to monitor, in real time, how mechanical crowding and radial expansion dynamics shape the birth and selection of drug‑resistant mutants in microbial colonies and tumor‑like cell populations.
+
+Can ultrafast, broadband optical signatures (e.g., phase/scattering/spectral fingerprints) predict the onset of evolutionary rescue by resistant mutants before outgrowth is visible, and how does predictability depend on crowding and expansion geometry?
+
+How do mechanical stress fields and local growth kinematics in compact populations quantitatively couple to selection strength under drug exposure, and can optical readouts be converted into a spatiotemporal “risk map” of resistance hotspots to test mechanistic evolutionary models?
+
+
+Interest level: (1=not interesting, 5=very interesting):5
+
+
+
+
+###############
+
+
+Project 10
+
+Evolutionary Rescue of Human Technologies: A Spatial Eco‑Evolutionary Model of Paleolithic Toolkits Under Rapid Climate Shifts
+
+Develop and test a quantitative framework that treats stone‑tool traditions as spatially expanding “populations” of cultural variants subject to environmental change, asking when innovation and transmission can “rescue” human groups from demographic collapse. The project will integrate A’s compact-population evolutionary rescue theory with B’s high-resolution lithic morphometrics and paleoclimate/dispersal reconstructions.
+
+Under what combinations of climate-driven habitat loss, group density, and dispersal geometry (e.g., corridor vs patchy refugia) does cultural “evolutionary rescue” predictably occur, and do these regimes match observed bursts/shifts in Levallois and late Acheulean shape diversity across Southwest Asia?
+
+Do spatial-front dynamics (range-edge expansion vs core stability) generate distinctive, testable signatures in tool-shape variance and replicability—analogous to mutation–selection balance in compact biological populations—and can these signatures distinguish adaptive innovation from drift or taphonomic filtering in archaeological assemblages?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 11
+
+Evolutionary rescue with inverse design
+
+Devleop inverse design strategies to develop microstrucutres which favour evolutionary rescue
+
+Can inverse designed microstructures enables favourable cell growth?
+
+How do different spatial contraints influence favourable mutation?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 12
+
+Biped muscle inverse design: Applying evolutionary algorithms to extract traits that lead to biped locomotion,
+
+Use evolutionary algorithms inspired by natural selection to identify design traits that lead to robust walking.
+
+Which combination of muscle arrangements lead to bipedality?
+
+What are the common traits that we could keep to continue improving robot design.
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 13
+
+Radical Cancer Therapy - Leveraging Free Radicals in the Fight Against Cancer
+
+Free radicals, as highly reactive particles, could provide novel ways to target cancer cells for cancer cell therapy. In particular, this project will investigate the effect of free radicals in crowded cancer cell environments.
+
+To what extent do free radicals interact with cancer cells?
+
+Can we provide targeted treatment with free electrons?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 14
+
+Cryo-electron microscopy of drug-resistant mutants.
+
+The 3D atomic structure of the biomolecular systems of drug-resistant mutants is analyzed with cryo-electron microscopy to understand their interactions.
+
+Can we identify mechanisms or specific functional elements that make mutants drug-resistant?
+
+Can we compare the 3D structure of different populations of mutants and make predictions about their drug-resistance?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 15
+
+Bayes-Optimized Spatiotemporal Therapy to Suppress Evolutionary Rescue in Compact Tumors
+
+Develop a Bayesian optimization framework that designs adaptive, spatially patterned dosing schedules (drug levels and timing, possibly with mechanical microenvironment modulation) to minimize the probability of evolutionary rescue and emergence of resistance in compact, crowded cell populations.
+
+How do crowding, radial expansion, and mechanobiological constraints reshape the “optimal” spatiotemporal treatment policy predicted by Bayesian optimization compared to well-mixed models?
+
+Can uncertainty-aware, multi-objective Bayesian optimization discover robust therapy strategies that jointly reduce resistance emergence while maintaining tumor control, even when key evolutionary parameters (mutation rate, fitness costs, migration) are only partially known?
+
+
+Interest level: (1=not interesting, 5=very interesting):5
+
+
+
+
+###############
+
+
+Project 16
+
+Real-Time “Mechano‑Evolution” Mapping: Linking Tissue Biomechanics to the Emergence of Drug Resistance in Compact Tumors
+
+Develop an imaging-and-modeling platform that uses optical coherence elastography and chromatic confocal tomography to measure spatial biomechanics in living, compact cell/tumor populations and test how these mechanical landscapes drive evolutionary rescue and drug resistance.
+
+How do spatial gradients in stiffness, crowding, and growth-induced stress quantitatively alter the balance between radial expansion and selection that governs evolutionary rescue of resistant clones?
+
+Can biomechanical “risk maps” extracted noninvasively from deep tissue (OCT/elastography) predict where and when resistant mutants will appear under therapy, enabling imaging-guided scheduling or targeting to suppress resistance before it establishes?
+
+
+Interest level: (1=not interesting, 5=very interesting):5
+
+
+
+
+###############
+
+
+Project 17
+
+Cellular robotics
+
+How understanding the human cells can help us design better robots
+
+Can understanding cell mechanics help us build better robotic parts that mimic human ones
+
+Can cell-cell communication and behaviour help us build robotic cells
+
+
+Interest level: (1=not interesting, 5=very interesting):2
+
+
+
+
+###############
+
+
+Project 18
+
+Evolving Robust Locomotion: Natural Selection on Mechanical “Preflex” Strategies Under Terrain Disturbance
+
+Develop an experimental–computational framework where populations of locomotion controllers and leg morphologies evolve under controlled disturbance “landscapes,” to identify which heritable design features reliably increase stability, efficiency, and task success. The project will connect population-expansion/selection dynamics to the emergence of low-control, mechanically robust gait strategies (e.g., clutching, prestimulation, virtual pivot-like behaviors).
+
+How do spatial structure and expansion-like dynamics (e.g., colonizing new terrain patches) bias which locomotion traits are “selected,” and can we predict when robust strategies win due to drift/sectoring versus true performance advantages?
+
+Which mechanically embedded feedback (“preflex” margins such as leg clutching or tuned muscle prestimulation) are most evolutionarily accessible—i.e., emerge fastest and most reliably—under different disturbance regimes, and do they reduce the need for higher-level control while preserving stability?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 19
+
+Identification and Investigation of the role of assembling peptides as inhibitors in drug resistance
+
+In drug resistance the entry and/or effectivity of the drug in/on the cell is inhibited. This study should investigate the role of peptide assemblies such as peptide dimers in that process.
+
+Might reveal assembling peptides as new link / role in the process of drug resistance
+
+If peptides play a significant role in the process of drug resistance that might reveal a new therapeutic target
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 20
+
+Mapping and Steering Radical-Mediated Drug Stress to Prevent Evolutionary Rescue in Compact Tumor Cell Populations
+
+Develop a platform that quantitatively maps intracellular free-radical (ROS) dynamics during chemotherapy/radiation-like stress in spatially compact cell populations, then uses radical-modulating agents to reshape stress landscapes and suppress the emergence of resistant clones.
+
+How do spatial growth geometry (crowding, radial expansion fronts) and treatment schedules jointly determine the spatiotemporal ROS “micro-landscape” that enables evolutionary rescue of resistant mutants?
+
+Can targeted radical modulation (e.g., radical-generating or -quenching chemistries, peptide/nanomaterial-delivered actuators) be tuned to collapse the ROS niches that favor resistance—achieving durable control without increasing normal-tissue toxicity?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 21
+
+Predicting drug resistance with Molecular String Representation
+
+Predicting protein/molecules changes during health and disease and molecular evolution
+
+Understand how the structure of molecules changes during evolution
+
+Can we develop/design drugs/molecules that overcome drug resistance
+
+
+Interest level: (1=not interesting, 5=very interesting):2
+
+
+
+
+###############
+
+
+Project 22
+
+How metabolism shapes brain cell adaptation
+
+determine how metabolic stress influences which cell states expand, survive, or decline in diseased brain tissue.
+
+Do changes in cholesterol metabolism create selective triggers that favor brain tissue expansion?
+
+Can certain diets influence brain tissue development?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 23
+
+Ultrafast laser treatment quickens evolutionary cycle for faster mutation screening
+
+Pulsed lasers can expedite cell aging without inflicting damage on the natural cell cycle when tuned to the right pulse energy, frequency, and repetition rate. This leads to a faster turnover, enabling higher throughput of screening for mutation screening.
+
+Can data throughput for mutation screening be expedited by pulsed laser treatment?
+
+By studying the optical response of the cells involved, the laser treatment properties can be tuned to promote cell propagation without inflicting damage, and therefore increasing throughput for biological research.
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 24
+
+Mechanically Guided Antimicrobial/Antiviral Peptide Landscapes to Control Evolutionary Rescue in Compact Microbial Populations
+
+Develop stimulus-responsive nanomembrane platforms that generate controlled spatial drug/peptide gradients and mechanical crowding to test—and ultimately suppress—evolutionary rescue and resistance emergence in compact, expanding microbial populations and biofilms.
+
+How do mechanically induced crowding and radial expansion dynamics reshape the selection window for resistance when microbes are exposed to spatially patterned antiviral/antimicrobial peptide assemblies (including bispecifics and “molecular tweezers”)?
+
+Can optically addressable nanosensors (e.g., nanodiamond relaxometry) embedded in the platform map real-time radical/oxidative stress signatures that predict when populations enter an evolutionary-rescue regime, enabling closed-loop actuation to prevent resistant mutant takeover?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 25
+
+Antibody action in crowded populations
+
+This project aims to better understand how the antibodies' responses change when faced with mutants that arise in crowded populations. We will take a deep dive into the antibodies by performing electron microscopy
+
+How much does living in a crowded environment speed up mutant creation?
+
+How fast can antibodies react to those changes?
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############
+
+
+Project 26
+
+Evolution-Informed MOF Adsorbent and PSA Design to Suppress Resistance in Spatially Structured Microbial/Tumor Populations
+
+Develop an integrated framework that couples spatial evolutionary dynamics in compact, crowded populations with MOF-based adsorption/process design to create treatment or bioprocess environments that minimize evolutionary rescue and drug resistance. The project will use computational screening (ML + process optimization) to select adsorbents and cycling protocols that impose “evolutionarily unfavorable” spatiotemporal exposure profiles.
+
+How do adsorption-driven spatiotemporal concentration gradients (from specific MOFs and PSA/VSA cycle parameters) alter the balance between radial expansion, crowding, and selection that governs evolutionary rescue in compact populations?
+
+Can we computationally co-optimize MOF chemistry (pore/functional descriptors) and operating protocols to generate dosing/feeding waveforms that are effective at killing/inhibiting while provably reducing the probability of resistance emergence compared with uniform exposure?
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############
+
+
+Project 27
+
+
+New pseudovirus successfully alters the resistance evolution of a cell population
+
+Can a lab designed virus alter the preference for evolutionary trait against drugs
+
+Virus can be chemically modified in a systematic manner to select which preferred trait survives cell population evolution.
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 28
+
+Renormalization-Inspired Coarse-Graining of Spatial Evolutionary Dynamics in Crowded Cell Populations
+
+Develop a new multiscale theory and computational toolkit that maps crowded, spatially expanding cell populations (and tumor-like growth) onto systematically coarse-grained effective models using renormalization and many-body methods. Use this framework to predict when evolutionary rescue and drug resistance emerge from the interplay of mechanics, crowding, and selection.
+
+Can similarity-renormalization-style transformations produce “effective” spatial evolutionary parameters (selection, mutation, drift, front roughness) that are independent of microscopic cell-scale details, enabling universal predictions for evolutionary rescue in compact populations?
+
+How do mechanical interactions and radial expansion generate emergent long-range correlations (an effective interaction) among resistant lineages, and can many-body truncation/normal-ordering ideas quantify when simple models fail and higher-order correlations become essential for resistance forecasting?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 29
+
+Structure-to-Selection Mapping: How Ribosome–Antibiotic Microstates Shape the Evolutionary Rescue of Resistance in Spatially Crowded Populations
+
+Integrate cryo-EM–resolved ensembles of antibiotic-bound ribosomes with spatial evolutionary models to predict which resistance mutations (and phenotypes) emerge and spread during drug exposure in compact, mechanically constrained populations. The project will link atomic-scale binding/translation-arrest mechanisms to population-level evolutionary rescue under realistic crowding and expansion dynamics.
+
+Which specific ribosome–antibiotic structural microstates (including tunnel conformations and binding poses) correspond to distinct “effective drug pressures” that quantitatively alter selection coefficients and rescue probabilities in radially expanding, crowded populations?
+
+Do resistance mutations that are predicted (from cryo-EM ensembles) to shift ribosome occupancy among these microstates preferentially arise and fix at colony fronts versus interiors, revealing a general rule that couples mechanistic drug action to spatially heterogeneous evolutionary trajectories?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 30
+
+Quantum-Designed Microenvironments to Control Evolutionary Rescue and Drug Resistance in Compact Cell Populations
+
+Develop and experimentally validate microstructured “selection landscapes” whose geometry is discovered/optimized with quantum-optics-inspired AI design methods to predictably steer evolutionary rescue and suppress drug resistance in compact, crowded populations (microbes or tumor spheroids).
+
+Can AI/algorithmic design methods from experimental quantum optics (e.g., inverse design with non-linear mappings and concept discovery) generate spatial drug/nutrient/mechanical microenvironments that minimize the probability of evolutionary rescue under crowding and radial expansion?
+
+Do compact populations exhibit measurable “path-identity/indistinguishability-like” effects in lineage propagation (many-to-one ancestry pathways) that can be quantified with entanglement-style correlation metrics to reveal new, predictive laws linking spatial structure to resistance emergence?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 31
+
+Quantum evolution of cells
+
+Use simple quantum optics to understand how dense cell groups evolve and become resistant.
+
+Can quantum optics help model random mutation paths in packed cell populations?
+
+Can quantum optics inspire new theories to describe how resistant mutants appear and spread?
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############
+
+
+Project 32
+
+Shedding a light on cellular evolution
+
+See if light of different pulses can impact cellular evolution
+
+Can different light pulses impact cellular evolution?
+
+Light doses as a tool to reverse cellular evolution
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############
+
+
+Project 33
+
+Mechano‑Evolution on the Move: How Locomotion‑Like Mechanical Perturbations Shape Evolutionary Rescue and Drug Resistance in Expanding Cellular Populations
+
+Develop a quantitative framework and experimental platform to test how time-varying, gait-inspired mechanical loading (pulses, impacts, stiffness switching) alters selection, spatial expansion, and the emergence of resistant mutants in compact microbial/tumor-like populations.
+
+Which features of locomotion-derived mechanics (e.g., duty cycle, impact magnitude, “clutching” stiffness transitions, preflex-like rapid responses) most strongly shift the balance between radial expansion and selection to promote or suppress evolutionary rescue under drug stress?
+
+Can minimal-control, CPG-inspired mechanical actuation generate predictable spatial patterns (front roughness, crowding gradients, sector formation) that enable steering or preventing resistance in compact populations—yielding new “mechanical control laws” for evolution?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 34
+
+Tracking drug resistance with optical coherence tomography
+
+Use OCT imaging to non-invasively monitor structural changes in tissues or tumors as drug resistance evolves in real time.
+
+Can OCT detect signatures in tissues that indicate drug resistantance?
+
+How does tissue formation correlate to drug resistance?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 35
+
+Computational illustration of the role of atomic physics in cell (tumour, bacterial) evolution
+
+Explore the role of atomic physics in the evolution and adaptation of cells to drugs/disease through computational and theoretical modelling
+
+How nuclear forces affect cell division, evolution and resistance to drugs?
+
+How three-nucleon interactions affect cell division, evolution and resistance to drugs?
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############
+
+
+Project 36
+
+Isotopic “Fitness Landscapes” of Drug Resistance: Linking Spatial Mechano‑Evolution in Compact Cell Populations to Amino‑Acid Stable Isotope Fingerprints
+
+Develop and validate amino‑acid–specific stable isotope methods to map nutrient fluxes and metabolic strategies across mechanically constrained, spatially expanding cell populations, and test how these metabolic microenvironments promote or hinder evolutionary rescue and drug resistance.
+
+Can amino‑acid δ¹³C/δ¹⁵N patterns spatially resolve metabolic niches (e.g., hypoxia/overflow metabolism, nitrogen stress) inside compact, crowded expansions, and do these niches predict where resistant mutants successfully “rescue” the population under drug exposure?
+
+Do mechanical crowding and radial expansion create reproducible isotope-defined gradients in carbon and nitrogen routing that causally shift selection strength and the tempo of resistance evolution, enabling an isotope-based early warning signal for impending evolutionary rescue?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 37
+
+Cryo‑EM–Informed Models of Mechano‑Evolutionary Rescue: How Spatial Crowding and Ribosome‑Drug Microstates Shape the Emergence of Resistance
+
+Combine cryo‑electron microscopy measurements of antibiotic–ribosome interaction ensembles with spatial/mechanical evolutionary models of expanding, crowded populations to predict when and where drug‑resistant mutants arise and successfully “rescue” the population under treatment.
+
+How do distinct cryo‑EM–resolved antibiotic binding/translation‑stalling microstates (and their temperature‑dependent ensembles) quantitatively map onto selection coefficients for resistance mutations in different spatial growth regimes (radial expansion vs compact crowding)?
+
+Can a multiscale model that couples ribosome‑level structural mechanisms to colony/tumor‑like mechanics identify new “structural‑mechanical” therapy schedules (dose, timing, combination) that minimize evolutionary rescue by preventing resistant clones from reaching the expansion front?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 38
+
+Using Bayesian theory to predict drug resistant evolution.
+
+If we can predict in advance where drug resistant mutation will end up, we can better prepare for those situations or maybe even prevent it.
+
+Can we use Bayesian methods on old data to accurately predict how the drug resistance developed?
+
+Given current data, where will the drug resistance end up and can we prevent it?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 39
+
+Observing microbial model systems for tumour evolution under the microscope.
+
+Microbial systems can be used as models for tumour evolution. In this project, cross-polarized optical coherence tomography is used to image these model systems and gain new insights about tumour evolution.
+
+Which effects and behaviours of microbial model systems can be observed with cross-polarized optical coherence tomography that can not be observed with conventional methods?
+
+What are the limits of the model systems and which instances of the analogy breaking can be observed with ross-polarized optical coherence tomography?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 40
+
+Cryo electron microscopy of drug resistant pathogens
+
+Precise cryo electron microscopy imaging of drug resistant pathogens as they evolve will give us insights as to how to tackle this problem.
+
+How do the drug resistant pathogens change over time (using cryo electron microscopy)?
+
+What areas of these did resistant pathogen can we exploit/target to tackle the drug resistance?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 41
+
+A neural recommender system for drug resistance screening in a model cell type
+
+The neural recommender system from researcher B is modified and used to identify specific drugs that are more prone to generate a drug resistance in a specific model cell type. This can then be used to identify potential drugs that lead to low resistance.
+
+Can the neural recommender system be used to screen for drug resistance?
+
+If so, which drugs for a specific disease are less prone to lead to drug resistance?
+
+
+Interest level: (1=not interesting, 5=very interesting):5
+
+
+
+
+###############
+
+
+Project 42
+
+Mechanically Constrained Translation: How Crowding and Tissue Mechanics Shape Ribosome Stalling and the Emergence of Drug Resistance in Expanding Cell Populations
+
+Link population-scale mechano-evolution in compact, crowded growth to molecular-scale antibiotic–ribosome interactions by testing whether mechanical stress and spatial structure systematically alter translation dynamics, stalling, and resistance trajectories. Combine spatial evolution experiments with cryo-EM/MD-informed models of ribosome behavior under force- and crowding-like constraints.
+
+Do crowding, compression, and radial expansion gradients in compact populations shift ribosome conformational ensembles and stall kinetics in ways that change the effective potency and “window” for resistance evolution?
+
+Can mechanically induced translation arrest (e.g., exit-tunnel–mediated stalling programs) act as a selectable, spatially structured phenotype that accelerates evolutionary rescue under antibiotic treatment, and can we predict it from ribosome-structure-informed simulations?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 43
+
+OCT-Guided Mechano‑Evolution: Real‑Time Imaging of Spatial Drug‑Resistance Emergence in Compact Tumor/Microbial Populations
+
+Develop an OCT-based platform to noninvasively map growth, crowding, and mechanical stress in compact cell populations during drug treatment, and link these spatial biophysical states to when and where resistant lineages arise and take over. The goal is to create predictive, image-derived biomarkers of evolutionary rescue and resistance spread.
+
+Can OCT/OCT‑elastography–derived maps of local density and stiffness predict the spatial “hotspots” and timing of resistant mutant establishment during drug exposure in compact populations?
+
+How do drug dosing schedules interact with mechanically constrained radial expansion (e.g., crowding-driven growth front dynamics) to shift the balance between selection and spatial expansion, and can imaging-feedback control suppress evolutionary rescue?
+
+
+Interest level: (1=not interesting, 5=very interesting):5
+
+
+
+
+###############
+
+
+Project 44
+
+Spatial Mechano‑Metabolic Evolution in Myelinated Brain Tissue: How Lipid Microenvironments Shape Expansion and Drug Resistance
+
+Develop and test a quantitative framework linking spatial population expansion, mechanical confinement, and selection (A) with local cholesterol/myelin biology and diet‑driven metabolic remodeling (B) to explain how brain microenvironments bias the emergence and persistence of resistant or maladaptive cell states.
+
+How do myelin- and cholesterol-defined tissue architectures (and their remodeling during demyelination/remyelination) alter “crowding,” radial expansion, and selection to promote or suppress evolutionary rescue of rare variants in brain-resident or invading cell populations?
+
+Can diet-driven metabolic shifts (e.g., ketogenic vs hypercaloric) reprogram astrocyte/oligodendrocyte lipid handling in ways that predictably change the mechanochemical landscape and thereby steer the evolution of therapy resistance or degeneration-associated cell states?
+
+
+Interest level: (1=not interesting, 5=very interesting):2
+
+
+
+
+###############
+
+
+Project 45
+
+Evolutionary rescue of three monkeys
+
+Case study on how a whole species of monkeys could be saved from extinction
+
+Highlight the dangers of hunting and its impact on local monkey populations
+
+What makes these monkeys so special that we only need three of them to save the whole species?
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############
+
+
+Project 46
+
+Compact-Population Evolution as a Proxy for Cultural Transmission Under Climate Stress in Southwest Asia (15 ka–4.2 ka)
+
+Develop and test a unified, quantitative framework that treats the spread of “resistant” biological variants and “persistent” cultural/technological traits as analogous selection-on-variation processes in spatially compact, demographically constrained populations across Southwest Asia’s late Pleistocene–Holocene climate transitions.
+
+Can models of evolutionary rescue in compact expanding populations predict when small, spatially structured human groups in Southwest Asia retain, lose, or rapidly proliferate specific technological traits (e.g., Levallois point design features) under hydroclimate shocks inferred from speleothem “fossil rainwater”?
+
+Do crowding- and front-expansion effects (key in resistance emergence) generate measurable, testable signatures in the geographic and morphometric variability of stone tool assemblages—allowing climate-driven demographic compression vs. connectivity-driven diffusion to be distinguished for events like the 4.2 ka transition?
+
+
+Interest level: (1=not interesting, 5=very interesting):3
+
+
+
+
+###############
+
+
+Project 47
+
+Modelling the effect of crowding on prehistoric evolution
+
+Modern techniques studying compact cellular populations will be applied to prehistoric data sets. For example, applying these techniques on amino acids in prehistoric samples to see how crowding could have influenced distribution we see.
+
+If we apply our modern knowledge of crowding's effect on evolution, what chemical histories could this imply?
+
+By applying the crowding evolution techniques in reverse, can we improve sample identification?
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############
+
+
+Project 48
+
+Importance-Truncated Multiscale Models of Tumor Evolution: From Many-Body Renormalization Ideas to Predictive Solid-Tumor “Effective Theories”
+
+Develop a new computational framework for solid-tumor evolution that imports ab initio many-body concepts (importance truncation, normal-ordering/renormalization, and systematic uncertainty control) to derive reduced—but predictive—models linking single-cell rules to macroscopic growth, mechanics, and drug-resistance patterns.
+
+Can “importance truncation” identify a minimal set of cell–cell, cell–matrix, and microenvironmental interaction terms that reproduces full high-dimensional tumor simulations while providing controlled, quantifiable error bounds?
+
+Can renormalization-style coarse-graining produce transferable “effective parameters” (e.g., selection coefficients, dispersal/expansion rates, mechano-selective pressures) that remain valid across tumor sizes, geometries, and treatment schedules, thereby predicting when evolutionary rescue of resistant clones occurs?
+
+
+Interest level: (1=not interesting, 5=very interesting):5
+
+
+
+
+###############
+
+
+Project 49
+
+The role of ribosomes and their structural identity in drug resistance
+
+The role of ribosomes in drug resistance is evaluated. For this the microbiological pathway of the processing of a drug target is defined from literature if available or biological experiments. Studies on the structure of ribosomes from cells treated with different drugs and/or cells from different cell lines with different pathways is read out using cryo-EM. It is investigated whether there are differences in structure and the ability of the cells to form a drug resistance.
+
+Are ribosomes involved in drug resistance?
+
+Are there structural differences in ribosomes that are linked to drug resistance?
+
+
+Interest level: (1=not interesting, 5=very interesting):2
+
+
+
+
+###############
+
+
+Project 50
+
+Neural Inverse Design of “Mechano‑Evolution” Microenvironments to Control Evolutionary Rescue and Drug Resistance
+
+Create and fabricate mechanically structured growth landscapes (via multi-material 3D printing and inverse design) that steer spatial population expansion and selection, then quantify how these designed mechanics alter evolutionary rescue and resistance emergence in compact microbial/tumor-like populations.
+
+Which spatial patterns of stiffness, confinement, and curvature (designed by mixed-integer neural inverse design with uncertainty) most strongly suppress or delay evolutionary rescue by reshaping the balance between radial expansion and selection in compact populations?
+
+Can closed-loop Bayesian optimization over fabricated microenvironments discover non-intuitive “mechanical control laws” (e.g., crowding gradients or moiré-like stress fields) that reproducibly minimize resistant mutant fixation while maintaining overall population viability?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 51
+
+Quantum-Designed Measurements to Resolve Spatial Evolution of Drug Resistance in Compact Populations
+
+Develop quantum-inspired (and, where useful, quantum-optical) measurement schemes that maximize how much information can be extracted about where and when resistance mutations arise and spread in crowded, spatially expanding cell populations. Use these optimized schemes to build and validate predictive models of evolutionary rescue under drug exposure.
+
+Can POVM-style optimal measurement design (treating microscopy readouts as an “instrument” with controllable tradeoffs between resolution, phototoxicity, and sampling rate) provably increase the Fisher information about mutation origin and selection parameters in dense radial expansions compared to standard imaging protocols?
+
+Can concepts from high-dimensional quantum state tomography and indistinguishability be repurposed to infer hidden clonal lineages from partially observed, overlapping spatial signals—yielding a new class of estimators that reconstruct resistance-sector growth dynamics in regimes where individual cells cannot be uniquely tracked?
+
+
+Interest level: (1=not interesting, 5=very interesting):4
+
+
+
+
+###############
+
+
+Project 52
+
+Evolutionary rescue in prehistorical human-environment systems
+
+Study and extract strategies developed by humans in the past that led to evolutionary rescue.
+
+When has humanity been threatened by harsh conditions in the past and how did they overcome them.
+
+Can some of these strategies be applied now?
+
+
+Interest level: (1=not interesting, 5=very interesting):2
+
+
+
+
+###############
+
+
+Project 53
+
+Spatially Constrained Antibody Escape: Mapping Resistance Evolution to Neutralization in Compact Cell Populations with Pseudovirus Reporters
+
+Quantify how spatial structure (crowding, compact growth, and expansion fronts) changes the evolutionary pathways and rates by which viral entry proteins acquire antibody-escape mutations, using pseudovirus neutralization assays as a high-throughput phenotype readout.
+
+How do radial expansion dynamics and local competition in compact populations alter the probability, timing, and mutational spectrum of neutralization escape compared with well-mixed cultures, as measured by longitudinal shifts in ID50/IC50 against evolving pseudovirus libraries?
+
+Can we derive and validate predictive “spatial-mechano-evolution” models that link measurable growth geometry (front roughness, crowding level, effective population size at the edge) to the repeatability and cross-neutralization profile of escape variants, enabling forecasts of which antibody/sera combinations are most evolutionarily robust?
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############
+
+
+Project 54
+
+Mechanosensory-Guided Spatial Evolution: How Closed-Loop Movement and Sensing Shape Drug-Resistant “Rescue” in Compact Cell Populations
+
+Develop and test a theory linking systems neuroscience principles of sensory integration and control (path integration, feedback dynamics) with spatial evolutionary rescue in crowded, mechanically constrained cellular populations, to predict when and where resistant mutants emerge and spread under therapy-like stress.
+
+How do feedback-controlled movement rules (e.g., path-integration–like navigation, modality-dependent sensing noise) alter the balance between radial expansion and selection, and thereby shift the probability and spatial localization of evolutionary rescue in compact populations?
+
+Can mechanosensory “control laws” measured in cells (durotaxis/contact inhibition/stress-sensing) be mapped onto a systems-level model—analogous to nodulus/uvula control of self-motion—to identify new intervention points that suppress resistance by disrupting information flow rather than increasing drug dose?
+
+
+Interest level: (1=not interesting, 5=very interesting):1
+
+
+
+
+###############

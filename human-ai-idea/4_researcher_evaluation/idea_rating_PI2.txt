@@ -1,0 +1,1022 @@
+Project 1
+
+Investigations of the role of protein folding landscape of proteins involved in axon regeneration
+
+Identify the proteins that play a significant role in axon regeneration. Anylaze and/or model the protein folding mechanisms to investigate the implications the folding has on the axon regeneration process
+
+Identification and structural modeling of the proteins that play a significant role in axon regeneration
+
+Implication of protein folding mechanisms on the process of axon regeneration
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 2
+
+Cell processes modelled as gases
+
+Many biological processes occur in fluid environments, where dispersion effects can play a role. Therefore, there is merit in investigating these processes from the perspective of gas networks and gas flow models.
+
+Which processes would benefit the most from gas modelling?
+
+Can we better predict the outcome when incorporating gas modelling?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 3
+
+The role of nuclear architecture in recovery from spinal cord injury
+
+Investigate the role of histones in regeneration from spinal cord injury
+
+can we target the nuclear architecture to achieve regeneration in spinal cord after injury
+
+Role of nucleus stiffness in regeneration
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 4
+
+Cosmic-to-Tissue Morphology: Self-Supervised “Shape Statistics” and Bayesian Inference for Quantifying Scarless Regeneration in the Spiny Mouse
+
+Develop and adapt machine-learning morphology pipelines originally built for Euclid-scale galaxy structure inference to quantify 3D tissue remodeling and lesion-environment mechanics in regenerating spiny mouse CNS/skin, enabling predictive, low-scar regeneration biomarkers from imaging.
+
+Can galaxy-inspired structural parameterization (e.g., multi-component “bulge/disk”-like decompositions and shape/anisotropy inference) yield a compact, interpretable set of quantitative descriptors for regenerating lesions that predicts functional outcomes and scarring better than conventional histology scores?
+
+Can Bayesian forward modeling of imaging data disentangle viewing-angle/sectioning biases and measurement noise to reveal the true spatiotemporal dynamics of ECM mechanics (e.g., proteoglycan-driven stiffness/organization) that permit spiny-mouse CNS regeneration, identifying causal microenvironment features to target in non-regenerative mammals?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 5
+
+Side-Channel-Safe Neuroregeneration Experiments: Verified Timing, Instrumentation, and Data Pipelines for Femtosecond-Laser and Spinal Cord Repair Studies
+
+Create a formally verified, timing-robust experimental and analysis stack for high-speed neuroregeneration studies (e.g., femtosecond-laser tissue interaction, zebrafish/spiny-mouse injury models), ensuring that measured temporal signatures reflect biology and mechanics rather than software/firmware artifacts.
+
+How can formal methods for timed protocols and side-channel–aware typing be adapted to certify that acquisition/control software for ultrafast laser–tissue experiments does not introduce timing biases that could be misinterpreted as nonlinear tissue dynamics or regeneration signals?
+
+Can we build a cost- and timing-semantic foundation for the full experimental pipeline (instrument control → image/histology processing → mechanical-property inference) that guarantees reproducible, comparable lesion-environment metrics across labs and model organisms, enabling new cross-species conclusions about ECM mechanics (e.g., SLRPs) and CNS regeneration?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1 
+
+Comment: This project makes no sense.
+
+
+
+
+###############
+
+
+Project 6
+
+Cross-Polarized Optical Coherence Tomography for the investigation of axon regeneration
+
+Cross-Polarized Optical Coherence Tomography of different regeneration states in the spiny mouse model.
+
+New technique for tissue imaging of axons
+
+Potential new insights in the mechanisms and dynamics behind axon regeneration
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 7
+
+Bioinspired Carbonic-Anhydrase Microcompartments to Control pH and Mechanics in CNS Lesion Repair
+
+Develop engineered, carboxysome-like phase-separated microcompartments that localize carbonic anhydrase activity within spinal cord injury sites to precisely tune pH microgradients, thereby steering extracellular-matrix remodeling and improving regenerative outcomes in vertebrate models.
+
+Can localized carbonic anhydrase “reaction–diffusion” modules create stable, spatially patterned pH fields in CNS lesions that shift proteoglycan deposition/crosslinking and reduce the mechanical barriers to axon regrowth?
+
+Can principles from beta-carboxysome biogenesis (SSUL-driven phase separation/compartmentalization) be repurposed to build implantable or cell-delivered CA microreactors whose tunable kinetics predictably accelerate debris clearance, cell proliferation, and functional regeneration after spinal cord transection?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 8
+
+Contact points of ultrashort laser spectroscopy and civil right processes in China
+
+It is investigated whether the research field of ultrashort laser spectroscopy is documented in any civil rights processes and what civil laws apply to it in a Peoples Republic
+
+Does the research field of ultrashort laser spectroscopy have contact points to civil law in China (a Peoples Republic), either by document civil law cases or in laws in the civil code itself?
+
+If so, are these contact points different for a Peoples Republic vs. a nation that is not a Peoples Republic?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+Comment: This project is not at all related to my Research interest.
+
+
+###############
+
+
+Project 9
+
+Can we regenerate the society?
+
+Establish the impact of disability in society and how investing in understanding zebrafish regeneration can provide back to society
+
+Understand the societal impact of spinal cord injury on society
+
+Simulate the impact of finding a cure on society,
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 10
+
+Regeneration Under Stress: Linking Community Violence Exposure to Neural Repair Mechanisms via Zebrafish and Spiny Mouse Models
+
+Develop an interdisciplinary framework that connects social exposure to violence and institutional policing contexts with biological stress pathways that shape spinal cord injury regeneration, using experimentally tractable vertebrate models. The project aims to generate mechanistic evidence for how “social environment” can become “lesion environment” through neuroendocrine and immune remodeling.
+
+Do experimentally controlled stressors modeling threat/uncertainty (derived from real-world policing/violence exposure patterns) causally alter spinal cord regeneration outcomes and lesion mechanics in zebrafish and spiny mice, and through which cortisol/glucocorticoid-immune pathways?
+
+Can variation in institutional context and neighborhood disadvantage (measured in human populations) be mapped onto specific biomarker signatures (e.g., stress hormones, inflammatory markers, extracellular matrix regulators like small leucine-rich proteoglycans) that predict impaired vs. resilient recovery trajectories, enabling translational “social-to-molecular” risk models?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+Comment: This Project makes no sense at all.
+
+
+
+
+###############
+
+
+Project 11
+
+Regenerative genes
+
+Investigate the genetic roots of regeneration
+
+Can genetic variances cause regeneration in spiny mouse?
+
+Can patterns of spiny mouse regeneration inspire the discovery of regenerative medicine for human?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 12
+
+Epigenetic Control of the Mechanical Lesion Microenvironment: NSL/MOF Acetylation Pathways as Switches for Spinal Cord Regeneration
+
+Identify how NSL complex/MOF-driven acetylation programs regulate the extracellular matrix (ECM) and mechanobiology of spinal cord injury sites, and test whether targeted epigenetic modulation can convert a regeneration-inhibitory lesion into a permissive one. The project will combine regenerative spinal cord models (spiny mouse, zebrafish) with chromatin/acetyl-proteomics and biomechanical readouts.
+
+Does NSL/MOF-mediated acetylation in injury-responsive cell types (e.g., macrophages/microglia, fibroblast-like cells, glia) transcriptionally control small leucine-rich proteoglycan (SLRP) expression and thereby reshape lesion stiffness/architecture to permit axon regrowth?
+
+Can precise manipulation of NSL/MOF activity (cell-type specific perturbation or pharmacologic tuning) reprogram nuclear architecture and inflammatory activation states after injury to produce a mechanically “pro-regenerative” scar with improved functional recovery across species?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 13
+
+Rewiring After Repair: Linking Axon Regeneration and Network-Level Functional Connectivity to Predict Cognitive and Behavioral Recovery
+
+Develop an integrated framework that connects lesion biomechanics and pro-regenerative interventions (e.g., extracellular matrix/proteoglycan modulation, regenerative model systems) to longitudinal changes in brain functional connectivity, to predict which forms of circuit reorganization produce meaningful recovery.
+
+How do mechanical and extracellular-matrix features of the lesion environment (e.g., small leucine-rich proteoglycans, stiffness/structural constraints) shape the time course and topology of functional connectivity re-emergence after CNS injury, and can these connectivity signatures serve as noninvasive biomarkers of successful axon regrowth?
+
+Do pro-regenerative contexts (e.g., spiny mouse or zebrafish spinal cord repair, or targeted lesion-environment modulation) lead to distinct “adaptive vs. maladaptive” functional connectivity trajectories that better predict cognitive/behavioral outcomes than traditional structural or histological measures alone?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 14
+
+Verified Real‑Time Control for Femtosecond Laser–Tissue Interaction: Timing‑Safe Optimization of Nonlinear Deep‑Tissue Dynamics
+
+Develop a formally verified, timing-robust control and analysis stack that improves the safety, repeatability, and performance of femtosecond laser pulse delivery in living tissue by guaranteeing real-time constraints while optimizing pulse parameters against measured nonlinear tissue responses.
+
+How can symbolic verification and cost/timing semantics be used to provide provable upper bounds on end-to-end latency and jitter in closed-loop femtosecond laser control (sensing → computation → actuation), ensuring stable interaction regimes in deep tissue despite variable computational load and hardware effects?
+
+Can timing-safe, formally constrained optimization (e.g., verified compilation plus verified control logic) discover pulse-shaping strategies that measurably improve a biological/biophysical performance metric (e.g., reduced collateral damage at fixed ablation efficacy, or increased nonlinear imaging signal at fixed energy) while remaining secure against timing side channels and unintended timing-dependent behavior?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 15
+
+Label-Free, Depth-Resolved Biomechanical Imaging of the Spinal Cord Lesion Niche to Predict and Modulate CNS Regeneration
+
+Develop and apply advanced polarization-independent/cross-polarized OCT and chromatic confocal imaging to noninvasively map 3D microstructure and optical proxies of mechanics in zebrafish and spiny mouse spinal cord injuries, and link these readouts to regenerative success or failure. Use these measurements to evaluate how extracellular matrix components (e.g., small leucine-rich proteoglycans) reshape the lesion environment over time.
+
+Can cross-polarized/polarization-independent OCT-derived metrics (e.g., birefringence/scattering anisotropy) serve as quantitative, longitudinal biomarkers of lesion ECM organization and mechanical constraint that predict regenerative outcomes across regenerative (zebrafish/spiny mouse) vs non-regenerative conditions?
+
+Does targeted perturbation of small leucine-rich proteoglycans produce measurable, depth-resolved changes in lesion microstructure/optical-mechanical signatures that causally correlate with improved axon regrowth and functional recovery, enabling an image-guided strategy to optimize pro-regenerative interventions?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 16
+
+Femtosecond-Laser “Analog Horizons” in Living Soft Tissue: A Biophotonic Testbed for Black-Hole–Like Wave Trapping and Information Flow
+
+Develop an in vivo/ex vivo femtosecond-laser platform that uses ultrafast, highly nonlinear refractive-index and mechanical changes in soft tissue to create transient “effective horizons” for acoustic/elastic waves, enabling controlled laboratory analogs of horizon physics while simultaneously revealing new tissue-scale dynamics relevant to injury and repair.
+
+Can femtosecond-laser–induced spatiotemporal changes in tissue (optical, thermal, and mechanical) be tuned to form a measurable analog event horizon for acoustic/elastic perturbations, and what observable signatures (e.g., mode conversion, trapped wave packets, horizon-like redshifts) confirm it?
+
+How do horizon-like trapping and extreme gradient “spacetime” analogs modify stress propagation and microdamage signaling in injured neural tissue, and can this uncover new mechanical-control principles that either inhibit or promote regenerative responses?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 17
+
+Symmetry-Energy–Inspired Mechanics: A Physics-Based Free-Energy Framework for Scarless Regeneration in the Spiny Mouse Spinal Cord
+
+Develop and test a quantitative “tissue symmetry energy” model that treats left–right (or healthy–injured) tissue imbalance as an energetic penalty—analogous to neutron–proton asymmetry in nuclear matter—to predict when spiny mouse spinal cord injuries resolve by regeneration versus scar-forming repair.
+
+Can a symmetry-energy–like term in a coarse-grained free-energy functional (penalizing mechanical/compositional asymmetry across the lesion) accurately predict spiny-mouse outcomes such as minimal scarring, ECM remodeling (e.g., SLRP effects), and axon regrowth across varying lesion geometries and stiffness landscapes?
+
+Can nuclear-EOS toolkits (Gaussian-process emulators, low-rank surrogates, eigenvector continuation) enable fast, uncertainty-quantified inference of the model parameters directly from in vivo femtosecond-laser perturbation data and histology—yielding experimentally falsifiable “phase boundaries” between regenerative and non-regenerative states?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+Comments: That's a weird one.
+
+
+###############
+
+
+Project 18
+
+Laser-assisted tissue regeneration with simultaneous optical readout
+
+Ultrafast laser pulses have been shown to be helpful to stimulate tissue growth in skin cells and more. By integrating spectroscopic readout, live-monitoring of tissue regeneration is implemented.
+
+Can the amount of laser-assisted tissue regrowth be monitored in-situ?
+
+A simultaneous optical readout is implemented alongside ultrafast laser-assisted tissue growth to monitor the progress real-time.
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 19
+
+Disabilities and their social impact
+
+The project aims to bring together rigid scientific analysis with nuanced psychological perspectives. We wish to study quantitatively and qualitively how people with regenerative tissue disorder are perceived in society and the impact thereof.
+
+How can we precisely quantify the degree of disability?
+
+With that, can we precisely map the effects of the severity in one's perception in society?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 20
+
+Astro-Inspired Viscoelastic Imaging of Spinal Cord Repair: Applying Pulsar/FRB Scintillation & Timing Methods to Regenerating CNS Tissue
+
+Develop and validate a new “scintillation-like” quantitative imaging and analysis framework to noninvasively infer the evolving microstructure and mechanical properties of spinal cord lesion environments during regeneration, using analysis techniques adapted from pulsar timing, interstellar scattering, and FRB burst propagation.
+
+Can tissue microstructure and viscoelastic heterogeneity in a spinal cord lesion be recovered from time-varying optical/laser speckle and phase fluctuations using FRB/pulsar scattering inversions? This would yield a novel, calibration-light way to map anisotropy and “turbulence-like” structure in healing tissue in vivo.
+
+Do regeneration-permissive vs regeneration-inhibitory extracellular matrix states (e.g., small leucine-rich proteoglycans) produce distinct “noise spectra” and correlated fluctuations analogous to pulsar timing noise, enabling early prediction of functional regeneration? This would create a new biomarker class: timing/noise-model parameters as predictors of regenerative outcome across model organisms (zebrafish, spiny mouse).
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 21
+
+Phylo-Mechanics of Tissue Repair: Using Regenerating Spinal Cord Lesions as “Evolution Experiments” to Predict and Prevent Infection in Wound Microenvironments
+
+Create controlled spinal cord injury/repair microenvironments in regenerative vertebrate models and use high-resolution genomics/phylodynamics to quantify how tissue mechanics and extracellular matrix composition shape microbial colonization, transmission, and rapid evolution.
+
+How do lesion-site extracellular matrix features (e.g., small leucine-rich proteoglycans) and mechanical properties causally alter pathogen population structure and within-host evolutionary dynamics, as inferred by recombination-aware phylogenetics and phylodynamic models?
+
+Can we build a predictive model that links biophysical injury/repair trajectories (tracked in zebrafish/spiny mouse, including laser-perturbed microdamage) to “outbreak-like” invasion thresholds for opportunists (e.g., VRE), enabling mechanistically grounded, evolution-aware anti-infective biomaterial or treatment strategies?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+Comment: Microbial infections of the lesion are usually not a problem of SCI patients.
+
+
+
+###############
+
+
+Project 22
+
+Cross-Polarized OCT of Spinal Cord Lesion Microstructure to Predict and Modulate Regenerative Outcomes
+
+Develop and validate cross-polarized optical coherence tomography (CP-OCT) as a label-free, depth-resolved method to quantify extracellular matrix (ECM) organization, fibrosis, and mechanical anisotropy in spinal cord lesions across regenerative vs non-regenerative models, and link these signatures to functional regeneration.
+
+Can CP-OCT-derived birefringence/depolarization metrics non-invasively distinguish “pro-regenerative” vs “inhibitory” lesion environments (e.g., spiny mouse, zebrafish, conventional rodent) by resolving collagen/SLRP-driven ECM alignment and scar maturation in 3D over time?
+
+Do early CP-OCT microstructural signatures predict—and provide real-time feedback to optimize—interventions that alter lesion mechanics (e.g., targeting small leucine-rich proteoglycans or modulating matrix stiffness), enabling a new imaging-guided strategy to shift mammalian spinal cord healing toward regenerative remodeling?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 23
+
+Cross-polarized optical imaging of spinal cord injury
+
+Develop a non-invasive cross polarization imaging technique specific for spinal cord injury and recovery.
+
+Can cross polarization techniques be used to determine and quantify successful injured spinal cord treatments
+
+In-vivo tracking?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 24
+
+Engineering Phase-Separating, Folded Protein “Microcompartments” to Remodel Spinal Cord Lesions and Promote Axon Regeneration
+
+Develop fold-stable, phase-separating protein modules that assemble into injectable biomolecular condensates within CNS lesion sites to tune local mechanics and molecular signaling, converting the inhibitory glial-scar milieu into a growth-permissive environment for regenerating axons.
+
+Can engineered, well-folded condensate-forming protein domains (inspired by CcmM/Rubisco phase behavior) be designed to selectively sequester or neutralize regeneration-inhibiting extracellular matrix components (e.g., small leucine-rich proteoglycans) while remaining stable and functional in the inflammatory lesion microenvironment?
+
+Do in situ–assembled protein condensates with programmable viscoelasticity measurably change lesion biomechanics and axon guidance outcomes (growth, directionality, synapse re-connection) in regenerative vs non-regenerative models (e.g., zebrafish vs spiny mouse), revealing a causal link between condensate material properties and CNS axon regrowth?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 25
+
+Ultrafast pulses for Sars-cov inaction
+
+Investigate wether ultrafast, ultrashort laser pulses can be used to inactivate covid without damaging other biological tissue
+
+Develop a light-based antiviral treatment
+
+What is the underlying mechanism that enables the deactivation of viruses with light.
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+Comment: That's a weird one too.
+
+
+
+
+###############
+
+
+Project 26
+
+Regenerative Medicine Meets Civil Procedure: Building an Evidence-to-Law Framework for Spinal Cord Repair Trials in China
+
+Create a translational framework that connects cutting-edge CNS/spinal cord regeneration evidence (biomechanics, ECM modifiers, and novel injury models) with Chinese civil law and civil procedure to guide liability, informed consent, evidentiary standards, and compensation in emerging regenerative therapies.
+
+How can quantitative biomechanical and histological readouts from spinal cord injury/regeneration models (e.g., zebrafish transection, spiny mouse repair, ECM/proteoglycan modulation) be converted into legally robust “standards of proof” and causation criteria usable in Chinese medical disputes?
+
+What new legal/procedural instruments (e.g., expert evidence rules, burden-shifting tests, or standardized documentation requirements) would best reduce uncertainty and litigation risk while accelerating ethically sound clinical adoption of regenerative spinal cord interventions in China?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+Comments: this Project doesn't make sense to me.
+
+
+
+
+###############
+
+
+Project 27
+
+Predicting Tissue Regeneration in Spiny Mice Using Machine Learning
+
+Apply machine learning to uncover celullar features which lead to tissue regeneration
+
+Can a machine learning model be created in order to predict wether tissue will be regenerated or not?
+
+Uncover tissue properties which lead to successful healing.
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 28
+
+Engineering with carbonic anhydrase for improved tissue repair
+
+We aim to bring carbonic anhydrase reactions to the study of tissue repair, in particular looking at aiding tissue recovery by intelligently timed carbonic anhydrase reactions.
+
+What processes of tissue recovery can benefit from the introduction of carbonic anhydrase reactions?
+
+In these processes, can we increase the rate of tissue recovery two-fold?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 29
+
+Ultrashort pulses for historical sampling
+
+Apply ultrashort pulses on historical samples e.g. paintings to determine their composition, age, etc.
+
+Can ultrashort laser pulses extract DNA or molecular signatures from delicate historical samples without causing damage?
+
+Which sort of frequencies, power, etc. can be used to probe historical samples?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+Comment: This is not related to my research.
+
+
+
+
+###############
+
+
+Project 30
+
+Quantum-Rotor–Inspired Optical Lattices to Mechanically Reprogram Spinal Cord Lesion Microenvironments for Regeneration
+
+Develop a quantum-physics–inspired, dynamically reconfigurable optical trapping/field platform (derived from rigid-rotor and optical superlattice concepts) to apply precisely patterned microscale forces in vivo, and test whether mechanically reshaping the extracellular matrix (e.g., proteoglycan-rich scar-like environments) enhances spinal cord regeneration in zebrafish and spiny mouse models.
+
+Can time-dependent “rotor-like” optical/electromagnetic field patterns create controllable, quantifiable microscale mechanical gradients in living spinal cord lesions that shift ECM architecture (including small leucine-rich proteoglycan organization) toward a pro-regenerative state?
+
+Do specific spatiotemporal mechanical “control protocols” (analogous to coherent rotor manipulation/quantum carpet dynamics) reproducibly improve axon regrowth and functional recovery compared with static or uniform mechanical perturbations, revealing new mechanistic rules linking tissue mechanics to CNS regeneration?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+Comment: Freaky but interesting.
+
+
+
+
+###############
+
+
+Project 31
+
+Dynamics of Deep Tissue upon in vivo Interaction with Quantum Carpets
+
+We aim to add to the knowledge base surrounding deep tissue by taking a new angle of analysis. So far, the quantum dynamics of biological samples have been largely overlooked.
+
+How does deep tissue respond to a quantum carpet?
+
+Can we precisely map deep tissue using a quantum carpet?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+Comment: Is this even possible?
+
+
+
+
+###############
+
+
+Project 32
+
+Regeneration Inequality: How Socioeconomic Environments Shape Spinal Cord Repair and Functional Recovery
+
+To test whether socioeconomic-status–linked environmental exposures (e.g., chronic stress, neighborhood disadvantage proxies, access to enrichment) causally alter CNS regeneration, lesion biomechanics, and functional recovery, and to identify tissue-level mechanisms that could be targeted to reduce outcome disparities.
+
+Do SES-relevant exposures (modeled as chronic stress, environmental enrichment deprivation, and pollutant/inflammation proxies) measurably shift spinal cord lesion mechanics and extracellular matrix composition (e.g., small leucine-rich proteoglycans), thereby changing regeneration capacity in zebrafish vs. spiny mouse?
+
+Can combining “social” risk indices (constructed with SES expertise) and biological markers (histology/ECM/biomechanics) produce a predictive, cross-species model that identifies which modifiable environmental factors most strongly improve regeneration and functional outcomes—suggesting intervention points beyond the clinic?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 33
+
+Regeneration in plants
+
+This project will bring together expertise honed investigating animal tissue regeneration and expertise in plant processes to find novel applications to materials research.
+
+How does plant and animal tissue repair differ and where are they similar?
+
+By understanding both plant and animal tissue repair, can we inspire next generation materials that are stronger than ever?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 34
+
+Real-Time Model-Reduced “Digital Twin” Control of Femtosecond Laser Pulse–Tissue Interaction for Precision Spinal Cord Lesion Engineering
+
+Develop a physics-informed, computationally efficient digital twin that predicts deep-tissue nonlinear responses to femtosecond laser pulses and enables closed-loop control of laser parameters to create reproducible spinal cord lesion microenvironments in regenerative animal models.
+
+How can hyperbolic PDE model-order reduction and fast numerical solvers be adapted to accurately capture shock-like, highly nonlinear laser energy deposition and resulting transient mechanical/thermal wave propagation in living spinal cord tissue in real time?
+
+Can a closed-loop controller (driven by the reduced digital twin and real-time optical/acoustic feedback) tune pulse duration/energy/phase to selectively sculpt extracellular matrix mechanics (e.g., proteoglycan-rich regions) and thereby causally test which microenvironmental properties inhibit or permit CNS regeneration?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 35
+
+Recombination-Aware “Language-Family” Phylogenetics of Regeneration: Mapping Modular Genetic Programs in the Spiny Mouse
+
+Build an evolutionary framework that treats tissue-regeneration gene networks as “families” with reticulate (hybrid) histories, using recombination-aware phylogenetics to identify which genetic modules uniquely enable *Acomys*’ exceptional mammalian regeneration.
+
+Which regeneration-associated gene modules in *Acomys* show hybrid/reticulate evolutionary signatures (e.g., recombination, introgression, or modular reuse) analogous to language-family borrowing, and do these modules predict regeneration outcomes across mammals?
+
+Can we reconstruct “ancestral” regulatory states (sampled-ancestor style) for key wound-healing pathways and pinpoint the minimal set of derived changes that shift healing from scarring to regeneration in skin, cartilage, and CNS contexts?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 36
+
+Real time mapping with coherent tomography of an spiny mouse injured spinal cord
+
+Use coherent tomography methods to track the regeneration of a spiny mouse's spinal cord
+
+Does the regeration process show any particular signature during the tomopgrahy process?
+
+Obtain a 3D representation of the spinal chord.
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 37
+
+Cooperative Metasurface Microendoscopy for Real-Time Mapping and Control of Spinal Cord Lesion Remodeling
+
+Develop a minimally invasive optical platform that combines cooperative subwavelength emitter-array metasurfaces with nonlinear femtosecond excitation to *quantitatively image* (and potentially *modulate*) extracellular-matrix and mechanical remodeling in spinal cord injury models during tissue repair/regeneration.
+
+Can cooperative emitter-array metasurfaces integrated on a microendoscopic probe provide label-free, in situ readouts of lesion microstructure (e.g., proteoglycan density/organization, collagen-like anisotropy, water content) by exploiting engineered dispersion, polarization response, and enhanced near-fields?
+
+Does targeted, low-damage nonlinear photonic stimulation (using femtosecond pulses shaped by cooperative cavity/metasurface responses) alter the inhibitory ECM mechanics—such as small leucine-rich proteoglycan–mediated stiffening—and thereby shift functional regeneration outcomes in zebrafish and spiny mouse spinal cord injury?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 38
+
+Modelling tissue injuries and regeneration using insights from cryptography
+
+To model tissue injuries and regeneration processes using theory and models from cryptography, particularly the study of attacks on vulnerable systems. This novel collaboration will bring insights into how we think about and can predict tissue "attacks" and repairs.
+
+What can we learn from the study of security breaches in the context of the body's response to injury?
+
+Can we leverage modelling from cryptography to better analyse the tissue repair process?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 39
+
+Cross-Polarized OCT Mapping of the Evolving Lesion Microenvironment to Predict and Promote Spinal Cord Axon Regeneration
+
+Develop and validate cross-polarization–based optical coherence tomography (CP-OCT) methods to non-destructively quantify structural, anisotropic, and scattering signatures of the spinal cord lesion environment over time, and link these signatures to axon regrowth outcomes in regenerating (zebrafish, spiny mouse) versus non-regenerating mammalian models.
+
+Can CP-OCT–derived metrics of tissue anisotropy and depolarization (e.g., birefringence/retardance and cross-polarized backscatter) serve as early, quantitative biomarkers of a “permissive vs inhibitory” lesion niche that predicts subsequent axon regeneration across species and injury paradigms?
+
+Do targeted manipulations of extracellular matrix mechanics/composition (e.g., small leucine-rich proteoglycan modulation) produce measurable CP-OCT signature shifts that causally track with improved axon extension and guidance, enabling rapid screening of pro-regenerative interventions in vivo?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+Comments: This project seems to repeat.
+
+
+
+
+###############
+
+
+Project 40
+
+Ab Initio–Informed “Quantum Rotor” Micro-Mechanics of the Spinal Cord Lesion Niche to Predict and Control Regeneration
+
+Develop a first-principles, multiscale model that connects molecular-scale structure and electromagnetic/optical manipulability of key extracellular-matrix components (e.g., small leucine-rich proteoglycans) to the emergent mechanical properties of the spinal cord injury environment, and test model-driven interventions in regenerative model systems (zebrafish, spiny mouse). The goal is to identify controllable physical “knobs” (stiffness, viscoelasticity, alignment) that causally shift axon regrowth outcomes.
+
+Can ab initio/quantum-rotor-based calculations predict how specific lesion-associated ECM molecules (and their hydration/ionic binding states) set mesoscale stiffness and anisotropy that inhibit or permit axon extension, yielding a quantitative map from molecular composition to regeneration probability?
+
+Can precisely structured optical/electromagnetic fields (inspired by polar-molecule trapping and rotational control) be used to noninvasively reorient or redistribute inhibitory ECM constituents in vivo, producing measurable, model-predicted improvements in axon pathfinding and functional recovery?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 41
+
+Ultrafast Laser “Micro-Lesions” as a Controlled Neuroinflammation Model to Predict Cognitive Sequelae After Severe Viral Pneumonia (SARS-like)
+
+Develop a reproducible, femtosecond-laser–based method to create precisely sized micro-injuries in brain and spinal cord tissue to mimic key inflammatory features seen after severe respiratory viral illness, then quantify how these inflammatory signatures relate to changes in cognition and brain-network function.
+
+Can femtosecond-laser–induced microdamage be tuned to generate specific extracellular-matrix and immune response “fingerprints” (e.g., proteoglycan remodeling, microglial activation) that match those observed in post-SARS neuroinflammation?
+
+Which objective neurocognitive and neurophysiological readouts (executive/language performance, attention dynamics, network-level markers) are most strongly predicted by the ultrafast-laser–defined inflammatory fingerprint, enabling a mechanistic bridge from tissue-level injury biology to real-world cognitive outcomes?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 42
+
+Galaxy cluster models for modelling of zebrafish CNS regeneration
+
+Evaluate whether methods and calculations for galaxy clusters can be used to model zebrafish CNS regeneration. If so, modeling of zebrafish regeneration is performed and compared to an actual experiment.
+
+Evaluation of applicability of methods for modeling of galaxy clusters for CNS regeneration
+
+If 1) successful a new method for CNS regeneration has been revealed / developed
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 43
+
+Legal framework for regenerative neuroscience in China
+
+Explore funding, government support, research maturity of the field of regenerative neuroscience in china
+
+How mature is this research field in China?
+
+What opportunities/potential does this field hold in china
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 44
+
+Psychology of the injured brain
+
+How can we use psychology alongside regenerative science to help disabled people due to trauma.
+
+See the effect of psychology on recovering from traumatic injuries
+
+Can psychological attitude predict recovery?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 45
+
+Testing for changes in nucleic probes in fixed tissue at different stages of wound healing using a spiny mouse model
+
+First the applicability of introducing nucleic probes and their readout is investigated. Based on the results the probes are introduced into fixed tissue taken from spiny mouse models at different stages of wound healing. Investigations on changes of the probe signals in the different tissue are conducted. This gives an insight whether such probes allow to monitor their tissue environment for diagnosing the wound healing state.
+
+Nuclear probes as tissue sensors
+
+Diagnosing tissue wound healing states based on changes in nuclear probes
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 46
+
+Biomolecular Condensates as Programmable “Micro-Carboxysomes” to Modulate Mechanics and Repair in Spinal Cord Injury Models
+
+Engineer and test phase-separating Rubisco/CcmM-inspired protein condensates as injectable or locally inducible biomaterials that alter the biochemical and mechanical lesion environment to promote CNS axon regrowth in regenerating (zebrafish) and non-regenerating (mammalian) spinal cord injury settings.
+
+Can CcmM/SSUL-driven phase separation be repurposed to create stable, biocompatible condensates in vertebrate spinal cord lesions that sequester or neutralize regeneration-inhibiting extracellular matrix components (e.g., small leucine-rich proteoglycans), thereby measurably changing lesion stiffness/architecture and improving axon regeneration?
+
+Can femtosecond-laser–based microsurgery and in vivo nonlinear optical readouts be used to spatiotemporally “write,” remodel, or activate these condensates in deep tissue, enabling precise control of lesion mechanics and revealing causal links between local material properties and functional repair outcomes?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 47
+
+The role of regeneration and tissue repair in patients recovering from alcohol use disorder.
+
+The study investigates the regeneration and repair of tissue in patients with a history of alcohol use disorder versus healthy controls.
+
+Does tissue in patients with a history of alcohol use regenerate slower than that in healthy controls?
+
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 48
+
+Femtosecond Laser Neuroregeneration Platform for China: Quantifying Injury–Repair Mechanics and Building a Translational Evidence Framework
+
+Develop a standardized femtosecond‑laser–based microlesion model in zebrafish/spiny mouse to precisely control CNS injury mechanics and measure regeneration outcomes, while simultaneously mapping how such a platform could be translated into a compliant preclinical/clinical pathway under the legal-institutional context of the People’s Republic of China.
+
+How do femtosecond‑laser–tuned lesion geometry and mechanical microenvironment (including proteoglycan‑modified stiffness) causally shape axon regrowth and functional recovery compared with conventional transection models?
+
+Which concrete evidentiary and procedural “translation checkpoints” (data standards, protocol codification, and dispute‑resilient documentation) would most efficiently move a laser‑standardized CNS repair intervention from lab to regulated use within the PRC’s current civil/medical legal framework?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 49
+
+From Spinal Cord Lesions to Galaxy Clusters: Testing Universal Morphology Metrics for Complex, Multiscale “Structure-in-Noise” Detection
+
+Develop and validate a shared, scale-invariant set of morphology and segmentation metrics that can quantify evolving structure in noisy imaging data, using zebrafish spinal cord injury/regeneration microscopy and Euclid galaxy-cluster environments as complementary testbeds.
+
+Can Euclid-derived morphology pipelines (e.g., nonparametric structure measures, triaxial shape inference, uncertainty-aware segmentation) be repurposed to robustly quantify lesion geometry and extracellular-matrix remodeling in whole-mount zebrafish spinal cord regeneration, revealing new predictive imaging biomarkers of recovery?
+
+Can biomechanics-inspired descriptors (local stiffness/heterogeneity proxies and “lesion-environment” concepts from proteoglycan-mediated inhibition) improve galaxy-cluster substructure characterization and halo-mass inference by linking cluster morphology to an effective “environmental resistance” model for merger-driven structure formation?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 50
+
+Creating Black Hole Analogues with Femtosecond Laser Pulses
+
+Use ultra-short laser pulses in optical media to mimic black hole horizons. Study horizon-like effects, such as photon emission, in a lab setting.
+
+Can laser pulses create optical event horizons that mimic black hole physics?
+
+How do pulse properties affect photon emission and energy flow near these horizons?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+Comment: What have you fed to the algorithm? 
+
+
+
+
+###############
+
+
+Project 51
+
+A Digital Twin of Spinal Cord Lesion Mechanics: Hyperbolic Reduced-Order Modeling Coupled to Regeneration Biology
+
+Create a fast, predictive “digital twin” of the evolving mechanical microenvironment of spinal cord lesions that links extracellular matrix composition (e.g., small leucine-rich proteoglycans) to tissue stiffness/strain fields and, ultimately, regenerative outcomes across model organisms.
+
+Can hyperbolic PDE models with Riemann-invariant-based discretizations and model-order reduction accurately capture time-evolving stress/strain wave propagation in injured spinal cord tissue as lesion composition changes (e.g., proteoglycan accumulation/removal)?
+
+Which controllable mechanical signatures (e.g., stiffness gradients, stress shielding, microstrain fluctuations) best predict successful regeneration in zebrafish/spiny mouse vs. non-regenerative systems, and can the model identify intervention targets that shift a non-regenerative lesion toward a regenerative mechanical state?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 52
+
+Molecular regeneration
+
+How single molecules affect cell regeneration
+
+The effect of molecules structure on cell regeneration
+
+Developing drugs for regeneration
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 53
+
+Simulating Pulsars with Femtosecond Laser Pulses
+
+This project models the emissions produced by pulsars with femtosecond laser pulses.
+
+Can a femtosecond laser pulse with the same spectrum as gamma ray pulses be produced?
+
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############

@@ -1,0 +1,1143 @@
+Project 1
+
+Gene expression mapped with quantum tomography
+
+The quantum state of various genes as proteins are manufactured.
+
+What is the phase space representation of different gene expressions?
+
+Observing gene expression with quantum holography
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 2
+
+Nannoscale exploration of biological samples leveraging quantum advantage.
+
+This project aims to bring together B's expertise in nanoscale technology with A's research in quantum advantage in bioimaging.
+
+
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 3
+
+Long‑Range Nonlinear Metasurface “Tap” for In‑Line Quantum‑Channel Diagnostics and Eavesdropper Localization
+
+Develop an optically thin nonlinear metasurface that performs engineered parametric frequency conversion on faint quantum signals, creating a controllable, nonlocal (long‑range) scattering signature that enables distributed monitoring and localization of perturbations/eavesdroppers along fiber or free‑space quantum links without destroying the transmitted quantum state.
+
+Can a resonant SPDC/OPA metasurface be designed to imprint a tunable, phase‑coded nonlinear idler/second‑harmonic “beacon” whose correlations remain measurable over long distances, enabling eavesdropper localization from higher‑order photon statistics rather than direct signal interception?
+
+What are the fundamental limits (added noise, disturbance, range scaling, and security impact) of metasurface‑induced frequency mixing as a long‑range sensing mechanism in QKD channels, and can optimized spatial phase/polarization profiles outperform stimulated Brillouin–based localization in sensitivity and stealth?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 4
+
+Quantum-enhanced Raman spectroscopy for bioimaging applications in wheat and barley
+
+Both wheat and barley are important agricultural crops. Better understanding how they function leads us to developing stronger strains of these grains.
+
+Can we use quantum enhanced imaging to better select the best grains for future breeding?
+
+In particular, can we better predict root growth and robustness?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 5
+
+Fourier approach to analyzing per capita income fluctuations in European history
+
+Income per capita goes through oscillatory changes in history in short time scales. A fourier analysis of these short coherences reveal the impact of unique events and their contributions to the overall trend in national economical growth.
+
+Can a coherence picture capture the short time-scale oscillations of economic growth?
+
+The effective decay rates of the coherence of per-capita income trends reveal the impact of global events on individual finance in Europe.
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 6
+
+Quantum-Light-Enhanced In Situ Electron Micromechanics: Probing Defects, Interfaces, and Cryogenic Materials with Entangled-Photon-Driven Photoemission
+
+Develop a new in situ SEM/TEM micromechanics platform that uses non-classical (entangled/squeezed) light to drive and characterize photoelectron emission, enabling lower-dose, higher-sensitivity measurements of deformation and defect evolution in metals, thin films, and cryogenic materials (e.g., ice). Demonstrate that quantum correlations in the illumination can reveal mechanical-state information not accessible with classical optical excitation.
+
+Can entangled/squeezed-light-driven multiphoton electron emission provide a fundamentally improved signal-to-damage (or signal-to-dose) ratio for tracking nanoscale plasticity events (dislocation avalanches, shear band initiation, twin boundary activation) during micro-compression/nanoindentation in the electron microscope?
+
+Do quantum-optical correlation signatures (spatiotemporal photon/electron correlations reconstructed via Wigner-tomography-informed models) encode material-specific fingerprints of interfacial strength and defect dynamics at grain boundaries and thin-film metallic glasses, enabling a new “quantum correlation contrast” modality for micromechanics?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 7
+
+Quantum probes for genetic regulation
+
+Develop quantum probes e.g. entangled photons to study genetic regulation dynamics.
+
+Studying ADN to RNA transcription with quantum probes leads to non-invasive, robust and lower noise studies.
+
+Applying these studies on algae populations to further understand their genetic regulation mechanisms
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 8
+
+Quantum-Enhanced, Non-Invasive Epigenomic and Cell-Fate Imaging in the Developing Retina Using Undetected-Photon Interferometry
+
+Develop a fiber-based, quantum-correlated imaging platform (UV–IR entangled/paired photons and “imaging with undetected photons”) to read out retinal chromatin organization and photoreceptor fate decisions in vivo (zebrafish and NR2E3-linked disease models) with lower phototoxicity and higher molecular specificity than conventional fluorescence microscopy.
+
+Can mid-IR–sensitive biochemical and chromatin-state signatures (e.g., nucleic acid/protein/lipid spectral fingerprints) be reconstructed via visible/UV detection using undetected-photon schemes, enabling non-destructive mapping of retinal remodelling and NR2E3-driven cell-fate transitions in living tissue?
+
+Do mechanically or pharmacologically induced genome-architecture changes (e.g., shear-stress enhancer switching, doxorubicin-driven promoter reorganization) produce reproducible, label-free optical “quantum interferometric” biomarkers that predict downstream shifts in photoreceptor fate and cis-regulatory element activity across development?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 9
+
+A pseudo-deterministic SPDC source enables long distance QKD with satellites
+
+A pseudo-deterministic single photon sources based on spontaneous parametric down conversion can provide cheap but accessible SPS useful for QKD. With such development, many sources were integrated into photonic structures and implemented in satellites, demonstrating QKD capabilities in record-breaking distances.
+
+A deterministic SPDC source would bring the cost down by a magnitude allowing for expedited device manufacturing
+
+These sources then were modified into a chip that is compatible for satellite use, demonstrating QKD at a scale that is comparable to classical cyber security.
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 10
+
+Nonlinear diffractive quantum neural network
+
+Realize a quantum neural network with the architecture of a diffractive neural network. Nonlinearity comes from a nonlinear metasurface.
+
+Can diffractive neural networks be used for quantum tasks?
+
+Diffractive neural networks possess many degrees of freedom, these could be exploited to solve complex tasks.
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 11
+
+Quantum-Enhanced Circular Dichroism Spectroscopy to Read Out Chromatin and Epigenetic State in Marine Algae
+
+Develop a metasurface- and entangled-photon–based circular dichroism/optical activity platform to non-destructively measure chiral signatures of DNA–protein packaging and associated regulatory states, and link these optical signatures to transcriptome-wide gene expression patterns across algal life-cycle and sex transitions.
+
+Can quantum-light illumination (entangled UV–IR photon pairs) combined with resonant chiral metasurfaces detect subtle, label-free changes in chromatin compaction/epigenetic remodeling that correlate with convergent gene expression shifts during transitions to co-sexuality?
+
+Do sex-biased gene expression programs in emerging algal sex chromosome systems produce distinct, measurable chiroptical “fingerprints” at the nucleoprotein level (e.g., nucleosome organization), enabling a new optical phenotype for studying regulatory evolution and postzygotic isolation mechanisms?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 12
+
+Modelling DNA-RNA processes with quantum physics.
+
+We believe the quantum treatment of DNA/RNA processes has been tragically neglected. By exploring the quantum dynamics of these processes we shall create a deeper understanding of these fundamental processes needed for life to exist.
+
+How can we model these processes on the atom level?
+
+Can we better explain any processes when considering hidden variables?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 13
+
+The genome under spotlight
+
+Understand the effect of light on the genome
+
+Can different light pulses change the spatial organisation of the genome
+
+Can we use light to alter the genome?/Genetic engineering?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 14
+
+Historical overview of quantum optics and migration waves
+
+Connect all the different socio, geo, political conditions which led to forced migration and the development of quantum optics
+
+How does force migration affect the development of science?
+
+Which social conditions are required for a healthy scientific environment
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 15
+
+Vacuum-Fluctuation-Aware Interferometric Nanoparticle Tracking with Machine-Learned Quantum Noise Models
+
+Develop an interferometric nanoparticle tracking platform whose ultimate sensitivity is modeled—and then pushed—by incorporating quantum vacuum-field (zero-point) fluctuations into a machine-learning-driven estimator for size and refractive index, enabling robust characterization of extremely weak scatterers near the quantum noise floor.
+
+How do vacuum-field fluctuations and correlated quantum noise set the fundamental information limits (Cramér–Rao bounds) for iNTA-based size/refractive-index inference, and what measurement configurations (e.g., homodyne phase choice, engineered metasurface illumination, non-classical probes) most effectively approach or surpass classical shot-noise-limited performance?
+
+Can physics-informed ML trained on quantum-optical forward models (including radiative corrections, detector back-action, and non-classical illumination statistics) disentangle weak nanoparticle signals from quantum-limited backgrounds to yield accurate real-time tracking and classification in polydisperse bio-samples where conventional estimators fail?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 16
+
+Chiral Optics as a Label‑Free Readout of Sex Determination and Life‑History Transitions in Marine Macroalgae
+
+Develop strong circular dichroism (CD) metasurface-based spectroscopy to noninvasively detect, quantify, and track molecular and structural chirality changes associated with sex, ploidy, and reproductive transitions in brown and red algae, linking optical signatures to life‑history traits and gene regulation.
+
+Do transitions in algal life history (e.g., haploid↔diploid phases, onset of maturity, shifts to co-sexuality) produce distinct, quantifiable CD “optical phenotypes” that can predict reproductive state and timing without destructive sampling?
+
+Which specific genomic/transcriptomic and epigenetic programs (sex-biased expression, sex chromosome evolution, postzygotic isolation mechanisms) correspond to measured changes in CD/optical activity, revealing new mechanistic links between molecular chirality, development, and life‑history evolution?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 17
+
+Single‑Photon Quantum Microscopy to Probe Self‑Organized Gene‑Regulatory and Chromatin Dynamics in Living Photoreceptor Systems
+
+Develop a low-phototoxic, single-photon–enabled imaging and sensing platform to measure how gene regulatory networks and 3D genome organization self-organize in photoreceptor cells (and zebrafish retinal models) under developmental cues and stress. The project will link quantized-light detection advantages (ultimate sensitivity, minimal dose) to emergent biological order in nuclear and regulatory architecture.
+
+Can single-photon/undetected-photon imaging quantitatively reveal early, weak, and spatially heterogeneous self-organization transitions in enhancer–promoter contacts and chromatin topology during NR2E3-driven photoreceptor fate decisions and retinal remodeling?
+
+Do controlled mechanical/chemical perturbations (e.g., shear stress, doxorubicin) induce reproducible “phase-change–like” reconfiguration rules in cis-regulatory element activity, and can those rules be predicted from local interaction models validated by single-photon-limited measurements?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 18
+
+Quantum-Enhanced Optical Readout of Membrane Potential and Flagellar Energetics in Live Gram-Negative Bacteria
+
+Develop a non-classical light (entangled/squeezed) microscopy platform to measure bacterial membrane potential and motor ion-coupling dynamics with lower photon dose and higher sensitivity than classical fluorescence methods. Apply it to quantify how virulence programs and second-messenger signaling reshape motility through changes in proton/sodium motive force.
+
+Can squeezed/entangled illumination reduce phototoxicity while improving the precision of voltage-sensitive dye readouts of Gram-negative membrane potential enough to resolve rapid, cell-to-cell fluctuations during motility and virulence gene induction?
+
+How do sodium-driven stator rotor-coupling states and cyclic di-GMP signaling quantitatively map onto real-time energetic changes (PMF/SMF) at the single-cell level, and do these dynamics exhibit rare-event/“rogue” excursions that predict transitions between motile and sessile behaviors?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 19
+
+Quantum-Enhanced Raman Microscopy of Bacterial Chemotaxis and Community Dynamics
+
+Develop a quantum-light (entangled-photon) Raman imaging platform to monitor, in real time and label-free, the chemical signaling and metabolic shifts that drive bacterial chemotaxis, motility, and interkingdom community interactions.
+
+Can entangled UV/IR photon–enabled, low-photodamage Raman spectroscopy reveal early, transient metabolic-state fluctuations that precede observable chemotactic decisions in *Pseudomonas aeruginosa* (e.g., in response to acetylcholine)?
+
+Can quantum-state–engineered illumination (via resonant metasurfaces producing tailored non-classical light) disentangle and map overlapping biochemical signatures—c-di-GMP regulation, curli expression states, and metabolite exchange—during physical association and collective motion in synthetic microbial communities?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+(Could be interesting as an applied project but I am not interested in applied projects)
+
+
+
+
+###############
+
+
+Project 20
+
+Evaluation of circular dichroism properties of red algae and possible usage as novel sensor for the algea life cycle
+
+It is tested whether red or brown algae show circular dichroism properties. If so, it is investigated whether there are differences in response to the polarized light at different stages of the life cycle of the algae.
+
+Do red algae have circular dichroism properties?
+
+If so, can that be leveraged as sensor for the algae life cycle?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+(not interesting for me)
+
+
+
+
+###############
+
+
+Project 21
+
+Optical coherence tomography and gene expression
+
+Apply optical coherence tomography to probe gene expression
+
+Can OCT probe gene expression?
+
+How does gene expression change with disease
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+(maybe interesting for someone but not for me)
+
+
+
+
+###############
+
+
+Project 22
+
+Single photon for probing gene regulation..
+
+Apply single photons to induce changes in typical gene regulation receptors
+
+Are gene regulation receptors sensible to single photons?
+
+Is this response different from that of classical light?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+(maybe just for me)
+
+
+###############
+
+
+Project 23
+
+Evidence-Weighted Quantum Sensing: Building a Reproducibility-Calibrated Evidence Base for Quantum-Enhanced Raman Bioimaging
+
+Develop a quantum-enhanced Raman spectroscopy platform (using entangled-photon sources and metasurface-based state engineering) whose claimed sensitivity gains are validated and communicated through a rigorously structured, reproducibility-weighted evidence base. The project will couple field-intensity engineering (in optical near-fields and quantum states) with formal methods for aggregating, stress-testing, and transparently reporting evidence across labs and analysis pipelines.
+
+How can we construct an “evidence-weighted sensitivity curve” for quantum-enhanced Raman measurements that formally integrates field-intensity distributions, photon-state properties, and multi-lab replication outcomes into a single, decision-useful metric of real-world advantage?
+
+Which experimental design and communication interventions (pre-registration, blinded analyses, standardized benchmarks, and uncertainty visualizations) most effectively reduce over-interpretation and misinformation-like spread of exaggerated quantum advantage claims while preserving rapid innovation?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 24
+
+Gene expression under quantum light
+
+Use entangled, quantum light to probe gene expression.
+
+Does using quantum light sources for imaging provide a noticeable advantage over standard imaging methods for studying gene expression?
+
+Can quantum probe reveal rare gene expression events?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+(Maybe I am just not enough into biology. But to me it sounds like mechanically combining bio and quantum - no depth)
+
+
+
+
+###############
+
+
+Project 25
+
+Quantum-Enhanced, Non-Invasive Social & Physiological Measurement in Children and Great Apes
+
+Develop and validate a new class of non-invasive sensing tools—leveraging entangled/“undetected photon” and low-light quantum optical methods—to measure subtle physiological signals during real-time collaboration, sharing, and moral decision-making in children and great apes.
+
+Can quantum-inspired low-light imaging/sensing (e.g., time-resolved photon-pair techniques and OCT-like interferometric approaches) extract cardiac and microvascular signals with higher accuracy and lower illumination than current camera-based methods, enabling ethically safer primate and child studies?
+
+Do moment-to-moment physiological synchrony signatures (heart-rate coupling, stress/arousal dynamics) predict when dyads will collaborate, share fairly, or over-imitate—and do these signatures differ systematically across development and across species in ways that reveal conserved vs. uniquely human social-cognitive mechanisms?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+(sounds mad)
+
+
+
+
+###############
+
+
+Project 26
+
+Tip-Enhanced Quantum Photon-Statistics Microscopy (TE-QPSM) for Label-Free Single-Particle Spectroscopy
+
+Develop a sharp-tip–based near-field platform that couples single nanoparticles/molecules to engineered quantum light and reads out their interaction via changes in the photon number distribution, enabling label-free characterization beyond classical intensity interferometry.
+
+How does a sharp tip–induced, strongly confined optical near-field reshape the photon number distribution (e.g., \(P(n)\), \(g^{(2)}\), higher-order correlations) of incident non-classical light after interaction with a single nano-object, and what new matter signatures emerge that are invisible to classical illumination?
+
+Can engineered quantum states (entangled pairs, multi-photon states, or tailored non-classical statistics) combined with tip-enhanced scattering/absorption enable simultaneous, label-free extraction of nanoparticle size, refractive index, and local dissipative/nonlinear response with precision surpassing iNTA under the same photon budget?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 27
+
+Light and gene activity
+
+Explore whether optical sensing of genes is feasible
+
+Can light detect changes in gene expression
+
+Can light predict gene activity and response
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 28
+
+Optics for children
+
+The effect quantum education and light exposure on children
+
+How explore children to light can affect their growth
+
+How can we let more children be interested in optics
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+(Not interesting for me but otherwise I would give a 5)
+
+
+
+
+###############
+
+
+Project 29
+
+Quantum-Inspired Privacy-Preserving Contact Tracing with Nonclassical Light Fingerprints
+
+Develop a next-generation contact-tracing protocol in which exposure “events” are authenticated using quantum-light–based optical tokens (e.g., entangled/antibunched photon signatures) that are physically unclonable, while the inference and notification pipeline is designed to maximize trust, uptake, and resistance to misinformation. The project aims to simultaneously improve epidemiological integrity (fewer false/forged events) and societal acceptance (verifiable privacy and transparency).
+
+Can nonclassical photon statistics (e.g., antibunching, entanglement-assisted correlations, Wigner-tomography-verified states) be used to create compact, low-cost “proof-of-proximity” signals that are cryptographically meaningful because they are physically unclonable and hard to spoof with classical light?
+
+How do different transparency and communication strategies (collective-intelligence style explanations, privacy calculus framing, misinformation-prebunking) affect adoption and compliance when the tracing system provides quantum-verifiable guarantees of authenticity and minimal data disclosure?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 30
+
+Ramen spectroscopy unites Europe
+
+How investment in Ramen spectroscopy can help discover/characterise new molecules which may help boost the economy and unite Europe (I know this is very random but it’s what my brain could link those topics).
+
+The effect of Ramen spectroscopy research on revolutionising science
+
+How a good economy (fuelled by innovation) can help EU stay united
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+(You mean Raman, not Ramen?)
+
+
+
+
+###############
+
+
+Project 31
+
+Combining Raman spectroscopy and nanoparticle tracking for bioimaging application.
+
+Raman spectroscopy and nanoparticle tracking are two very powerful techniques for imaging in biology. This project aims to combine them into one technique.
+
+What are systems that can be simultaneously imaged by both techniques?
+
+What additional information can be learned by the two respective techniques?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 32
+
+homodyne detection in quantum communication
+
+Using homodyne detection for quantum communication
+
+can we use homodyne detection in quantum computers
+
+nothing came to my mind
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 33
+
+Entangled-Photon Microscopy for Live Multiomic Mapping of Chromatin–Enhancer Dynamics Under Mechanical and Drug Perturbations
+
+Develop and apply low-photon, quantum-correlated (entangled/undetected-photon) imaging to quantify real-time chromatin organization and enhancer–promoter activity changes in living cells and zebrafish tissues during shear stress and doxorubicin exposure, linking physical genome architecture to gene-expression outcomes.
+
+Can entangled-photon/undetected-photon sensing measure nanoscale chromatin and nuclear refractive-index changes at doses low enough to avoid triggering transcriptional stress responses, while still predicting enhancer activation states observed in ATAC-seq/ChIP/RNA-seq?
+
+Do shear stress and doxorubicin induce distinct, quantifiable “quantum-imaging signatures” of promoter neighborhood reorganization that causally correlate with transcription-factor binding switches (e.g., ETV/ETS→KLF) and retinal/photoreceptor regulatory network rewiring (e.g., NR2E3 pathways)?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 34
+
+Quantum Metasurface Circular Dichroism Spectroscopy for Rapid, Label‑Free Detection of Sex‑Chromosome Divergence and Epigenetic Signatures in Marine Algae
+
+Develop a chip-scale quantum spectroscopy platform—based on resonant metasurfaces and entangled photon pairs—to measure ultra-weak, chiral and polarization-resolved optical signatures from algal DNA/chromatin and cells, enabling rapid, label-free discrimination of sex-linked genomic and epigenetic states in red and brown algae.
+
+Can entangled-photon, metasurface-enhanced circular dichroism detect reproducible optical fingerprints of sex chromosome emergence (e.g., XY vs non-XY lineages) directly from extracted nucleic acids/chromatin across algal species?
+
+Do transitions in sexual systems (e.g., to co-sexuality) correlate with measurable, label-free changes in chiroptical/rogue-wave-like fluctuation statistics of intracellular organization (DNA packaging, chromatin state), revealing new physical biomarkers of postzygotic isolation and epigenetic regulation?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 35
+
+Visibility-Engineered Symmetry Breaking in Kerr Microresonator Frequency Combs Using Quantum-Inspired Coherence Diagnostics
+
+Develop and apply interferometric-visibility measurements as a precision “order parameter” to detect, quantify, and actively control multi-field symmetry breaking in Kerr microresonator frequency combs, including vectorial and twin-resonator photonic-isomer states. The project aims to turn fringe contrast into a real-time, device-level diagnostic and feedback signal for stabilizing or switching symmetry-broken comb states.
+
+Can interferometric visibility (measured across comb lines, polarization modes, or coupled resonators) serve as a quantitative order parameter that predicts the onset, hysteresis, and domain formation of 4-field and vectorial symmetry breaking in microresonator combs?
+
+Can tailored loss/dispersion engineering (e.g., controlled single-photon–like loss channels, quintic dispersion designs, or resonant metasurface coupling) be used to maximize visibility for a targeted symmetry-broken state, enabling deterministic switching and robust stabilization of photonic-isomer comb configurations?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 36
+
+Identification of parameters of metasurfaces for the generation of complex quantum states using a machine learning algorithm
+
+Code and train a machine learning algorithm to identify and optimize parameters of metasurfaces to yield the generation of complex quantum states and at the same time consider fabrication constraints
+
+A new tool for the design of metasurfaces for the generation of complex quantum states
+
+Potentially optimized metasurfaces and parameters that yield complex quantum states of higher quality
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 37
+
+Modeling wide-spread of misinformation as resonances.
+
+Given a constant background of information and misinformation, certain instances of misinformation spread much more effectively than others. This study employs physics models to understand the dynamics.
+
+Can we categorise information on a spectrum from 'consensus' to 'completely unbelievable' and find the region that hits the resonance for successful mass distribution?
+
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+(not my field but sounds exciting)
+
+
+
+###############
+
+
+Project 38
+
+Active-Inference Optical Potentials: Learning Complex “Absorption” and “Refraction” in Metasurface Quantum Light Sources
+
+Develop an active-inference framework that treats complex optical potentials as learnable latent causes in a generative model, enabling adaptive control and inference of loss (imaginary part) and phase/dispersion (real part) in resonant metasurface and fiber-based entangled-photon sources from indirect measurements.
+
+Can active inference reliably infer an effective complex optical potential (separating refraction-like phase shifts from absorption-like inelastic loss) from spatiotemporal correlation measurements of entangled photon pairs, even when only classical/partial observables are available?
+
+Can an active-inference controller choose experimental interventions (pump shaping, resonance tuning, geometry selection) that minimize expected free energy to autonomously discover device settings that maximize entanglement quality while diagnosing—and functionally “explaining”—loss channels as optical-character parameters?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 39
+
+Quantum-Enhanced Raman Readout of Stochastic Gene Expression Dynamics in Living Bacterial Communities
+
+Develop a non-invasive, quantum-light–based Raman spectroscopy platform (using entangled/non-classical photons) to measure real-time biochemical signatures of gene expression states in motile bacteria and mixed microbial communities without fluorescent labels. Use these measurements to infer and model switching, heterogeneity, and regulation (e.g., cyclic di-GMP–controlled bimodality) at the single-cell and population levels.
+
+Can entangled or otherwise non-classical illumination reduce Raman acquisition time and photodamage enough to resolve fast, single-cell transitions between gene-expression states (e.g., curli ON/OFF bimodality) in vivo, revealing dynamics that are currently blurred by noise and labeling artifacts?
+
+Do motility, physical association, and chemotactic stimuli produce distinct, quantifiable Raman “state fingerprints” that correlate with gene-expression programs and metabolic fluctuations, enabling a new, label-free way to map regulatory states and interactions in complex microbial communities?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 40
+
+Fiber source for quantum-enhanced Raman spectroscopy of bacterial RNA
+
+Raman spectroscopy with entangled photons enable sensitive and efficient identification of RNA sequences. A fully fiber-coupled system creates a compact device that can be incorporated into any biology lab.
+
+Can such a low signal spectroscopy be entirely fiber coupled to enable better device preparation down the line?
+
+Entangled photons can be used to perform non-classical Raman spectroscopy of bacterial RNA.
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+(Again, an applied project - not for me)
+
+
+
+
+###############
+
+
+Project 41
+
+Quantum-State–Engineered Raman and Circular Dichroism Readouts of Live Bacterial Gene Expression and Bioenergetic State
+
+Develop a live-cell optical platform that uses non-classical light (entangled/squeezed states) to perform Raman spectroscopy and chiroptical measurements with enhanced sensitivity, enabling minimally invasive, time-resolved readouts of bacterial gene expression programs and membrane-energy physiology.
+
+Can tailored quantum states of light (e.g., bright entangled fields) improve the signal-to-photodamage tradeoff in live-cell Raman measurements enough to track inducible transcription-factor circuits and virulence gene expression dynamics in real time?
+
+Do shifts in bacterial bioenergetics (membrane potential/proton motive force, sodium-driven stator activity, cyclic di-GMP signaling) produce identifiable quantum-enhanced Raman/chiroptical “optical fingerprints” that predict motility-state transitions and regulatory switching before conventional reporters can detect them?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 42
+
+Quantum-Enhanced, Metasurface-Integrated Spectroscopy and Imaging of Perovskite/Organic Optoelectronic Interfaces
+
+Develop a metasurface-based quantum light source (entangled/squeezed photons and undetected-photon schemes) to probe nanoscale photophysics and charge-recombination pathways in perovskite nanocrystals and organic solar-cell active layers with sensitivity beyond classical optical methods.
+
+Can non-classical illumination (squeezed/entangled or “undetected” photons) reveal interfacial roughness–driven energetic disorder and recombination channels in organic/perovskite devices that are hidden under classical shot-noise limits?
+
+Can resonant metasurfaces tailored to perovskite/organic absorption bands generate and shape complex quantum states that selectively enhance Raman/fluorescence contrast, enabling spatial maps of quasi-atomic supercrystal behavior and charge-transport heterogeneity at the device-relevant nanoscale?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 43
+
+Quantum-Enhanced Raman and “Undetected-Photon” Spectroscopy for Non-Destructive, High-Throughput Gene-Expression Phenotyping in Crops
+
+Develop a quantum-optical spectroscopy platform (using entangled/ correlated photons and nonlinear interferometry) to detect molecular signatures of gene expression in intact plant tissues, enabling rapid phenotyping that can be integrated with QTL mapping and gene co-expression networks.
+
+Can entangled-photon Raman and/or undetected-photon interferometric sensing achieve a measurable advantage (lower photodamage, higher sensitivity, or better specificity) over classical Raman/IR methods for identifying transcriptome-linked biochemical markers in living leaves/roots?
+
+Do quantum-spectroscopic fingerprints of metabolites/pigments (e.g., nitrogen assimilation products, photosynthetic intermediates) improve genetic discovery and prediction—by boosting power in QTL mapping and strengthening gene co-expression network inference for traits like nitrogen use efficiency and yield?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 44
+
+Spatially Resolved Balanced Homodyne Tomography of Faint Quantum Light for CubeSat-Compatible Quantum Links
+
+Develop a spatially resolved balanced-homodyne receiver that can map optical-field quadratures across a beam (or integrated photonic mode profile) to diagnose, stabilize, and ultimately improve interference and key-generation performance in low-photon-flux quantum communication scenarios, including space-to-ground or CubeSat platforms.
+
+How do spatial mode distortions (wavefront aberrations, pointing jitter, turbulence-induced speckle) manifest in the *local quadrature statistics* of faint quantum states, and can spatially resolved homodyne maps enable real-time mode-matching and phase-locking beyond what single-pixel detectors allow?
+
+Can quadrature-field imaging be used to reconstruct spatially varying Wigner functions / higher-order correlations of narrowband twin beams (and HOM-like interference) at ultra-low flux, yielding a new diagnostic tool to certify entanglement, purity, and nonclassicality in integrated- and space-qualified quantum photonic systems?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+(Maybe a solid engineering project but I am not interested)
+
+
+
+
+###############
+
+
+Project 45
+
+Study of the dynamics of the c-di-GMP induced transition using quantum-enhanced Raman spectroscopy
+
+Quantum-enhanced Raman spectroscopy measures changes in the chemical composition. During the transition between motile/planktonic ? sessile/biofilm of a bacteria culture such changes are measured using Raman spectroscopy to investigate the dynamics of the c-di-GMP induced transition.
+
+Quantum-enhanced Raman spectroscopy may be a new technique to measure dynamics of biochemical transitions
+
+Investigate the chemical dynamics of a bacteria culture during the c-di-GMP induced transition
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 46
+
+Measuring quantum properties and of metals
+
+By bombarding metal samples with entangled photon pairs, we aim to characterise nano metallic particles
+
+Can wr gain further insights into nano scale metallic particles?
+
+What unique quantum features can we identify?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 47
+
+Investigation of applicability of Perovskite Nanocrystals for the generation of complex quantum states
+
+Investigate whether perovskite nanocrystals can be used to generate complex quantum states or photon pairs.
+
+Investigate applicability of perovskite nanocrystals to generate e.g. photon pairs
+
+If so, characterize and find optimal parameters to benchmark this new technique against existing techniques for the generation of photon pairs / complex quantum states
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 48
+
+Avoiding sensationalism in quantum research.
+
+These days, people on the streeet may tell you that quantum physics tells us that we can manifest things to life and that there is a potent energy field we need to be attuned to. Unfortunately, solid science has become a source of mysticism for the general public and this project aims to identify ways to replace quantum mysticism with facts that are easy to digest for the public but still true to science.
+
+How does quantum mysticism spread and what are the key draw cards for people?
+
+How can we present quantum physics in a digestible way for the general public and in so doing, effectively debunk quantum mysticism?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+(Sounds very interesting - not for me but I could collaborate)
+
+
+
+
+###############
+
+
+Project 49
+
+
+SPDC based on defects in metasurfaces are integrated into satellites. This allows for QKD protocols across the earth.
+
+Can QKD protocol be implemented with high security across two SPDC emitters in satellites?
+
+The integration of these metasurfaces in a compact and environmental robust manner enables successful QKD implementations in satellites orbiting the Earth.
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 50
+
+Quantum-Optical “Time Diaries”: Privacy-Preserving Sensing of Extended Temporalities in Forced Migration and Migrant Care Work
+
+Develop and pilot a quantum-inspired, photonics-based sensing and analysis toolkit (using low-light Raman/parametric-light methods and classical reconstructions) to measure how “lived time” and stress-related micro-temporal patterns manifest in everyday settings of displaced people and migrant eldercare workers, while minimizing identifiability and surveillance risk.
+
+Can quantum-enhanced (or quantum-inspired) low-photon spectroscopy and correlation-based optical measurements detect non-invasive, interpretable biomarkers of chronic stress/temporal disruption (e.g., in voice, skin, or wearable-adjacent materials) that correlate with ethnographically identified “extended temporalities” of waiting, precarity, and transnational obligation?
+
+Can classical reconstructions of quantum-light statistics (e.g., Wigner/correlation tomography concepts) be repurposed to create new, privacy-preserving “temporal signature” metrics that link micro-scale physiological rhythms to macro-scale social time (visa regimes, care schedules, remittance cycles) without collecting personally identifying content?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+(sounds mad - AI hallucinates?)
+
+
+
+
+###############
+
+
+Project 51
+
+Tunable Source of Solitons
+
+
+
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 52
+
+Quantum-Enhanced Raman Monitoring of Industrial Decarbonization and Its Macroeconomic Political-Economy Effects
+
+Develop a field-deployable, entangled-photon/parametric-optics Raman spectroscopy platform to quantify real-time emissions-relevant process signatures (e.g., combustion quality, catalyst health, polymer feedstock composition) and link these measurement-based “technology constraints” to national growth-model outcomes such as inflation, employment, and support for burden-sharing policies.
+
+Can entangled-photon/parametric-amplification designs reduce Raman measurement noise and laser-power requirements enough to enable continuous, in situ monitoring in harsh industrial settings, yielding new high-frequency datasets on abatement performance and production efficiency?
+
+Do objectively measured, plant-level decarbonization constraints and cost pass-through (derived from Raman-based process indicators) causally shift public preferences for wage moderation, debt mutualization, and solidarity under external shocks—thereby altering feasible national growth strategies?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 53
+
+Quantum-Enhanced, UV–IR Entangled-Photon Raman & Absorption Spectroscopy for High-Throughput, Low-Damage Plant Phenotyping
+
+Develop a quantum-optical spectroscopy platform (using tunable entangled UV/IR photon pairs and nonlinear interferometry) to read out plant metabolic and structural biomarkers with far lower light dose than classical methods, and link these quantum-derived spectral traits to yield, nitrogen-use efficiency, and photosynthetic genetics in wheat/barley/potato.
+
+Can time-resolved purification and undetected-photon/entangled-photon sensing enable Raman/absorption contrast that reliably detects genotype-dependent biochemical signatures (e.g., nitrogen assimilation metabolites, lignin/cell-wall composition) at illumination levels that avoid photodamage and permit rapid screening?
+
+Do quantum-derived spectral phenotypes improve genomic prediction and gene-network/QTL discovery—identifying new candidate loci and pathways for yield and nitrogen-use efficiency—compared with conventional phenotyping inputs alone?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 54
+
+Satellite-Compatible Quantum Light “Fingerprints” for In-Channel Eavesdropper Localization and Device Authentication
+
+Develop a quantum communication link (ground-to-satellite or CubeSat-to-ground) that embeds *structured nonclassical light*—engineered via SPDC/metasurface sources and characterized by Wigner/correlation tomography—to enable real-time localization of in-channel perturbations/eavesdroppers using nonlinear scattering signatures (e.g., stimulated Brillouin scattering) without compromising key distribution.
+
+Can engineered nonclassical states (tailored SPDC spectra/spatiotemporal modes from resonant metasurfaces or nanostructured LiNbO₃) produce uniquely identifiable SBS “scattering fingerprints” that enable meter-scale eavesdropper localization in fiber/free-space channels while remaining QKD-compatible?
+
+Do higher-order photon correlations and Wigner-function features measured at the receiver provide a robust, device-independent authentication layer (distinguishing legitimate channel drift from adversarial intrusion) under realistic CubeSat constraints like low count rates, turbulence, and pointing jitter?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 55
+
+Adaptive control of quantum optical systems
+
+Apply active inference as a control system to enable self-optimizing quantum light sources
+
+Can we dynamically tune our light source's parameters to reduce uncertainty?
+
+Discover new strategies for quantum state generation
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 56
+
+Single‑Photon Bioimaging of c‑di‑GMP Microdomains and Motility‑to‑Biofilm Switching in Live Bacteria
+
+Develop a quantum‑light (single/entangled photon) imaging and sensing platform to measure c‑di‑GMP dynamics in living Gram‑negative bacteria with minimal phototoxicity, and link these signals to real‑time changes in membrane potential and motility. The project will combine single‑photon–enabled spectroscopy/tomography tools with genetically encoded c‑di‑GMP reporters and bacterial physiology assays.
+
+Can single‑photon/quantum‑correlated illumination enable quantitatively better (lower dose, higher SNR) time‑resolved readout of c‑di‑GMP reporters in live cells than classical excitation, revealing previously hidden fast transients or subcellular microdomains?
+
+Do abrupt state transitions (motile → sessile) correspond to identifiable “optical fingerprints” (e.g., changes in Raman/fluorescence statistics or correlation signatures) under quantum‑enhanced measurement that predict imminent biofilm commitment before macroscopic phenotypes appear?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 57
+
+Device-Independent Quantum Channel Forensics with Nonclassical Optical-Field Tomography
+
+Develop a quantum-communication testbed that combines engineered SPDC sources/metasurface emitters with optical-field (Wigner-function) tomography to detect, localize, and characterize channel disturbances and eavesdropping using Bell-inequality violations as a device-independent benchmark.
+
+Can phase-space (Wigner) tomography of entangled states before/after transmission provide a quantitative “nonlocality loss map” that localizes where along a fiber/free-space channel excess noise or interception occurs, beyond what standard QBER monitoring reveals?
+
+Can tailored SPDC beaming from nanostructured lithium-niobate resonators/metasurfaces produce entanglement that is simultaneously optimized for strong Bell violation and high sensitivity to nonlinear-scattering signatures (e.g., stimulated Brillouin scattering), enabling new channel-fingerprinting protocols for satellite/QKD links?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 58
+
+Quantum-Enhanced Interferometric Scattering Microscopy for Label‑Free Single‑Particle Biophotonics
+
+Develop and demonstrate an interferometric scattering (iSCAT/iNTA) microscopy platform that uses non-classical light (e.g., entangled photon pairs or tailored quantum states) to push label-free detection, sizing, and refractive-index estimation of weakly scattering biomolecular nanoparticles beyond classical noise limits in live-cell and biofluid environments.
+
+Can entangled or otherwise engineered quantum illumination reduce shot-noise/speckle-limited uncertainty in iSCAT/iNTA, enabling accurate sizing and refractive-index extraction for extracellular vesicles and single proteins at lower optical dose?
+
+Can metasurface-shaped quantum states (spatial/temporal mode engineering) be co-designed with interferometric detection to selectively enhance contrast for specific particle morphologies or membrane compositions, enabling label-free discrimination of biologically similar nanoparticles (e.g., EVs vs. lipoproteins) in polydisperse samples?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 59
+
+Quantum-Information “Stress Tests” for Eurozone Solidarity: Using Entanglement and Interdependence to Rethink Mutualization Politics
+
+Develop a new formal framework that maps political–economic interdependence in the Eurozone onto tools from quantum optics (entanglement, interferometric measurement, tomography) to model how information shocks (e.g., “Italexit” scenarios) reshape solidarity, debt mutualization preferences, and growth-strategy coalitions.
+
+Can voter and elite preference interdependence across countries be quantitatively characterized with “entanglement-like” measures derived from survey/experiment data (via tomography-inspired inference), yielding early-warning indicators of cascading shifts in support for debt mutualization?
+
+Do informational treatments about threats, stagnation, or policy constraints generate interference-like non-additive effects in preference formation (order/context dependence), and can nonlinear-interferometer-style models predict when small narrative changes trigger large cross-national coalition realignments?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+(mad)
+
+
+
+
+###############
+
+
+Project 60
+
+Quantum-enhanced Raman spectroscopy for chemically sensitive dynamic bioimaging of the membrane potential in Gram negative bacteria
+
+Enable Quantum-enhanced Raman spectroscopy to follow ion dynamics and chemical processes on the membrane of Gram negative bacteria
+
+Potentially a new method to follow chemical processes of the membrane potential
+
+Potentially new insights into the membrane dynamics of Gram negative bacteria
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############

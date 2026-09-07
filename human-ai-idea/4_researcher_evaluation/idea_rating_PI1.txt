@@ -1,0 +1,815 @@
+Project 1
+
+Memory-in-the-Loop Modeling of Gendered Care Dynamics: Recurrent Neural Networks for Policy-Responsive Household Time Use and Mental Health
+
+Develop a recurrent neural network framework that treats households as dynamical systems with “state” (stress, norms, bargaining power) evolving over time, to predict how shocks (e.g., lockdowns) and interventions (e.g., childcare expansion) change the division of labor and parental mental health. The project will produce interpretable, counterfactual simulations to quantify persistent gender inequality as a path-dependent outcome rather than a static gap.
+
+Which hidden state variables and temporal feedback loops (e.g., yesterday’s unfairness → today’s conflict → tomorrow’s task allocation) best explain persistent gender gaps in unpaid work and mental health, and do they differ across couples with different gender-role attitudes?
+
+Under what timing, intensity, and targeting of policy “inputs” (childcare availability, flexible work, leave) does the learned dynamical system exhibit tipping points or hysteresis—i.e., temporary shocks that create long-lasting inequality trajectories even after conditions normalize?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 2
+
+Brillouin brain signals
+
+Explore the use of Brillouin techniques as a brain signal detection tool similar to MRI.
+
+Can Brillouin optical sensing detect brain signals
+
+Can Brillouin identify early disease patterns
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 3
+
+Optomechanically Driven CO₂ Hydration and Carboxysome/Rubisco Condensate Control in Microfluidic Photonic Crystal Fibre Reactors
+
+Develop a hollow-core (or microstructured) photonic crystal fibre platform that simultaneously guides light and hosts flowing enzyme/condensate solutions, using Brillouin-active chiral flexural phonons and optical vortices to control local CO₂ chemistry and biomolecular phase behavior in real time.
+
+Can Brillouin-generated hypersound and optically driven chiral flexural waves in twisted photonic crystal fibre measurably modulate carbonic anhydrase kinetics (effective \(k_{\mathrm{cat}}/K_M\)) by controlling local CO₂/HCO₃⁻/pH microenvironments and mass transport at sub-millisecond timescales?
+
+Can structured light (orbital angular momentum) and optoacoustic fields inside fibre microchannels reversibly tune CcmM-driven Rubisco phase separation (droplet nucleation, growth, and dissolution) by manipulating bicarbonate supply and local ionic/pH conditions, revealing new levers for engineering carboxysome-like CO₂ concentrating microreactors?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+(actually 4 but I think vortex modes in liquids cannot be easily excited)
+
+
+
+
+###############
+
+
+Project 4
+
+Brillouin-Physics-Informed Neural Networks for Live Inference of Chromosomal Mechanics and ParB-Mediated Bridging
+
+Develop a physics-informed neural network that fuses high-throughput locus tracking with Brillouin/optomechanical readouts (or their calibrated surrogates) to infer time-resolved viscoelastic parameters of bacterial chromosomes and quantify how ParB sliding/bridging reshapes 3D organization and dynamics in vivo.
+
+Can a neural network constrained by polymer-bridging physics learn a causal, quantitative map from locus trajectories to latent “mechanical states” (local stiffness/viscosity, bridging density, loop lifetimes) that distinguishes ParB sliding vs bridging regimes beyond what MSD/subdiffusion fits can resolve?
+
+Can Brillouin-based optoacoustic interactions be used to create a calibrated, noninvasive mechanical observable (or a synthetic training signal) that enables the network to predict how changes in ParABS parameters shift chromosome domain formation and origin/terminus migration trajectories under perturbations (e.g., ParB mutants, altered copy number, or ATPase activity)?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 5
+
+Quantum-Enhanced Bioacoustic Sensing and Denoising of Birdsong in Real-World Noise Fields
+
+Develop a field-deployable acoustic sensing and signal-processing platform that uses optoacoustic/Brillouin-based photonic devices to selectively transduce and suppress environmental noise while preserving fine temporal–spectral structure of birdsong, enabling causal tests of how noise triggers, reshapes, or masks avian vocal behavior.
+
+Can Brillouin-driven nonreciprocal/ chiral phonon filtering be engineered to reject dominant anthropogenic noise bands (e.g., traffic/airport spectra) while minimally distorting song syntax and microstructure, outperforming state-of-the-art digital denoisers in low-SNR dawn-chorus recordings?
+
+Does experimentally controlled injection of calibrated “white-noise bursts” and naturalistic noise—quantified with the new sensor—reveal predictable, individual-specific changes in song onset, sequence structure, and territorial signaling, separating true behavioral adaptation from measurement/ masking artifacts?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 6
+
+Potential Implications of Quantum Technologies and Quantum Communication on Global Politics
+
+Develop an understanding of the potential interplay between quantum technologies and politics.
+
+What are the timelines for different quantum technologies and how could they affect on political systems and relationships?
+
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 7
+
+Neural network for the identification of measures and possibilities for new entrepreneurs to enter a specific market
+
+Train a neural network with the structures and the entrepreneurial framework of a market. Identify measures and possibilities for how new entrepreneurs can best enter the market successfully.
+
+Can a neural network identify entry points for new entrepreneurs successfully i.e. identify similar and possibly new points as experts of the field would.
+
+If successful, a new tool is created guiding new entrepreneurs.
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 8
+
+Stimulated Brillouin Scattering for measurements of mechanical properties of brain tissue from different age groups
+
+Use Stimulated Brillouin Scattering to measure the mechanical properties of brain tissue at different stages of aging
+
+Stimulated Brillouin Scattering as a technique for investigations of mechanical properties of brain tissue
+
+New insights on the age-dependency of mechanical properties of brain tissue
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 9
+
+Quantum Trust Signals: Using Nonreciprocal Optomechanics to Make Governance Claims Auditable in Global Supply Chains
+
+Develop a hardware-backed “trust signal” that uses nonreciprocal, tamper-evident photonic/optomechanical devices to authenticate labor- and human-rights–related compliance data, and study how such signals reshape authority, contestation of norms, and accountability among states, firms, and NGOs.
+
+Can topology-selective, nonreciprocal Brillouin/optomechanical scattering be engineered into a practical anti-spoofing provenance tag that cryptographically and physically attests “who measured what, when, and where” for compliance data?
+
+How do different global-governance actors interpret and contest these hardware trust signals, and under what institutional conditions do they shift perceived authority (e.g., from companies to auditors/IOs/publics) rather than simply adding another layer of unverifiable certification?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+ 
+
+
+
+###############
+
+
+Project 10
+
+Brillouin scattering as non-destructive readout of coupled Kerr solitons in Fabry Perot Resonators
+
+Brillouin scattering can provide information about the symmetry conservation of the source of phonons. It enables the read out of the quantum states of Kerr solitons in Fabry Perot Resonators without being a competing decay channel.
+
+Can Brillouin scattering be used to characterize solitons in Fabry Perot Resonators?
+
+Brillouin scattering provides information about the state of Kerr solitons coupled to resonators.
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 11
+
+Brillouin-Enabled Fiber-Optic Skin for High-Reynolds-Number Flow Sensing and Dynamic-Stall Control
+
+Develop an embedded photonic-fiber “aero-skin” that uses stimulated Brillouin scattering (SBS) and optoacoustic interactions to measure and manipulate unsteady pressure/shear signatures on airfoils and wind-turbine blades at high Reynolds numbers, targeting dynamic stall onset and turbulent-wake dynamics.
+
+Can SBS-based distributed sensing in twisted/chiral fibers resolve the spatiotemporal evolution of dynamic-stall precursors (leading-edge suction collapse, shear-layer roll-up) at high Re with bandwidth and spatial resolution beyond conventional pressure-tap/PIV approaches?
+
+Can optically driven guided acoustic waves (via Brillouin/optoacoustic actuation) provide localized, tunable, nonreciprocal boundary-layer perturbations that delay or reshape dynamic stall and measurably alter wake coherence and loads in high-Re wind-tunnel experiments?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 12
+
+Brillouin-Polaritonic Neuroimaging: Fiber-Integrated, Strong Light–Matter Sensors for Early Detection and Mechanistic Stratification of White Matter Hyperintensities
+
+Develop and validate a wearable, nanofiber/photonic-crystal-fiber Brillouin sensing platform operating in a strong light–matter interaction regime to noninvasively track cerebral vascular pulsatility and microstructural mechanical proxies, and relate these measures to MRI-defined white matter hyperintensities (WMH) and cognitive/affective outcomes. The project aims to create new physiological markers that bridge vascular dynamics, tissue microstructure, and WMH burden.
+
+Can strong-coupling-enhanced Brillouin optoacoustic sensing (normal-mode-splitting-based readout) detect subtle, subject-specific changes in arterial pulse-wave signatures and perfusion-related mechanics that predict WMH presence/progression better than standard cardiovascular metrics?
+
+Do longitudinal changes in optomechanically inferred brain/vascular micro-mechanics during stress, respiration, and sleep correlate with region-specific WMH evolution on T2/FLAIR and with depressive symptoms/cognitive performance, enabling mechanistic WMH subtyping beyond lesion volume?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 13
+
+Dissipation Narratives: A Content-Analytic Map of Mechanical Loss Mechanisms in Optomechanics and Brillouin-Based Nonreciprocal Devices
+
+Develop a reproducible content-analysis pipeline that extracts, codes, and quantifies how “mechanical dissipation” is defined, measured, modeled, and mitigated across the optomechanics/Brillouin-scattering literature, then use the resulting dissipation-knowledge graph to generate experimentally testable design rules for lower-loss, nonreciprocal optoacoustic devices.
+
+Which dissipation mechanisms (e.g., clamping loss, thermoelastic damping, two-level systems, viscosity, defect-mediated loss) are systematically linked—across published experiments—to particular geometries, materials, frequencies, and operating conditions, and can these links predict Q-factor limits better than field-standard heuristics?
+
+How do competing “authority regimes” of evidence (e.g., preferred metrics like loss angle vs. Q, favored modeling assumptions, and citation/framing patterns) shape what the community treats as the dominant loss channel, and can identifying these biases uncover underexplored mitigation strategies for nonreciprocal Brillouin and chiral-flexural-wave platforms?
+
+ 
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 14
+
+Optoacoustic behaviour of DNA
+
+This project explores the interaction of light with DNA modeled by optoacoustic theory.
+
+Can we learn something about the 3D packing and dynamic arrangement of DNA in experiments with light?
+
+Does DNA have interesting optoacoustic properties?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 15
+
+Optoacoustic Vortex Sensors for Real-Time Dynamic Stall and Wake Diagnostics in High–Reynolds Number Turbine Flows
+
+Develop and validate fiber-integrated, stimulated-Brillouin/vortex-based optoacoustic sensing and actuation elements that can survive turbine-relevant environments and provide real-time measurements of unsteady pressure/shear signatures associated with dynamic stall and wake evolution. Use these measurements to build new physics-informed models and control inputs for wind-turbine aerodynamics at high Reynolds numbers.
+
+Can chiral flexural phonon–driven Brillouin frequency shifting and nonreciprocal vortex conversion in twisted fibers be engineered into distributed sensors that uniquely separate convection direction, vorticity content, and compressive/acoustic content of dynamic-stall events on blades?
+
+Do optoacoustic “activation function” elements (Brillouin-based nonlinear transduction) enable new, low-latency stall/wake state estimators that outperform conventional hot-wire/pressure-tap instrumentation in predicting onset, severity, and hysteresis of dynamic stall under realistic inflow turbulence?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 16
+
+Brillouin-Optoacoustic Neuromorphic Sensing for Quantifying Age-Related Changes in Hippocampal Memory Encoding Dynamics
+
+Develop an optoacoustic (Brillouin/optomechanical) photonic platform that performs real-time, low-power classification of neural signals and tissue micro-mechanics, and apply it to test how hippocampal encoding/recognition processes change across development and aging. The goal is to create a new measurement-and-computation tool that links biophysical tissue properties and neural selectivity with memory outcomes.
+
+Can Brillouin/optomechanical readouts of brain tissue micro-mechanical signatures (e.g., viscoelasticity proxies) predict individual differences in hippocampal subfield development/aging beyond what is explained by cross-sectional age associations?
+
+Can an optoacoustic field-programmable perceptron (using stimulated Brillouin scattering activation functions) decode encoding vs. recognition states from hippocampal electrophysiology/MEG-like features with higher stability across age groups, revealing whether “neural selectivity decline” is state-specific rather than globally reduced?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 17
+
+Brillouin Fiber-Laser Optoacoustic Microscopy for Label‑Free Mapping of Chromosome Mechanics in Live *E. coli*
+
+Develop a compact stimulated‑Brillouin‑scattering (SBS) fiber‑laser/Brillouin memory system that delivers phase‑stable, narrow‑linewidth excitation and readout to perform label‑free, optoacoustic/Brillouin microscopy of *E. coli* nucleoids, linking measured intracellular viscoelasticity to ParB/ParABS‑mediated DNA bridging dynamics.
+
+Can SBS-based optoacoustic/Brillouin readout detect and quantify changes in intracellular mechanical properties caused specifically by ParB-driven bridging and sliding, producing a label‑free “mechanical signature” of partition complex formation in living cells?
+
+Does the spatial–temporal mechanical landscape of the nucleoid (stiffness/viscosity gradients) predict subdiffusive locus trajectories and mid-cell terminus migration, enabling a mechanistic bridge between physical viscoelastic parameters and the tracking-derived motion models?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 18
+
+Brillouin-Activated Topological Flexural Phonon Router with Chiral Edge Transport
+
+Create a chip-scale platform where flexural phonons in a suspended membrane are generated, cooled, stored, and nonreciprocally routed by stimulated Brillouin scattering (SBS), while topological chiral edge states provide backscattering-immune transport of the resulting mechanical excitations.
+
+Can SBS-driven gain/loss and phase control be used to *dynamically write, erase, and reconfigure* the band topology for flexural phonons, enabling on-demand switching between trivial and chiral-edge transport in the same device?
+
+Can Brillouin cooling and coherent pulsed control prepare low-entropy (near-quantum) flexural phonon wavepackets that propagate as chiral edge modes with measurably enhanced robustness, storage time, and reduced disorder sensitivity compared to conventional flexural transport?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 19
+
+The societal impact of Brillion scattering breakthroughs
+
+How Brillion techniques can be applied in cell biology to develop a cure for cancer and therefore reduce the labour inequality for people with cancer/disability/diseases. (Very random I know)
+
+Push for more research into understanding and developing Brillion scattering approaches
+
+Attract investments/funding for the Brillion field from societal organisations.
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 20
+
+Brillouin-Enabled Optoacoustic Neurophysiology: Chip-Scale Sensing of Stress- and Breath-Linked Brain–Body Dynamics in Virtual Reality
+
+Develop a miniaturized Brillouin/optoacoustic photonic sensor platform (e.g., nanofiber/waveguide-based) to noninvasively and synchronously track subtle mechanical and hemodynamic signatures linked to respiration, heartbeat, and acute psychosocial stress during immersive VR, and relate them to EEG and behavior.
+
+Can guided Brillouin interactions in integrated waveguides/nanofibers be engineered to measure heartbeat- and respiration-driven micromechanical vibrations (and their stress-induced changes) with sensitivity and bandwidth sufficient to resolve trial-by-trial coupling to EEG markers of perception and visual short-term memory in VR?
+
+Do individual differences in vascular risk and white-matter integrity predict distinct “optoacoustic–EEG coupling phenotypes” (e.g., altered cardio-respiratory–brain synchronization under stress), enabling a new mechanistic biomarker that links microvascular health to real-time cognitive performance?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 21
+
+Phonon-Cooled Brillouin Light-Sheet Microscopy with Self-Supervised Pixel Classification for Low-Dose Live Imaging
+
+Develop an optomechanical/Brillouin-based “phonon-cooled” light-sheet illumination module that suppresses thermally driven noise and sample heating, and pair it with robust pixel-classification/segmentation to extract biological structure from lower-SNR, lower-phototoxicity image data.
+
+Can dynamic Brillouin cooling in an integrated waveguide/optomechanical element reduce illumination-induced thermal fluctuations (and intensity/phase noise) enough to enable quantitatively better low-dose light-sheet microscopy, compared to conventional stabilized lasers?
+
+Can pixel classification trained on phonon-noise-aware features (e.g., spatiotemporal noise fingerprints and denoised uncertainty maps) reliably segment cells/tissues at photon budgets that currently fail standard pipelines, enabling new live-imaging regimes with less photobleaching and phototoxicity?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 22
+
+Phonon cooling by pixel classification
+
+To couple pixel classification with phonon cooling
+
+Not sure what this will be useful for maybe mapping phonons?
+
+Pixel guided phonon detection
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 23
+
+Trust-by-Physics: Optoacoustic Brillouin “Audit Trails” for Secure, High-Stakes Entrepreneurial Dealmaking
+
+Develop and field-test a communication and transaction platform for business-sale and family-firm succession negotiations that uses stimulated Brillouin scattering (SBS) and optoacoustic signatures to detect eavesdropping and provide tamper-evident, physically grounded “proof of channel integrity,” then study how such hard security signals reshape trust, coordination, and future-oriented decision-making in entrepreneurial groups.
+
+Can SBS-based eavesdropper localization and nonlinear-scattering fingerprints be engineered into practical “security attestations” (real-time risk scores) for negotiation channels, and do these attestations measurably reduce perceived uncertainty, conflict, and renegotiation rates in entrepreneurial/family-firm transactions?
+
+How do different group conditions (role confidence, hierarchical congruence, crisis salience) interact with physically verified channel security to change the content and time-horizon of entrepreneurial visions—e.g., do teams move from defensive, short-term planning to more innovative, long-term commitments when integrity is objectively guaranteed?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 24
+
+Analyzing vibrations in wind turbines with optoacoustic materials.
+
+A wind turbine is coated in optoacoustic materials to investigate the effects of airflow on the structure.
+
+Can optoacoustic materials serve as a reliable way of detecting small vibrations in the material?
+
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 25
+
+Nonreciprocal “Narrative Isolators”: Physics-Inspired Neural Networks for Detecting Hidden Norm Contestation in Global Governance Discourse
+
+Develop a neural-network pipeline whose architecture is inspired by nonreciprocal/topology-selective wave scattering to detect, localize, and characterize *hidden contestation of norms* in large-scale institutional texts (e.g., ILO/UN documents) and map how authority and framing shift across actors and venues.
+
+Can nonreciprocal, topology-selective ANN architectures (analogous to direction-dependent scattering/isolators) reliably separate “surface consensus” language from “hidden contestation” signals in governance texts, outperforming standard transformers on interpretability and robustness to strategic ambiguity?
+
+Do the model’s learned “discourse scattering signatures” reveal measurable, time-resolved pathways by which non-state actors (e.g., companies) gain governance authority—identifying when/where specific frames propagate, invert, or get blocked across institutions and policy forums?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 26
+
+The philosophy of working models behind physics discoveries
+
+How different working models/ confidence/flexible working hours affect a scientist productivity
+
+See if there is a social aspect to increase scientific discoveries
+
+How to confidence affect
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 27
+
+Stimulated Brillouin Scattering measurements of the collective movement of E. coli
+
+E.coli bacteria are cultivated and stimulated Brillouin Scattering measurements are performed. The response of the Brillouin signal from the bacteria colony is analyzed. Different conditions for the colony are tested to investigate whether the Brillouin response is reflecting the movements induced by the condition.
+
+Proof of Principle of the usage of Stimulated Brillouin Scattering for measurements of the movements of the bacteria colonies
+
+Stimulated Brillouin Scattering as potential sensor to detect changes in movements due to changing conditions
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 28
+
+Optoacoustic devices for the improvement of Parental Mental Health
+
+
+
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+(that's only my own parental mental health being improved by doing interesting research on optoacoustics :-P)
+
+
+
+
+###############
+
+
+Project 29
+
+Neural Inverse Design and Real-Time Control of Chiral Brillouin Polaritons for Nonreciprocal On-Chip Photonics
+
+Create and experimentally validate a neural-network-driven platform that designs and actively stabilizes strong photon–phonon coupling in waveguide Brillouin/optomechanical systems to realize robust, tunable nonreciprocal devices. The project will combine topology-selective stimulated Brillouin scattering with ML-based inverse design and closed-loop control to generate and manipulate hybridized light–sound (polariton-like) modes on chip.
+
+Can a neural inverse-design model discover new waveguide geometries and pump protocols that maximize coherent Brillouin coupling while suppressing dissipation, enabling experimentally observable Rabi-like energy exchange and long-lived Brillouin light storage under realistic fabrication constraints?
+
+Can ML-based real-time feedback learn and lock into topologically protected, chiral nonreciprocal operating points (e.g., vortex conversion/frequency shifting) that remain stable against drift and disorder, yielding reconfigurable isolators/circulators with performance beyond static design?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 30
+
+Fluid mechanics and Brillouin microscopy
+
+Can we build a microfluidic system for Brillion microscopy techniques
+
+Improve the speed of Brillioun microscopy
+
+Increase the throughput and accuracy and power of brillioun microscopy
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 31
+
+A physics model for the dynamics of the avian dawn chorus
+
+The project models the interactions between birds with mathematics and heuristics inspired by optoacoustics.
+
+Can the avian dawn chorus be described analogously to phonons scattering?
+
+Do the predictions made by the model match observations?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 32
+
+Prediction of reactions in the UN using an artificial neural network trained on recent politicians’ speeches
+
+Train a neural network with politicians’ speeches that were given before a recent decision. The neural network will be given an independent scenario that happened after the speeches and should predict the politician’s reaction/opinion based. Afterwards the prediction can be compared to reality.
+
+Can a neural network predict the reaction/opinion on unforeseen events based on recent speeches independent of the event?
+
+How do the neural networks predictions differ from predictions from political experts?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 33
+
+Brillouin “Social Channel” Networks: Using Nonlinear Optoacoustic Scattering as a Physical Reservoir to Model and Detect Organizational Futures
+
+Build a hybrid system where stimulated Brillouin scattering (SBS) and optoacoustic dynamics act as a *physical neural network* (reservoir computer) trained on sociological data to model and forecast how entrepreneurial groups form shared visions, respond to crises, and decide on succession or business sales. The project also uses the system’s intrinsic “eavesdropper localization” physics as an analogy-driven tool to detect hidden influence and information asymmetries in organizations.
+
+Can an SBS-based physical reservoir computer learn predictive signatures of “future-imagining” alignment (e.g., role confidence, hierarchical congruence) in entrepreneurial groups better than conventional digital neural networks, revealing new nonlinear mechanisms of collective expectation formation?
+
+Can methods inspired by SBS eavesdropper localization be adapted to identify latent brokers, covert agenda-setting, or information leakage in firm-platform ecosystems (succession/sale markets), producing measurable indicators of power and trust that extend existing sociological theory?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+(it would be a 5 if the eavesdropper localization would not weirdly show up here)
+
+
+
+###############
+
+
+Project 34
+
+Topologically Protected Brillouin Waveguide Optomechanics for Robust Quantum Memory and In-Channel Eavesdropper Localization
+
+Create an integrated waveguide platform where stimulated Brillouin scattering (SBS) interfaces light with topological phonon edge modes, enabling long-lived, disorder-robust photon–phonon storage/processing while simultaneously providing new physics-based tools to localize perturbations (including eavesdroppers) inside quantum/classical links.
+
+Can SBS be engineered to selectively couple photons into chiral/topological mechanical edge states to realize a quantum memory whose storage time and retrieval fidelity are intrinsically protected against backscattering and fabrication disorder?
+
+Can topological phonon transport plus nonlinear SBS scattering generate unique, direction-dependent spatiotemporal signatures that allow precise, calibration-free localization of in-channel perturbations/eavesdroppers beyond what is possible with conventional (non-topological) Brillouin sensing?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 35
+
+Design of new optomechanical systems with artificial intelligence.
+
+Topology-selective stimulated Brillouin scattering and other optomechanical effects offer a wide range of complicated behaviour. This work explores new designs for experimental setups discovered by AI algorithms.
+
+Can a computer discover more efficient vortex isolators?
+
+Can a computer discover experiments that enable the realization of previously unobserved optomechanical effects or propose new effects?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 36
+
+Localizing Eavesdroppers in engineered mechanical systems.
+
+Eavesdropper localization has been studied for both quantum and classical channels. This project approaches the classical case from the direction of topological phonon transport.
+
+Can topologically protected transport be more effective at avoiding eavesdropping?
+
+Can topologically protected transport be more effective at detecting and localizing eavesdropping?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 37
+
+Neural-Optimized Brillouin–Kerr Microcomb Spectroscopy: Learning-Controlled Symmetry Breaking for Ultra-Precise Frequency Metrology
+
+Develop a hybrid photonic platform that couples stimulated Brillouin scattering (SBS) optoacoustic dynamics with Kerr-soliton microresonator frequency combs, and uses neural networks to learn real-time control policies that stabilize and reconfigure comb states for precision spectroscopy.
+
+Can neural nets learn to deterministically navigate multi-stable Kerr-soliton symmetry-broken states (in ring/Fabry–Pérot resonators) using SBS-mediated optoacoustic actuation, achieving repeatable access to comb regimes that are otherwise stochastic or environmentally fragile?
+
+Can an SBS-based “optoacoustic activation function” be repurposed as a physical, low-noise, high-bandwidth controller for microcomb line spacing and phase noise, enabling new spectroscopy measurements limited by fundamental noise rather than technical drift?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 38
+
+Cooling the Conversation: Optoacoustic “Phonon Extraction” as a Physical Metaphor and Measurement Framework for Organizational Heat in Entrepreneurial Groups
+
+Develop and validate a hybrid method that maps “overheated” dynamics in entrepreneurial-group communication (conflict escalation, uncertainty spirals, future-fragility) onto a formal energy-flow model inspired by phonon cooling, using content analysis to estimate how interventions increase “extraction” of disruptive conversational energy into stabilizing structures.
+
+Can we operationalize an “effective conversational temperature” from coded speech/text (e.g., volatility, contradiction density, temporal horizon shifts) and show that specific facilitation or platform-governance interventions measurably increase an analog of phonon-to-bath coupling (i.e., faster relaxation from high-arousal states to coordinated planning)?
+
+Do communication networks in teams and family-firm succession contexts exhibit identifiable “hot-spot” propagation patterns analogous to traveling hypersound modes (bursts that amplify via feedback), and can an optoacoustic-inspired control strategy predict—and then suppress—these cascades better than standard organizational sentiment or topic models?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 39
+
+Privacy-Preserving, Single-Parent–Centered Mobile Data Collection Using Quantum-Key-Distributed Secure Optical Links
+
+Develop and pilot a field-deployable data-collection platform for sensitive family and mental-health surveys in which end-to-end confidentiality is enforced with QKD-enabled optical communication, leveraging Brillouin/optomechanical photonic components to make the hardware compact and robust. The aim is to enable higher-trust, lower-bias research participation among single parents while creating a real-world testbed for practical QKD in socially meaningful settings.
+
+How does offering verifiable, information-theoretic confidentiality (QKD-backed secure channels) change participation rates, item nonresponse, and reporting accuracy in surveys about mental health, childcare burden, and household fairness among single parents compared with classical encryption assurances?
+
+Can optoacoustic/Brillouin-based integrated photonic elements (e.g., nonreciprocal isolators and active cooling in waveguides) measurably improve QKD link stability and key-generation reliability in noisy, cost-constrained community environments (clinics, schools, social-service centers), enabling a new class of “social-science-grade” quantum-secured data infrastructure?
+
+
+Interest level: (1=not interesting, 5=very interesting): 4
+
+
+
+
+###############
+
+
+Project 40
+
+Shedding a light on white matter health
+
+Use light–matter interaction to create models that detect white matter microstructural changes.
+
+Can Brillouin detect the stiffness changes in white matter during disease?
+
+Can Brillouin assess how stress or drugs influence white matter integrity?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 41
+
+Single-parenting researchers in the “quantum key distribution” field – Statistics and studies on mental health compared to non-single-parenting researchers in that field
+
+Numbers and statistics of single-parenting researchers in the “quantum key distribution” field are investigated. If enough statistic: Single-parenting researchers as well as the same number of non-single-parenting researchers as control group are invited to a questionnaire on their mental health. This is evaluated to find out how single-parenting affects researchers in that field and whether there should be more measures to support single-parenting researchers.
+
+What are the statistics of single-parenting researchers in the field of quantum key distribution research?
+
+Does single-parenting affects researchers in that field specifically and are there possible measures to support them?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 42
+
+Chiral Brillouin–Kerr Microcombs: Optoacoustic Control and Symmetry Engineering of Vector Soliton Frequency Combs
+
+Develop a microresonator platform where stimulated Brillouin interactions with engineered (chiral) phonons are co-integrated with Kerr-comb formation to actively control, stabilize, and reconfigure symmetry-broken (vector) soliton states and their frequency comb spectra.
+
+Can chiral/forward Brillouin scattering be used as a tunable non-Hermitian coupling mechanism to deterministically induce, select, or suppress spontaneous symmetry breaking in Kerr solitons (including vector solitons) within ring and Fabry–Pérot microresonators?
+
+Can optoacoustic cooling and Brillouin-based memory/activation concepts enable long-lived, low-noise, electrically addressable “phonon-written” soliton-comb states—yielding reconfigurable microcomb operation modes and new comb dynamics unattainable with Kerr nonlinearity alone?
+
+
+Interest level: (1=not interesting, 5=very interesting): 5
+
+
+
+
+###############
+
+
+Project 43
+
+Brillouin Neurohemodynamics: Label‑Free Mapping of Brain Microvascular Mechanics to Explain Fast CBF/BOLD Sign Changes
+
+Develop and validate a Brillouin-scattering–based optical platform to quantify microscale viscoelastic properties of cerebral microvessels and surrounding parenchyma, and link these mechanical metrics to dynamic cerebral blood flow (CBF) and BOLD responses measured with multi-echo fMRI/PET.
+
+Do rapid, region-specific changes in microvascular and perivascular stiffness (measured by Brillouin frequency shifts) predict the occurrence and magnitude of positive vs. negative CBF/BOLD responses during stress or task paradigms?
+
+Can a coupled “mechanics + perfusion” model—parameterized by Brillouin-derived elastic moduli—explain dysregulated neurovascular coupling in clinical conditions (e.g., heart failure, Tourette syndrome) better than hemodynamic data alone, yielding new mechanistic biomarkers?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############

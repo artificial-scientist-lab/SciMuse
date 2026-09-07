@@ -1,0 +1,853 @@
+Project 1
+
+GlycoSense Control: Reinforcement-Learned Super-Resolution Microscopy for Live Mapping and Perturbation of Cell-Surface GlycoRNA/RBP Domains
+
+Develop an embodied reinforcement-learning (RL) control system for a super-resolution microscope that autonomously finds, tracks, and perturbs dynamic glycocalyx/glycoRNA/RNA-binding-protein domains on living cells, optimizing imaging quality while minimizing photobleaching and phototoxicity.
+
+Can gray-box RL policies that exploit fluorophore photophysics and localization uncertainty actively choose illumination, color-channel scheduling, and scan trajectories to outperform fixed imaging protocols in spatiotemporal resolution and bleaching-limited acquisition time for multicolor live-cell super-resolution?
+
+Can closed-loop, policy-driven perturbation (e.g., timed delivery of glycosylation inhibitors or cell-penetrating peptides) reveal causal rules linking glycocalyx/glycoRNA domain dynamics to viral RNA localization/entry pathways that are invisible to open-loop imaging and bulk biochemical assays?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 2
+
+Spatiotemporal Mapping and Control of Viral Entry During Scarless Repair in the Spiny Mouse
+
+Leverage super-resolution imaging and micrometer–millisecond “paintbrush” delivery to visualize and perturb host-cell infection pathways in regenerating *Acomys* tissues, aiming to identify infection vulnerabilities and protective mechanisms unique to scarless healing.
+
+Do regenerating spiny mouse tissues transiently reprogram cell-surface RNA–protein/glycoRNA domains (and glycosylation states) in ways that enhance or suppress viral attachment and entry compared to non-regenerating mammals?
+
+Can precisely timed, localized modulation of glycosylation or entry-factor accessibility (via nanoparticle/small-molecule microdelivery) causally shift infection outcomes in vivo during defined stages of spiny mouse wound healing and spinal cord regeneration?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 3
+
+Extracellular RNA and behavioural change
+
+Integrate extraceullar RNA measurements with psychological assesments to track personality traits.
+
+Does extraceullar RNA indicate traits or psychological patterns?
+
+Can this be used to forecast future personality traits?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 4
+
+From Cell-Surface Glycocalyx to Population Health: Linking Viral Entry Biology to Age- and Sex-Specific COVID-19 Mortality Patterns
+
+Quantify how variability in cell-surface glycocalyx/glycoRNA-mediated viral entry across age and sex could mechanistically contribute to differences in COVID-19 severity, and integrate these measurements into improved demographic models of excess mortality. The project bridges super-resolution cell biology with robust population-level baseline and sensitivity methods to connect micro-scale mechanisms to macro-scale outcomes.
+
+Which measurable glycocalyx/glycoRNA domain features (e.g., density, nanoscale organization, RNA-binding protein co-localization) vary systematically with donor age and sex and predict differences in SARS-CoV-2 entry/early replication in primary human airway cells?
+
+When these mechanistic biomarkers are incorporated as priors or stratification variables, do excess-mortality models (with age/sex adjustment and baseline sensitivity analyses) better explain cross-region differences in mortality burden than models using demographics and exposure indicators alone?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 5
+
+Super resolution imaging of human neural networks
+
+By leveraging super resolution imaging, we will better understand human neural networks. This is relevant for understanding neural disorders.
+
+How do the neural networks look with super resolution imaging for different disorders?
+
+How does this change over time as the disorder program?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 6
+
+Visualizing Viral RNA–Triggered Recombination-Like DNA Repair Intermediates in Single Cells Using Super-Resolution Microscopy
+
+Determine whether SARS‑CoV/ACE2-driven infection and viral RNA localization at host membranes/nuclear periphery induces specific host DNA damage–response pathways that generate branched recombination-like DNA intermediates, and map where/when these structures form in cells. Combine coronavirus RNA imaging and controlled intracellular delivery (“paintbrush”) with expertise in meiotic joint-molecule biology to create new spatial–temporal assays for DNA repair intermediates during infection stress.
+
+Do SARS‑CoV infection and/or localized viral RNA–protein condensates provoke formation of Holliday junction–like or other branched DNA joint molecules in somatic cells, and can these be directly detected and quantified by super-resolution imaging coupled to structure-specific probes?
+
+Which helicases/kinase modules analogous to meiotic factors (e.g., Mer3-like helicase activities or Mek1-like signaling logic) are repurposed in infected cells to process these intermediates, and can targeted perturbations shift outcomes toward genome stability or antiviral states?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 7
+
+From Cells to Selves: A Multiscale “Signal-to-Noise” Framework for Detecting Dark Traits and Treatment Responsivity
+
+Develop and validate a new measurement approach that treats self-report and behavioral data like an imaging problem—separating true psychological “signal” from methodological “noise”—using super-resolution-inspired modeling to improve prediction of aversive behaviors and treatment outcomes.
+
+Can computational principles from multicolor super-resolution localization microscopy (e.g., deblending overlapping emitters, correcting photophysical dropout) be translated into psychometrics to disentangle overlapping dark-trait facets and reduce measurement artifacts, yielding more stable and transportable trait estimates across contexts?
+
+Do these higher-resolution trait estimates better predict real-world outcomes (e.g., coercive/aversive relationship behaviors, criminological risk indicators, and differential treatment selection/response in projects like MegaOath) than conventional scale scoring, enabling novel, individualized intervention matching?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 8
+
+Viral infection dynamics in regenerative spiny mouse
+
+Here we want to study how the host cell infection spread dynamics change in an environment where cells can be regenerated.
+
+Is viral spread affected detrimentally due to cells being regenerated?
+
+Multi-color super resolution techniques could be used to reveal these dynamics, leading to a potential development of new treatment techniques
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 9
+
+Investigating differences in age and sex on COVID-19 infection using superresolution micrscopy cellular studies in comparison to mortality data during the COVID-19 pandemic
+
+Investigate the infection and mortality of COVID-19 based on age and sex on two levels and compare the results: Once on a cellular level using superresolution microscopy and once by studying infection and mortality from data of the COVID-19 pandemic.
+
+Influence of age and sex on infection and mortality of single cells taken from respective individuals
+
+Influence of age and sex on infection and mortality on high level of a whole population of people and potential similarity and explanation from the cellular level studies
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 10
+
+Spatiotemporally Programmed Glycocalyx Editing in Intact Tissues for In Situ Cryo-ET Mapping of Membrane Trafficking Nanodomains
+
+Develop a workflow that uses micrometer/millisecond small‑molecule and nanoparticle delivery to locally perturb cell-surface glycosylation inside multicellular samples, then captures the resulting membrane remodeling and trafficking machinery in situ using correlative cryo-fluorescence, cryo-FIB lift-out, and cryo-electron tomography.
+
+How does acute, spatially confined inhibition or reprogramming of glycocalyx glycosylation reshape membrane curvature, protein clustering, and endocytic/COPI-related trafficking architectures in neighboring cells within a tissue context?
+
+Can correlative targeting (fluorescent reporters + localized delivery landmarks) enable automated cryo-FIB lamella selection of “perturbation zones,” yielding the first high-resolution in situ structural maps linking specific glycocalyx chemistries to defined membrane nanodomains and transport intermediates across multicellular organization?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 11
+
+From Breath to Deposition: Single-Particle Super-Resolution Microscopy Meets Turbulent Transport to Quantify Airborne Glycocalyx-Targeted Nanoparticles and Microplastics at the Cell Interface
+
+Develop an end-to-end experimental framework that links turbulent airborne transport (size/shape-dependent) of fibers and aerosolized nanoparticles to their real-time landing, adhesion, and uptake on living cells, quantified with multicolor super-resolution microscopy and precise micro-delivery.
+
+How do turbulence and particle morphology (fiber vs sphere, size, surface chemistry) jointly control near-surface deposition flux and “hot-spot” landing patterns on epithelial cell layers, and can we predict these from 1D velocity/turbulence measurements?
+
+Once deposited, how do glycocalyx composition and pharmacological glycosylation perturbations alter the retention time, nanoscale clustering, and internalization pathways of individual airborne particles (microplastics vs functional nanoparticles) under realistic shear/airflow conditions?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 12
+
+Effects of gamma rays on the cell membrane.
+
+This project studies the effect of gamma rays, as emitted by cosmic pulsars, on the membrane of a biological cell.
+
+How does the effect depend on the frequency of the photon?
+
+Can the effects be analyzed and visualized with super-resolution techniques?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 13
+
+Spatiotemporally-Resolved Fourier-Transform Chiroptical Nanospectroscopy of Cell-Surface GlycoRNA/RBP Domains
+
+Develop a microscopy-compatible Fourier transform spectroscopy (FTS) platform using broadband, low-noise fiber supercontinuum and in-fiber polarimetry to map chiral and vibrational spectral fingerprints with micrometer-to-nanometer spatial organization on live-cell surfaces, focusing on glycoRNA/RNA-binding protein (RBP) domains and their role in molecular entry and infection.
+
+Do distinct spatial domains of glycoRNAs and RBPs on the glycocalyx exhibit measurable, domain-specific chiroptical/FTS spectral signatures (e.g., circular dichroism or polarization-resolved interferometric contrast), and how do these signatures correlate with super-resolution-defined domain geometry and symmetry?
+
+How do nanoscale perturbations (targeting glycocalyx components, adding cell-penetrating peptides, or introducing viral RNA/proteins) reshape the spatial correlation functions of these domains over time, and can FTS-derived spectral changes predict functional outcomes like uptake efficiency or infection progression?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 14
+
+Correlation of molecules and cell structures, a super resolution and cryo-ET approach
+
+Link molecular positions to cell structures to uncover molecular assembly strategies.
+
+How does the nanoscale organization of molecules affect ceullar structures.
+
+Can super resolution fluorescence reveal previously unseen structural arrangements?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 15
+
+RNA viruses' behaviour during meiosis - enhanced risk?
+
+Studying whether unique vulnerabilities exist during meiosis, with particular focus on RNA betacoronaviruses.
+
+What interactions are there during meiosis with RNA viruses?
+
+Do cells have higher vulnerabilities to RNA viruses during meiosis?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 16
+
+Identifying domains for cell penetrating peptide entry by analyzing the symmetry of the cell surface.
+
+This project aims to apply mathematical concepts from non-hermitian physics to analyze the structure of the cell surface and identify the positions that are suitable for peptide entry.
+
+Can the structure of the cell surface be described sufficiently with a non-hermitian physics model?
+
+What is the role of symmetry in describing the cell surface?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 17
+
+Exceptional-Point–Enhanced Single-Photon Biosensing of SARS-CoV-2 RNA Dynamics and Glycocalyx-Mediated Entry
+
+Create a live-cell optical platform that couples quantum emitters in non-Hermitian (exceptional-point) nanophotonic environments to super-resolution imaging, enabling ultrasensitive, real-time tracking and quantification of coronavirus RNA localization and glycocalyx-dependent uptake pathways.
+
+Can exceptional-point–engineered emitter–photonic structures transduce nanoscale changes in local refractive index/absorption caused by viral RNA complexes and cell-surface glycoRNA domains into measurably amplified, single-photon-level signals for label-free (or minimally labeled) detection in living cells?
+
+How do pharmacological perturbations of glycosylation and spatially controlled “paintbrush” delivery of inhibitors/nanoparticles reshape the spatiotemporal coupling between viral RNA trafficking and glycocalyx-mediated entry routes, as revealed by correlated super-resolution maps and quantum-emitter emission statistics (spectral shifts, linewidth changes, photon correlations)?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 18
+
+Build to Understand: Emulating cell surfaces with biofilms
+
+A first attempt of reengineering the cells surface with biofilms. This aims at understanding the structure of cell surfaces by constructing them from scratch.
+
+Which components of a cells surface can be reconstructed with existing biofilm techniques?
+
+What analogues can be drawn between the growth of biofilms and the cells surface?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 19
+
+Investigation of beat patterns of neurons activated by paintbrush delivery of calcium
+
+Neuronal activity is linked to calcium exchange. The communication and beat pattern of neurons is initiated by local paintbrush delivery to an individual neuron and the beat pattern is followed using a bio-imaging technique, preferably a super-resolution technique to follow the calcium flow more precisely.
+
+Proof of Principle of paintbrush delivery to an individual neuron and its further processing in a network of neurons as a beating pattern
+
+Investigation of neuronal beating patterns
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 20
+
+Single-Molecule “Radiation Chemistry Microscopy” to Quantify Cosmic-Ray–Like Energy Deposition Effects on Cell-Surface GlycoRNA and Membrane Transport
+
+Develop a microscopy-and-modeling platform that mimics key features of high-energy particle energy deposition in biological matter and directly visualizes (at super-resolution) how brief, localized excitation events alter fluorophore photophysics, cell-surface glycoRNA organization, and cell-penetrating peptide entry. Link these nanoscale, time-resolved measurements to particle-transport/energy-loss models used in gamma-ray and cosmic-ray astrophysics.
+
+How do track-structure–like, bursty energy deposition patterns (vs uniform illumination) reorganize glycoRNA/RNA-binding protein nanodomains on live cell surfaces and modulate peptide/nanoparticle entry kinetics?
+
+Can astro-particle transport models (electron diffusion/cascade analogs) be repurposed to predict—and microscopy can validate—the spatial/temporal “damage halos” in fluorophore dark-state switching and membrane chemistry under controlled high-intensity micro-irradiation?
+
+ 
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 21
+
+Towards fully automated Super-Resolution Localization Microscopy using a Rail-Based Setup equipped with a robot arm
+
+To make superresolution micrscopy even simpler and increase the throughput the rail-based setup is equipped with a robot arm that performs tasks usually taken over by human users. That could include: Sample loading /switching, automated focusing/alignment, or preparational steps before the actual microscopy.
+
+Identification of tasks that can be automated in the process of superresolution imaging. From preparational steps to task on the microscope or even the whole process
+
+Automatization of (some) identified tasks to move towards a fully automated superresolution micrscopy system that in the future may be used by other groups/industry
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 22
+
+Mechanosensory Glycocalyx–Membrane Nanodomains as Biophysical Filters for Auditory-Neuron Entrainment
+
+Create a new cross-scale framework linking cell-surface glycocalyx/RNA–protein nanodomains to neuronal timing and neural entrainment, by measuring how engineered glycocalyx patterns alter mechanosensory and electrophysiological responses in auditory-relevant neurons. The project will combine super-resolution live-cell imaging and micrometer-precise molecular “paintbrush” delivery with neural oscillator/entrainment analysis paradigms.
+
+Do spatially patterned modifications of the neuronal glycocalyx (e.g., glycoRNA/RBP domains, charge and stiffness gradients) causally shift intrinsic oscillator parameters (preferred frequency, phase stability, entrainment reliability) measured with tapping/beat-based paradigms translated to cellular electrophysiology?
+
+Which nanoscale surface-domain features (size, density, mobility, composition) best predict robust synchronization to rhythmic stimulation, enabling a new “surface-nanodomain code” that links super-resolution cell biology to macroscopic beat perception metrics?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 23
+
+Mapping spacial organization of crystals with fourier transform spectroscopy
+
+combine Fourier transform spectroscopy with spatial correlation analysis to reveal specific crystal arrangement structures
+
+How can fourier spectroscopy be able to resolve crystal formation effects with high precision
+
+Which resolution is needed?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 24
+
+Temporal-Impulse Super‑Resolution Microscopy: Measuring Sub‑Diffraction “Response Functions” of Viral RNA and Cell‑Surface Entry Domains
+
+Develop a super‑resolution imaging platform that treats nanoscale cellular structures (e.g., glycoRNA/RNA‑binding protein domains and viral RNA complexes) as dynamical systems, estimating their temporal response functions to precisely timed chemical/nanoparticle/peptide perturbations. This will reveal not just where entry/trafficking happens, but the time‑domain kinetics and causality of the underlying nanoscale processes.
+
+Can we recover a local impulse response function for cell‑surface entry nanodomains (glycoRNA/RBP assemblies) by delivering brief, controlled “input pulses” (CPPs/nanoparticles/ligands) and fitting the super‑resolved output dynamics (binding, clustering, internalization) as a convolutional system?
+
+Do different viral RNA states during infection exhibit distinct, quantifiable temporal kernels (e.g., assembly/transport “transfer functions”) that predict downstream outcomes, enabling kinetic fingerprints that are invisible to static super‑resolution snapshots?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 25
+
+Investigations of exceptional points of RNA binding proteins and glycoRNAs domains
+
+Investigate whether the methods for finding exceptional points in the system of RNA binding proteins and glycoRNAs domains on an otherwise assumably symmetric cell membrane system.
+
+Applicability of the non-Hermitian techniques to this specific biological phenomenon
+
+If so, this might give new insights in formation of RNA binding proteins and glycoRNAs domains on cell surfaces
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 26
+
+Spatiotemporally Controlled GlycoRNA Modulation to Unlock Spinal Cord Regeneration: Super‑Resolution Mapping and Femtosecond Laser Microengineering in Zebrafish and Spiny Mouse
+
+Develop and apply precise chemical/optical tools to perturb cell-surface glycoRNAs, glycosylation pathways, and extracellular matrix (ECM) structure in vivo, then use multicolor super-resolution imaging to map how these changes alter cellular invasion, axon regrowth, and tissue repair after spinal cord injury.
+
+Do injury-induced cell-surface glycoRNA/RNA-binding-protein nanodomains regulate entry/signaling of regenerative cues (e.g., immune, glial, or neuronal factors), and can targeted glycosylation inhibitors or localized “paintbrush” delivery reprogram these nanodomains to enhance axon regeneration?
+
+Can femtosecond-laser microengineering of the lesion ECM (tuning microstructure/mechanics shaped by small leucine-rich proteoglycans) synergize with glycoRNA/glycosylation modulation to create a permissive, pro-regenerative niche measurable by super-resolution molecular maps and functional regeneration outcomes?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 27
+
+Studying behaviour during infections
+
+When people are under stress, they behave differently. We aim to quantify this by looking both at the infection itself (using super resolution microscopy) and the socio-behaivoural changes of the patients and how the depend on the scale of the infection.
+
+Does people's behaviour change more drastically the worse they are infected?
+
+What are the impacts on the individual and greater society from these changes?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 28
+
+Topological-Interface–Enhanced Single-Molecule Localization Microscopy of Non-Hermitian Nanophotonic Emitters in Live-Cell Environments
+
+Create a hybrid imaging platform where single fluorophores (or quantum-dot–like labels) are localized while coupled to engineered topological photonic interfaces that reshape emission (directionality, linewidth, lifetime) via symmetry-protected edge/interface states and non-Hermitian physics, improving precision and adding new contrast channels. Use this to measure how local cellular microenvironments (e.g., glycocalyx, membrane RNA/protein domains) perturb emitter–bath interactions in a quantitatively model-driven way.
+
+Can coupling single emitters to a topological interface (including symmetry-protected exceptional/nodal features) produce a predictable, robust, non-Gaussian PSF “fingerprint” that simultaneously improves localization precision and reports local non-Hermitian bath parameters (loss/gain, mode coalescence) at the single-molecule level?
+
+Do biological interfaces (glycocalyx thickness/composition, surface glycoRNA/RBP domains, viral RNA assemblies) measurably shift topological-interface emission observables (e.g., edge-mode coupling strength, bound-state formation, lifetime and directionality changes), enabling super-resolved maps of biochemical heterogeneity via topologically protected photonic readouts?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 29
+
+Entrainment-Inspired Control of RNA–Protein Condensates: “Beat Patterns” to Program RNA Binding and Viral RNA Dynamics in Live Cells
+
+Develop rhythm-inspired, temporally patterned nanoscale “stimulation sequences” (analogous to musical beat hierarchies and phase locking) to control when and where RNA-binding proteins engage RNA in living cells, and quantify the resulting changes in RNA localization, stability, and viral RNA replication using multicolor super-resolution imaging.
+
+Can temporally patterned delivery (periodic vs syncopated, phase-shifted, or fluctuating “spectral-flux-like” sequences) drive phase-locked assembly/disassembly of RNA–RBP clusters at the cell surface or cytoplasm, revealing resonance-like timescales for selective RNA binding and condensate formation?
+
+Do coronaviral RNAs exploit (or can be disrupted by) specific cellular “entrainment regimes” of RBP engagement, such that altering temporal patterns of local chemical/nanoparticle perturbations measurably changes viral RNA trafficking/replication dynamics at the single-RNA level?
+
+ 
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 30
+
+Imaging of nanoparticles found in air pollutants shown to accelerate ozone production
+
+Organic nanoparticles found in the troposphere have been shown to act as a catalyst for ozone production. Single molecule microscopy captures the dynamics of this mechanism with high spectral and spatial resolution.
+
+What is the mechanism behind the nanoparticles found in the atmosphere and their role as catalysts that increase ozone production?
+
+The change in shape and motion of these nanoparticles reveal the nature of the interactions they have with small molecules involved with ozone production.
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 31
+
+Aerosol-to-Cell “Cloud Chamber”: Real-Time Super-Resolution Mapping of Hygroscopic Growth, Phase Transitions, and Deposition of Bioactive Particles on Living Cell Surfaces
+
+Build a controlled microfluidic/cloud-microphysics platform that exposes living cells to well-characterized, cloud-like aerosols (droplets/ice/aerosol mixtures) while using super-resolution microscopy to quantify how particle size, phase, and composition govern deposition, persistence, and biological interaction at the cell membrane/glycocalyx.
+
+How do hygroscopic growth and rapid phase changes (evaporation/condensation, deliquescence, freezing) of aerosol particles alter nanoscale contact mechanics and residence time on the cellular glycocalyx, and can this be visualized and quantified in real time with super-resolution imaging?
+
+Which aerosol microphysical properties (size/shape distributions, turbulence-driven collision rates, and composition such as salts/microplastics/nanoparticles) most strongly control delivery efficiency of molecular cargo to cells, enabling predictive “microphysics-to-dose” models for exposure and targeted deposition?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 32
+
+Nanoscale Mapping of Biofilm-to-Biomineral Transitions: Single-Fiber Curli Architecture and Enzyme Localization During Living Material Mineralization
+
+Combine multicolor localization microscopy with engineered *E. coli* biofilms to resolve, in situ and in real time, how curli amyloid fibers, alkaline phosphatase activity, and mineral nucleation co-organize to produce tunable biofilm mechanics and hydroxyapatite-based living composites.
+
+How are curli fiber nanoscale orientation, bundling, and network connectivity reorganized as water availability and metal cations change—and how do these nanoscale metrics predict bulk viscoelasticity?
+
+Where (relative to curli fibers and the cell envelope) does alkaline phosphatase concentrate during induced mineralization, and does spatial enzyme clustering determine the nucleation density and growth pathways of hydroxyapatite within the living matrix?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 33
+
+Using NLP methods to predict super resolution microscopy outcomes
+
+Using NLP to predict outcomes from previous data and applying this to super resolution microscopy to predict ultra-super resolution imaging.
+
+how good is NLP at predicting previous super resolution results
+
+With this honed, can we pish further to predict results we can't achieve yet with current technology?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 34
+
+Liquid Biopsies for Personality Dynamics: Longitudinal Extracellular RNA Profiling as a Biological Readout of Stable Traits and Within-Person Change
+
+Build a large-scale longitudinal cohort that repeatedly collects blood/saliva for extracellular RNA (exRNA) alongside intensive psychometric assessment to test whether exRNA signatures can predict, track, and mechanistically inform changes in personality-relevant traits and social-behavioral outcomes over time.
+
+Do baseline exRNA profiles (vesicle- and protein-bound RNA panels) improve out-of-sample prediction of future aversive relationship behaviors and “dark trait” expressions beyond state-of-the-art psychometric scales and demographic covariates?
+
+When individuals show within-person shifts in traits or moral/self-knowledge measures, do corresponding within-person changes in specific exRNA pathways (e.g., immune/inflammatory, neuroendocrine stress, glycoRNA/RNA-binding protein complexes) reveal distinct biological subtypes of the same behavioral phenotype?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 35
+
+Beyond the Mean: Single‑Molecule Barcoding of RNA–Protein Interaction Heterogeneity to Predict Cell-to-Cell Behavioral Phenotypes
+
+Develop a single-molecule super-resolution imaging and analysis pipeline that quantifies *within-cell* and *between-cell* variability in RNA localization and RNA-binding protein (RBP) interactions, then tests whether distributional features beyond the mean (e.g., burstiness, tails, multimodality) better predict downstream cellular outcomes than average expression alone.
+
+Which “beyond-the-mean” statistics of single-molecule RNA/RBP spatial organization (e.g., clustering, intermittency, extreme-event frequency) most strongly predict functional cell states (e.g., viral replication efficiency or peptide/nanoparticle entry), compared with mean intensity or mean copy number?
+
+Can psychometric-style latent variable models (separating global positivity/response bias from trait-specific signals) be adapted to decompose imaging-derived heterogeneity into interpretable components, yielding new mechanistic “molecular trait” scores that generalize across experiments and cell types?
+
+
+Interest level: (1=not interesting, 5=very interesting): 3
+
+
+
+
+###############
+
+
+Project 36
+
+From Cell-Surface Targeting to Population Survival: Linking Glycocalyx-Directed Therapeutics to Excess-Mortality Signatures
+
+Develop a framework that connects mechanistic, cell-level performance of glycocalyx-targeted drug delivery (validated by super-resolution imaging) to real-world, population-level outcomes by quantifying how uptake/target engagement heterogeneity could translate into changes in excess mortality during infectious-disease waves.
+
+How does single-cell variability in glycocalyx composition and surface RNA/protein domains predict heterogeneity in targeted-drug uptake and antiviral/anti-inflammatory efficacy, and can these mechanistic distributions be parameterized to improve models of population mortality impact?
+
+Which excess-mortality baselines and age/sex adjustment strategies are most sensitive to detecting the real-world benefit (and potential unintended harms) of deploying a glycocalyx-targeted intervention, and can mechanistically informed priors reduce bias in cross-region comparisons?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 37
+
+Modelling cells as clouds for better drug delivery
+
+Using insights from modelling particle distribution and trajectories in clouds/fluid-like systems, we aim to develop better methods to deliver nano particles precisely in biological samples. Furthermore, we aim to improve modelling of the spread of infections.
+
+What are the optimal sizes and shape of nano particles for the most deterministic deposition in cells?
+
+How do a given a certain size and shape of certain infectious particles and different environmental conditions affect the spread of infection?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 38
+
+Molecule-to-Meaning: Using Super-Resolution Microscopy to Build Predictive “Semantic” Models of Cellular Glycocalyx Remodeling Under Infection and Drug Perturbation
+
+Create a joint experimental–computational framework that treats nanoscale super-resolution readouts of glycocalyx architecture and viral RNA localization as a structured “language,” enabling NLP-style representations (embeddings/graphs) that predict how cells respond to infection and glycosylation-targeting small molecules.
+
+Can NLP-derived embeddings learned from multicolor super-resolution spatial patterns (glycocalyx features, fluorophore blinking statistics, and viral RNA organization) identify a low-dimensional “state space” of infection and drug response that generalizes across cells and conditions?
+
+Which interpretable “motifs” (analogous to linguistic indicators) in nanoscale glycocalyx remodeling and viral RNA clustering best predict downstream phenotypes (e.g., infection progression, inhibitor efficacy), and can these motifs suggest new mechanistic targets for pharmacological intervention?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 39
+
+Enhanced imaging from cell top organism
+
+Traditionally, researchers either look at single cell samples or consider the whole organism - they never look at both on the same sample. By using the latest Cryo-Fib and Serial Lift-Out techniques, this project aims to extract single-cell information from multi-cell samples.
+
+Can we achieve the same spatial and temporal resolution as current state-of-the-art methods with our approach?
+
+Can we increase the speed at which these measurements take place, as compared to current practices?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 40
+
+Evaluating the Mortality Impact of Antiviral Drugs
+
+Measure the impact of applied antiviral drugs and how they can shift or impact excess mortality trends
+
+Predict and estimate reductions of mortality rates for different demographics and scenarios
+
+Can a prediction be made about which % of the population needs to receive a specific treatment for favorable pandemic scenarios.
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 41
+
+RNA Auditory improvement
+
+develop specific RNA binding molecules for improving the human auditory system
+
+Can RNA proteins be develop such that they improve the human ear?
+
+Can these RNA proteins detect and amplify specific audio patterns?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############
+
+
+Project 42
+
+Multicolor super-resolution imaging to study the infection of cells exposed to respiratory particles by a nanoparticle paintbrush
+
+Cells in culture are exposed to respiratory particles for example using the paintbrush for delivery of nanoparticles at different settings/conditions. Afterwards the cells are imaged using multicolor superresolution imaging to investigate the infection pathways.
+
+Nanoparticle paintbrush might be suited to simulated different aerosol transport mechanisms
+
+Investigations of whether infection pathways differ based on the settings/conditions that have been set on the nanoparticle paintbrush
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 43
+
+Single-Molecule “Paintbrush” Biosensors for Field-Deployable Mapping of Air-Pollution Oxidative Capacity
+
+Develop a portable assay that converts exposure to key atmospheric oxidants (e.g., O\(_3\), HO\(_x\)-related peroxides, reactive chlorine species) into quantifiable single-molecule localization readouts, enabling real-world (field) measurements of oxidative potential with high sensitivity and chemical specificity.
+
+Can single-molecule localization of oxidation-activated fluorophore reporters provide a calibrated, species-resolved “oxidant fingerprint” (O\(_3\) vs peroxides vs chlorine oxidants) that agrees with and constrains box/CTM chemistry (e.g., CAABA/MECCA, WRF-Chem) under real ambient conditions?
+
+How do microenvironmental factors in the field (temperature, humidity, VOC/terpene mixtures, indoor vs outdoor settings, proximity to ships/aircraft/household sources) shift oxidative capacity and radical propagation regimes, as revealed by spatially and temporally resolved single-molecule reporter activation during controlled field interventions?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 44
+
+Live-to-Vitrified Correlative SMLM–Cryo-ET to Map Glycocalyx Remodeling and Viral RNA Replication Sites in Infected Cells
+
+Develop a correlative workflow that uses multicolor single-molecule localization microscopy (SMLM) to identify and quantify glycocalyx perturbations and human coronavirus RNA replication structures in live cells, then rapidly vitrifies and targets the same sites for cryo-FIB lamella preparation and cryo-electron tomography (cryo-ET) to reveal their 3D ultrastructure.
+
+How do pharmacological glycosylation inhibitors alter the nanoscale organization of the cell-surface glycocalyx, and which specific ultrastructural changes (membrane curvature, coat assemblies, vesicle/cisternal architecture) emerge at those sites in cryo-ET?
+
+Where (relative to glycocalyx state and membrane trafficking landmarks) do coronavirus RNA puncta detected by multicolor SMLM correspond to distinct 3D replication organelle morphologies in cryo-ET, and can inhibitor-driven glycocalyx remodeling shift these morphologies in a predictable way?
+
+
+Interest level: (1=not interesting, 5=very interesting): 2
+
+
+
+
+###############
+
+
+Project 45
+
+Nanoscale-Resolved Fate of Exhaled Droplets: Linking Fluorophore Super-Resolution Microscopy to Aerosol Turbulence and Evaporation
+
+Develop a fluorescence labeling and super-resolution imaging workflow to visualize, localize, and quantify nanoscale composition/structure in individual exhaled particles (fresh droplets to aged droplet nuclei) while simultaneously characterizing their size evolution and transport under controlled turbulent airflow and humidity.
+
+How do evaporation rate, humidity, and turbulent shear reshape the nanoscale spatial distribution of mucins/viral-RNA surrogates/salts within single exhaled particles, and do these internal rearrangements create distinct “microenvironments” that alter molecular stability?
+
+Can super-resolution–derived nanoscale morphology and component partitioning be incorporated into aerosol-physics models (settling, dispersion, resuspension) to predict which particle sub-populations most efficiently preserve and transport biological payloads across realistic airflow conditions (e.g., speech, wind instruments, ventilation)?
+
+
+Interest level: (1=not interesting, 5=very interesting): 1
+
+
+
+
+###############

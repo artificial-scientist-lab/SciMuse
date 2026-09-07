@@ -1,0 +1,1352 @@
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Time-domain Compressed Sensing
+2: Method and apparatus for creating a microscopic sample image of a molecular vibrational response of a sample
+3: Recent advances in petahertz electric field sampling
+4: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+5: Speeding up Field-Resolved Spectroscopy by Compressed Sensing
+
+Researcher B:
+1: RadioAstron Space VLBI Imaging of the jet in M87: I. Detection of high brightness temperature at 22 GHz
+2: Properties of the jet in M87 revealed by its helical structure imaged with the VLBA at 8 and 15 GHz
+3: Search for directional associations between Baikal Gigaton Volume Detector neutrino-induced cascades and high-energy astrophysical sources
+4: MOJAVE-XXI. Decade-long linear polarization variability in AGN jets at parsec scales
+5: Baikal-GVD Astrophysical Neutrino Candidate near the Blazar TXS~ 0506+ 056
+6: Growing evidence for high-energy neutrinos originating in radio blazars
+7: Time variability of the core-shift effect in the blazar 3C 454.3
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+mechanical dissipation: Mechanical dissipation is the irreversible conversion of mechanical energy (e.g., kinetic or elastic strain energy) into internal energy (heat) through nonconservative processes such as friction, viscosity, plastic deformation, or internal material damping, typically quantified as a power loss or as the imaginary part of a mechanical response (e.g., a complex modulus).
+
+content analysis: Content analysis is a systematic, rule-based method for converting qualitative material (e.g., text, images, speech) into structured data by coding features into categories so you can quantify patterns and test hypotheses reproducibly, much like discretizing complex observations into measurable variables.
+
+Two researchers A and B, with expertise in "mechanical dissipation" and "content analysis" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Quantum coherent control in pulsed waveguide optomechanics
+2: Eavesdropper localization for quantum and classical channels via nonlinear scattering
+3: Dynamic Brillouin cooling for continuous optomechanical systems
+4: Nonreciprocal vortex conversion and frequency shifting using light-driven chiral flexural waves
+5: Nonreciprocal vortex isolator via topology-selective stimulated Brillouin scattering
+6: Spin-orbit interaction in nanofiber-based Brillouin scattering
+7: An optoacoustic field-programmable perceptron for recurrent neural networks
+
+Researcher B:
+1: The Hidden Contestation of Norms: Decent Work in the ILO and the UN
+2: Transcending a Western Bias
+3: The governance authority of non-state actors in the business and human rights regime
+4: The hidden contestation of norms: Decent work in the International Labour Organization and the United Nations
+5: Publics in Global Politics: A Framing Paper
+6: The Multiplication of Authorities in Global Governance Institutions. A Research Agenda
+7: Business authority in global governance: Companies beyond public and private roles
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+field intensity: Field intensity is the local magnitude (and, for vector fields, direction) of a field at a point—quantified as the force per unit “source” or “test” quantity (e.g., \( \mathbf{E}=\mathbf{F}/q \), \( \mathbf{g}=\mathbf{F}/m \), \( \mathbf{B}=\mathbf{F}/(q\,\mathbf{v}\times) \)) and generally expressible as the gradient of an associated potential when one exists.
+
+evidence base: An **evidence base** is the systematically assembled body of empirical results (observations, experiments, and analyses), weighted by their methodological reliability and reproducibility, that supports—or constrains—specific scientific claims or models.
+
+Two researchers A and B, with expertise in "field intensity" and "evidence base" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Photon pairs bi-directionally emitted from a resonant metasurface
+2: Resonant metasurfaces for generating complex quantum states
+3: Towards quantum-enhanced Raman spectroscopy for bioimaging applications
+4: Wigner function tomography via optical parametric amplification
+5: Tunable Fiber Source of Entangled Ultraviolet and Infrared Photons
+6: Tunable fiber source of entangled UV-C and infrared photons
+7: Classical model of spontaneous parametric down-conversion
+
+Researcher B:
+1: Metacognitive and cultural cognition accounts jointly explain believing, and spreading of contested information
+2: Resolving content moderation dilemmas between free speech and harmful misinformation
+3: Susceptibility to misinformation is consistent across question framings and response modes and better explained by myside bias and partisanship than analytical thinking
+4: Science communication as a collective intelligence endeavor: A manifesto and examples for implementation
+5: Automating hybrid collective intelligence in open-ended medical diagnostics
+6: Toolbox of interventions against online misinformation and manipulation
+7: COVID-19, national culture, and privacy calculus: factors predicting the cross-cultural acceptance and uptake of contact-tracing technologies
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Time-domain Compressed Sensing
+2: Method and apparatus for creating a microscopic sample image of a molecular vibrational response of a sample
+3: Recent advances in petahertz electric field sampling
+4: Speeding up Field-Resolved Spectroscopy by Compressed Sensing
+5: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+
+Researcher B:
+1: Making  Practical: Efficient Interactive Protocols for BDD Algorithms
+2: Sequential Principal-Agent Problems with Communication: Efficient Computation and Learning
+3: Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors
+4: Satisfiability Checking of Multi-Variable TPTL with Unilateral Intervals Is PSPACE-Complete
+5: Neural Abstraction-Based Controller Synthesis and Deployment
+6: Satisfiability Checking of Multi-Variable TPTL with Unilateral Intervals Is PSPACE-Complete
+7: Generating High-Precision Feedback for Programming Syntax Errors using Large Language Models
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+strong light matter interaction: Strong light–matter interaction is the regime where the coherent coupling rate between an optical mode and a material excitation (e.g., an atom, exciton, or qubit) exceeds the relevant dissipation/decoherence rates, leading to hybridized light–matter eigenstates (polaritons) and reversible energy exchange (Rabi oscillations).
+
+neural net: A neural net is a parameterized, differentiable function built by composing many simple nonlinear “units” (layers) whose weights are optimized from data—typically via gradient descent—to approximate complex input–output mappings, much like fitting a high-dimensional nonlinear model.
+
+Two researchers A and B, with expertise in "strong light matter interaction" and "neural net" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Nonreciprocal vortex isolator via topology-selective stimulated Brillouin scattering
+2: Quantum coherent control in pulsed waveguide optomechanics
+3: Nonreciprocal vortex conversion and frequency shifting using light-driven chiral flexural waves
+4: Optoacoustic cooling of traveling hypersound waves
+5: Brillouin light storage for 100 pulse widths
+6: Observation of Brillouin Spin-Orbit Interaction in a Silica Optical Nanofiber
+7: Dynamic Brillouin cooling for continuous optomechanical systems
+
+Researcher B:
+1: Method and system for efficient quantum optical design using non-linear mappings
+2: Predicting the Future of AI with AI: High-quality link prediction in an exponentially growing knowledge network
+3: Recent advances in the Self-Referencing Embedding Strings (SELFIES) library
+4: On-chip quantum interference between the origins of a multi-photon state
+5: Quantum indistinguishability by path identity and with undetected photons
+6: Artificial intelligence and machine learning for quantum technologies
+7: Design of quantum optical experiments with logic artificial intelligence
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+drug resistance evolution: Drug resistance evolution is the population-level, Darwinian process in which random genetic (or phenotypic) variations in microbes or cancer cells are differentially amplified under the selective pressure of a drug, causing resistant variants to increase in frequency over time.
+
+cryo electron microscopy structure: A cryo–electron microscopy (cryo-EM) structure is a 3D atomic or near-atomic model of a biomolecule reconstructed computationally from many low-dose electron images of identical particles rapidly vitrified in ice, preserving their native conformations without crystallization.
+
+Two researchers A and B, with expertise in "drug resistance evolution" and "cryo electron microscopy structure" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Impact of crowding on the diversity of expanding populations
+2: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+3: Mechano-evolution and drug resistance in compact populations
+4: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+5: Evolutionary rescue is promoted in compact cellular populations
+
+Researcher B:
+1: Structural conservation of antibiotic interaction with ribosomes
+2: Effects of cryo-EM cooling on structural ensembles
+3: Simulation of Complex Biomolecular Systems: The Ribosome Challenge
+4: Folding of VemP into translation-arresting secondary structure is driven by the ribosome exit tunnel
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+solid tumor: A **solid tumor** is an abnormal, three‑dimensional mass of proliferating cells that forms a physically coherent tissue (typically in an organ), with growth and behavior governed not only by genetics but also by transport limits (diffusion of oxygen/nutrients and waste removal), mechanical stresses, and interactions with surrounding tissue—unlike “liquid” cancers such as leukemia that don’t form a discrete mass.
+
+ab initio nuclear structure: *Ab initio* nuclear structure refers to predicting the properties of atomic nuclei by solving the nuclear many‑body quantum problem starting from realistic nucleon–nucleon (and three‑nucleon) interactions, with minimal phenomenological adjustments.
+
+Two researchers A and B, with expertise in "solid tumor" and "ab initio nuclear structure" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Evolutionary rescue is promoted in compact cellular populations
+2: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+3: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+4: Impact of crowding on the diversity of expanding populations
+5: Mechano-evolution and drug resistance in compact populations
+
+Researcher B:
+1: Importance truncation for the in-medium similarity renormalization group
+2: Combining the in-medium similarity renormalization group with the density matrix renormalization group: Shell structure and information entropy
+3: Normal ordering of three-nucleon interactions for ab initio calculations of heavy nuclei
+4: Towards heavy-mass ab initio nuclear structure: Open-shell Ca, Ni and Sn isotopes from Bogoliubov coupled-cluster theory
+5: Nuclear forces for precision nuclear physics: A collection of perspectives
+6: Least-square approach for singular value decompositions of scattering problems
+7: ADG: automated generation and evaluation of many-body diagrams: III. Bogoliubov in-medium similarity renormalization group formalism
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+quantum mechanic: Quantum mechanics is the fundamental theoretical framework describing how physical systems behave at microscopic scales, where states are represented by vectors (or density operators) in a Hilbert space, observables correspond to noncommuting operators, dynamics is (typically) unitary under the Schrödinger equation, and measurement outcomes are intrinsically probabilistic with probabilities given by the Born rule.
+
+noise removal: Noise removal is the process of estimating and subtracting or suppressing unwanted random or systematic components in a measured signal—typically via filtering or statistical inference—so that the underlying physical signal is recovered with improved signal-to-noise ratio while minimizing distortion of the true content.
+
+Two researchers A and B, with expertise in "quantum mechanic" and "noise removal" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Guided Brillouin Interactions-from Optical Vortex Isolators to Extreme Thermodynamics
+2: Inter-vortex forward Brillouin scattering by chiral flexural phonons in twisted photonic crystal fibre
+3: Nonreciprocal vortex conversion and frequency shifting using light-driven chiral flexural waves
+4: Order of Magnitude Increase in Storage Time of Brillouin-based Memory
+5: Optoacoustic Active Cooling in Waveguides
+6: Implementation of an Optoacoustic Activation Function based on Stimulated Brillouin Scattering
+7: Observation of Brillouin Spin-Orbit Interaction in a Silica Optical Nanofiber
+
+Researcher B:
+1: Long-term effects of noise pollution on the avian dawn chorus: a natural experiment facilitated by the closure of an international airport
+2: The broken-wing display across birds and the conditions for its evolution
+3: Bursts of white noise trigger song in domestic Canaries
+4: Territorial behaviour of thrush nightingales outside the breeding season
+5: Biological sex is binary, even though there is a rainbow of sex roles: Denying biological sex is anthropocentric and promotes species chauvinism
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+recurrent neural net: A recurrent neural network is a neural network designed for sequence data that maintains a learned internal “state” (memory) updated at each step, so its output depends not only on the current input but also on preceding inputs, much like iterating a dynamical system with feedback.
+
+gender inequality: Gender inequality is the systematic, population-level asymmetry in access to resources, rights, opportunities, and social power between genders—arising from institutional rules and cultural norms—and it can be quantified like an imbalance in a system by measuring persistent disparities in outcomes (e.g., pay, representation, health, safety) after controlling for relevant confounders.
+
+Two researchers A and B, with expertise in "recurrent neural net" and "gender inequality" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Implementation of an Optoacoustic Activation Function based on Stimulated Brillouin Scattering
+2: Inter-Vortex Forward Brillouin Scattering by Chiral Phonons
+3: Optoacoustic cooling of traveling hypersound waves
+4: Inter-vortex forward Brillouin scattering by chiral flexural phonons in twisted photonic crystal fibre
+5: Nonreciprocal vortex isolator via topology-selective stimulated Brillouin scattering
+6: Dynamic Brillouin cooling for continuous optomechanical systems
+7: Optoacoustic Active Cooling in Waveguides
+
+Researcher B:
+1: Gender Inequality in Childcare and Parental Mental Health During the Covid-19 Pandemic in Germany: Do Gender Role Attitudes Matter?
+2: Mental health before and during the COVID-19 pandemic: The role of partnership and parenthood status in growing disparities between types of families
+3: Changes in Perceived Fairness of Division of Household Labor Across Parenthood Transitions: Whose Relationship Satisfaction Is Impacted?
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Dynamic Brillouin cooling for continuous optomechanical systems
+2: Eavesdropper localization for quantum and classical channels via nonlinear scattering
+3: Order of Magnitude Increase in Storage Time of Brillouin-based Memory
+4: Localizing Eavesdroppers Inside a Quantum Channel Using Stimulated Brillouin Scattering
+5: Optoacoustic Active Cooling in Waveguides
+6: Quantum Coherent Control in Pulsed Waveguide Optomechanics for Photon-Phonon Entanglement via Brillouin Scattering
+7: Implementation of an Optoacoustic Activation Function based on Stimulated Brillouin Scattering
+
+Researcher B:
+1: Topologically protected transport in engineered mechanical systems
+2: Topological phonon transport in an optomechanical system
+3: Tunneling-induced fractal transmission in valley Hall waveguides
+4: Phase space crystal vibrations: Chiral edge states with preserved time-reversal symmetry
+5: Engineering Arbitrary Hamiltonians in Phase Space
+6: Gradient-Ascent Pulse Engineering with Feedback
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+femtosecond laser: A femtosecond laser is a laser engineered to emit ultrashort light pulses with durations on the order of \(10^{-15}\,\text{s}\) (typically via mode-locking), yielding extremely high peak powers and enabling time-resolved probing and nonlinear interactions on molecular and electronic timescales.
+
+severe acute respiratory syndrome: Severe acute respiratory syndrome (SARS) is a rapidly developing viral pneumonia—classically caused by the coronavirus SARS‑CoV—that triggers an intense immune/inflammatory response in the lungs, impairing gas exchange and potentially leading to hypoxemic respiratory failure.
+
+Two researchers A and B, with expertise in "femtosecond laser" and "severe acute respiratory syndrome" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+2: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+3: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+4: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+5: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+
+Researcher B:
+1: On how natural and urban soundscapes alter brain activity during cognitive performance
+2: Cognitive deficits in executive and language function predict postoperative delirium
+3: Can you trust this source? Advice taking in borderline personality disorder
+4: The effects of assessing character strengths vs. psychopathology on mood, hope, perceived stigma and cognitive performance in individuals with psychosis
+5: The integrity of dopaminergic and noradrenergic brain regions is associated with different aspects of late-life memory performance
+6: Transferring the approach avoidance task into virtual reality: A study in patients with alcohol use disorder versus healthy controls
+7: Urbanization is positively associated with global perceptual style
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Evolutionary rescue is promoted in compact cellular populations
+2: Wie mikrobielle Modellsysteme helfen, Tumorevolution zu entschlusseln
+3: Mechano-evolution and drug resistance in compact populations
+4: Impact of crowding on the diversity of expanding populations
+5: Evolutionary rescue of resistant mutants is governed by a balance between radial expansion and selection in compact populations
+
+Researcher B:
+1: Sa1941 HIGH-RESOLUTION HYPERSPECTRAL IMAGING IN MOUSE COLITIS MODEL
+2: Systems, methods, and media for capsule-based multimode endoscopy
+3: Ultralong Imaging Range Chromatic Confocal Microscopy
+4: Deep Tissue Characterization with Optical Coherence Elastography: A Comparison of Different Methods
+5: Chromatic Confocal Tomography
+6: Cross-polarized optical coherence tomography system with unpolarized light
+7: A Proposal to Perform High Contrast Imaging of Human Palatine Tonsil with Cross Polarized Optical Coherence Tomography
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+localization microscopy: Localization microscopy is a class of super‑resolution fluorescence techniques (e.g., PALM/STORM) that beats the diffraction limit by stochastically activating sparse emitters and fitting their point‑spread functions to localize each molecule’s position with nanometer precision, then reconstructing an image from many such localizations.
+
+engineered living material: An engineered living material is a material whose mechanical/functional properties are deliberately programmed by embedding or constructing it from living cells that sense their environment, compute via gene regulation, and actively produce, remodel, or repair the material over time.
+
+Two researchers A and B, with expertise in "localization microscopy" and "engineered living material" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Small molecule inhibitors of mammalian glycosylation
+2: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+3: Fluorophores' talk turns them dark
+4: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+5: Setting the stage for universal pharmacological targeting of the glycocalyx
+6: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+7: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+
+Researcher B:
+1: Curli fibers in Escherichia coli biofilms: the influence of water availability on amyloid structure and properties
+2: Groovy and gnarly: Surface wrinkles as a multifunctional motif for terrestrial and marine environments
+3: Induced mineralization in Escherichia coli biofilms: the key role of bacterial alkaline phosphatase
+4: Induced Mineralization of Hydroxyapatite in Escherichia coli Biofilms and the Potential Role of Bacterial Alkaline Phosphatase
+5: Twisted plywood-like tissue formation in vitro. Does curvature do the twist?
+6: The role of mechanics in the growth and modeling of biological materials
+7: Influence of Metal Cations on the Viscoelastic Properties of Escherichia coli Biofilms
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+neural network: A neural network is a parameterized composition of simple nonlinear functions (neurons) whose weights are adjusted via optimization (e.g., gradient descent) so that the overall mapping \(f(x)\) approximates a desired input–output relation, analogous to fitting a high-dimensional, coupled nonlinear model to data.
+
+chromosome organization: Chromosome organization is the hierarchical 3D packing and dynamic arrangement of DNA with proteins in the nucleus—spanning nucleosomes, loops, domains, and compartments—that simultaneously constrains polymer conformations and regulates genome accessibility and gene expression.
+
+Two researchers A and B, with expertise in "neural network" and "chromosome organization" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Optical vortex Brillouin laser
+2: Implementation of an Optoacoustic Activation Function based on Stimulated Brillouin Scattering
+3: Optoacoustic cooling of traveling hypersound waves
+4: Brillouin light storage for 100 pulse widths
+5: Localizing Eavesdroppers Inside a Quantum Channel Using Stimulated Brillouin Scattering
+6: Eavesdropper localization for quantum and classical channels via nonlinear scattering
+7: Order of Magnitude Increase in Storage Time of Brillouin-based Memory
+
+Researcher B:
+1: Partition complex structure can arise from sliding and bridging of ParB dimers
+2: Track: Inferred counting and tracking of replicating DNA loci
+3: Star Track: Inferred counting and tracking of replicating DNA loci
+4: Dynamic bridging explains sub-diffusive movement of chromosomal loci
+5: Subdiffusive movement of chromosomal loci in bacteria explained by DNA bridging
+6: Mid-cell migration of the chromosomal terminus is coupled to origin segregation in Escherichia coli
+7: High-throughput imaging and quantitative analysis uncovers the nature of plasmid positioning by ParABS
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+single molecule: A “single molecule” refers to an individual, discrete molecular entity—one specific set of bonded nuclei with its electronic states—that can be isolated and probed so its intrinsic quantum/thermal behavior is observed directly rather than averaged over an ensemble.
+
+mean score: The **mean score** is the **arithmetic average** of a set of measured scores, computed as \(\bar{x}=\frac{1}{N}\sum_{i=1}^{N} x_i\), representing the dataset’s central value (first moment) under equal weighting.
+
+Two researchers A and B, with expertise in "single molecule" and "mean score" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+2: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+3: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+4: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+5: Setting the stage for universal pharmacological targeting of the glycocalyx
+6: Fluorophores' talk turns them dark
+7: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+
+Researcher B:
+1: (Re)Considering Personality in Criminological Research
+2: MegaOath Project-Treatment Selection
+3: Down to the core: The role of the common core of dark traits for aversive relationship behaviors
+4: Personality, self-knowledge, and meat reduction intentions
+5: Trait-specificity versus global positivity: A critical test of alternative sources of assumed similarity in personality judgments.
+6: Defining and Describing Morality: The View from Personality Psychology
+7: Beyond the Mean: Can We Improve the Predictive Power of Psychometric Scales?
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+photon number distribution: Photon number distribution is the probability distribution \(P(n)\) that a given optical field (or mode) contains exactly \(n\) photons in the Fock basis, fully characterizing its intensity statistics (e.g., distinguishing coherent, thermal, and number states).
+
+sharp tip: A **sharp tip** is a region of very small radius of curvature on a conductor (or probe) that, by concentrating electric potential gradients (and thus electric field lines), produces locally enhanced fields and interaction forces—an effect exploited in phenomena like field emission, corona discharge, and scanning probe microscopy.
+
+Two researchers A and B, with expertise in "photon number distribution" and "sharp tip" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Tunable fiber source of entangled UV-C and infrared photons
+2: Time-resolved purification of photon pairs from ultrasmall sources
+3: Multi-photon electron emission with non-classical light
+4: Quantifying optical rogue waves
+5: Classical model of spontaneous parametric down-conversion
+6: Towards quantum-enhanced Raman spectroscopy for bioimaging applications
+7: Resonant metasurfaces for generating complex quantum states
+
+Researcher B:
+1: Next-generation particle sizing: interferometric nanoparticle tracking analysis (iNTA)
+2: On-chip interference of scattering from two individual molecules in plastic
+3: Mechanism of sensor kinase CitA transmembrane signaling
+4: Confocal interferometric scattering microscopy reveals 3D nanoscopic structure and dynamics in live cells
+5: An opto fluidic antenna for enhancing the sensitivity of single-emitter measurements
+6: Interferometric nanoparticle tracking analysis enables label-free discrimination of extracellular vesicles from large lipoproteins
+7: Precision size and refractive index analysis of weakly scattering nanoparticles in polydispersions
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+2: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+3: Fluorophores' talk turns them dark
+4: Small molecule inhibitors of mammalian glycosylation
+5: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+6: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+7: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+
+Researcher B:
+1: Detection of extended gamma-ray emission around the Geminga pulsar with HESS
+2: Constraints on the intergalactic magnetic field using Fermi-LAT and HESS blazar observations
+3: HESS J1809193: a halo of escaped electrons around a pulsar wind nebula?
+4: Massive star cluster origin for the galactic cosmic ray population at very-high energies
+5: Searching for gamma-ray counterparts of FRBs with HESS
+6: Power spectrum of the TeV-PeV cosmic ray anisotropy
+7: HESS Follow-up Observations of GRB 221009A
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+single molecule localization: Single-molecule localization is the estimation of an individual emitter’s position by fitting its (diffraction-limited) point-spread function in an image to a model (e.g., a Gaussian), using photon statistics to infer the centroid with nanometer-scale precision.
+
+topological interface: A **topological interface** is the boundary between two regions (e.g., materials or phases) with different **topological invariants**, where this mismatch generically enforces **robust, symmetry-protected localized states or transport channels** (such as edge modes) that cannot be removed without closing a bulk gap or breaking the protecting symmetry.
+
+Two researchers A and B, with expertise in "single molecule localization" and "topological interface" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+2: Setting the stage for universal pharmacological targeting of the glycocalyx
+3: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+4: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+5: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+6: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+7: Small molecule inhibitors of mammalian glycosylation
+
+Researcher B:
+1: Anomalous behaviors of quantum emitters in non-hermitian baths
+2: Symmetry-protected exceptional and nodal points in non-Hermitian systems
+3: symmetry-protected exceptional cones and analogue Hawking radiation
+4: Realizing exceptional points of any order in the presence of symmetry
+5: Topological interface of light
+6: Bound states and photon emission in non-Hermitian nanophotonics
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+interferometric visibility: Interferometric visibility is the normalized contrast of an interference pattern—typically \(V = (I_{\max}-I_{\min})/(I_{\max}+I_{\min})\)—quantifying the degree of coherence (fringe contrast) between the interfering fields.
+
+symmetry break: Symmetry breaking is when the underlying laws or equations retain a symmetry, but the system’s actual state (typically a ground state or equilibrium configuration) selects a particular configuration that does not, so the symmetry is not manifested in the observed solution (often due to instability, degeneracy, or external perturbations).
+
+Two researchers A and B, with expertise in "interferometric visibility" and "symmetry break" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Two-photon-absorption measurements in the presence of single-photon losses
+2: Characterizing the spatiotemporal correlations of bright entangled quantum states of light using classical methods
+3: Classical model of spontaneous parametric down-conversion
+4: Tiniest Sources of Spontaneous Parametric Down Conversion
+5: Resonant metasurfaces for generating complex quantum states
+6: Tunable Fiber Source of Entangled Ultraviolet and Infrared Photons
+7: Quantifying optical rogue waves
+
+Researcher B:
+1: Silica micro-rod resonator-based Kerr frequency comb for high-speed short-reach optical interconnects
+2: Pure quintic dispersion microresonator frequency combs
+3: Dark Temporal Cavity Soliton Pairs in Fabry-Perot Resonators with Normal Dispersion and Orthogonal Polarizations
+4: Fifth-order Dispersion Soliton in a Microresonator
+5: 4-field symmetry breakings in twin-resonator photonic isomers
+6: Room-Temperature Sputtered Ultralow-Loss Silicon Nitride
+7: Symmetry Broken Vectorial Kerr Frequency Combs for Fabry-P\'erot Resonators
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+2: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+3: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+4: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+5: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+
+Researcher B:
+1: A burst storm from the repeating FRB 20200120E in an M81 globular cluster
+2: The second data release from the European Pulsar Timing Array II. Customised pulsar noise models for spatially correlated gravitational waves
+3: Long-term scintillation studies of EPTA pulsars-I. Observations and basic results
+4: The Event Horizon Telescope Image of the Quasar NRAO 530
+5: Rotation measure variations in Galactic Centre pulsars
+6: Resolving the Inner Parsec of the Blazar J1924-2914 with the Event Horizon Telescope
+7: A freely precessing magnetar following an X-ray outburst
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Nonreciprocal vortex conversion and frequency shifting using light-driven chiral flexural waves
+2: Guided Brillouin Interactions-from Optical Vortex Isolators to Extreme Thermodynamics
+3: Nonreciprocal vortex isolator via topology-selective stimulated Brillouin scattering
+4: Optoacoustic Active Cooling in Waveguides
+5: Optical vortex Brillouin laser
+6: Inter-vortex forward Brillouin scattering by chiral flexural phonons in twisted photonic crystal fibre
+7: Implementation of an Optoacoustic Activation Function based on Stimulated Brillouin Scattering
+
+Researcher B:
+1: Princeton Dynamic Stall Database: Upward ramp-type pitching motions
+2: High Reynolds number wind turbine experiments in the Variable Density Turbulence Tunnel
+3: Dynamic stall at high Reynolds numbers induced by ramp-type pitching motions
+4: Unsteady aerodynamics with applications for wind turbines
+5: Effects of inflow conditions on wind turbine wakes at high Reynolds numbers
+6: Comparison of dynamic stall on an airfoil undergoing sinusoidal and VAWT-shaped pitch motions
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+2: RNA binding proteins and glycoRNAs form domains on the cell surface for cell penetrating peptide entry
+3: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+4: Small molecule inhibitors of mammalian glycosylation
+5: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+6: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+7: Fluorophores' talk turns them dark
+
+Researcher B:
+1: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+2: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+3: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+4: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+5: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+photonic crystal fibre: A photonic crystal fibre is an optical fibre whose cladding contains a periodic microstructured pattern (typically an array of air holes) that creates a wavelength-dependent photonic band structure, enabling light guidance either by modified total internal reflection (“endlessly single-mode” guidance) or by photonic bandgap confinement in a hollow or low-index core.
+
+carbonic anhydrase: Carbonic anhydrase is a metalloenzyme (typically Zn²⁺-based) that catalyzes the rapid, near-equilibrium interconversion \( \mathrm{CO_2 + H_2O \rightleftharpoons HCO_3^- + H^+} \), thereby enabling fast CO₂ transport and pH buffering by greatly lowering the reaction’s activation energy.
+
+Two researchers A and B, with expertise in "photonic crystal fibre" and "carbonic anhydrase" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Nonreciprocal vortex conversion and frequency shifting using light-driven chiral flexural waves
+2: Dynamic Brillouin cooling for continuous optomechanical systems
+3: Inter-vortex forward Brillouin scattering by chiral flexural phonons in twisted photonic crystal fibre
+4: Spin-orbit interaction in nanofiber-based Brillouin scattering
+5: Eavesdropper localization for quantum and classical channels via nonlinear scattering
+6: Optoacoustic cooling of traveling hypersound waves
+7: Optical vortex Brillouin laser
+
+Researcher B:
+1: The challenge of engineering Rubisco for improving photosynthesis
+2: Phase Separation of Rubisco by the Folded SSUL Domains of CcmM in Beta-Carboxysome Biogenesis
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+flexural phonons: Flexural phonons are quantized out-of-plane bending vibrations (transverse acoustic modes with typically quadratic low‑\(k\) dispersion) of a thin membrane or 2D crystal, representing the lattice’s flexural deformation rather than in-plane motion.
+
+chiral edge state: A **chiral edge state** is a **topologically protected boundary mode** in which excitations (typically electrons) propagate **only in one direction** along the edge of a 2D system (e.g., a quantum Hall insulator), with **backscattering suppressed** because there is no counterpropagating edge channel.
+
+Two researchers A and B, with expertise in "flexural phonons" and "chiral edge state" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Dynamic Brillouin cooling for continuous optomechanical systems
+2: Eavesdropper localization for quantum and classical channels via nonlinear scattering
+3: Order of Magnitude Increase in Storage Time of Brillouin-based Memory
+4: Localizing Eavesdroppers Inside a Quantum Channel Using Stimulated Brillouin Scattering
+5: Optoacoustic Active Cooling in Waveguides
+6: Quantum Coherent Control in Pulsed Waveguide Optomechanics for Photon-Phonon Entanglement via Brillouin Scattering
+7: Implementation of an Optoacoustic Activation Function based on Stimulated Brillouin Scattering
+
+Researcher B:
+1: Topologically protected transport in engineered mechanical systems
+2: Topological phonon transport in an optomechanical system
+3: Tunneling-induced fractal transmission in valley Hall waveguides
+4: Phase space crystal vibrations: Chiral edge states with preserved time-reversal symmetry
+5: Engineering Arbitrary Hamiltonians in Phase Space
+6: Gradient-Ascent Pulse Engineering with Feedback
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+spinal cord: The spinal cord is the central nervous system’s main signal-transmission “bus,” a long bundle of neuronal axons running within the vertebral column that relays sensory inputs to the brain, sends motor commands to the body, and implements fast local feedback control via reflex circuits.
+
+ab initio: In physics (especially computational physics/chemistry), **ab initio** refers to calculating a system’s properties **from first principles**—i.e., using fundamental equations and known constants with minimal empirical fitting, rather than relying on phenomenological models or experimental parameterization.
+
+Two researchers A and B, with expertise in "spinal cord" and "ab initio" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Mechanical spinal cord transection in larval zebrafish and subsequent whole-mount histological processing
+2: An exception to the rule? Regeneration of the injured spinal cord in the spiny mouse
+3: Embracing the diversity of model systems to deconstruct the basis of regeneration and tissue repair
+4: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+5: Small leucine-rich proteoglycans inhibit CNS regeneration by modifying the structural and mechanical properties of the lesion environment
+
+Researcher B:
+1: One hundred years ago Alfred Lande unriddled the Anomalous Zeeman Effect and presaged electron spin
+2: A Century Ago the Stern-Gerlach Experiment Ruled Unequivocally in Favor of Quantum Mechanics
+3: On the relation between ultracold atoms in optical lattices and a rigid rotor in external fields
+4: UNESCO issues a powerful endorsement of Open Science
+5: Quantum carpets from tumbling molecules: Manipulating molecular rotation by electromagnetic fields
+6: Mapping atomic trapping in an optical superlattice onto the libration of a planar rotor in electric fields
+7: Electro-optical trap for polar molecules
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Quantum coherent control in pulsed waveguide optomechanics
+2: Optical vortex Brillouin laser
+3: Implementation of an Optoacoustic Activation Function based on Stimulated Brillouin Scattering
+4: Optoacoustic cooling of traveling hypersound waves
+5: Inter-vortex forward Brillouin scattering by chiral flexural phonons in twisted photonic crystal fibre
+6: Eavesdropper localization for quantum and classical channels via nonlinear scattering
+7: Localizing Eavesdroppers Inside a Quantum Channel Using Stimulated Brillouin Scattering
+
+Researcher B:
+1: Group conditions for entrepreneurial visions: role confidence, hierarchical congruences, and the imagining of future in entrepreneurial groups
+2: Unternehmensverausserungen: Verbreitung, Gewinne und Trends
+3: Lessons from family firms: the use of flexible work arrangements and its consequences
+4: Die Gegenwart der Krise als Erosion unternehmerischer Zukunfte
+5: Marktabhangigkeit und ihre Bedeutung fur die Grenzziehungen von Solidaritat
+6: Vermogende Familien als Akteure im gegenwartigen Kapitalismus
+7: From Nurturing the Successor to Attracting New Founders: How Firm Platforms Organize a Market for Selling Businesses
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+Two researchers A and B, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Simple, Economic, and Robust Rail-Based Setup for Super-Resolution Localization Microscopy
+2: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+3: A paintbrush for delivery of nanoparticles and small molecules to live cells with micrometer spatial and millisecond temporal control
+4: Setting the stage for universal pharmacological targeting of the glycocalyx
+5: Small molecule inhibitors of mammalian glycosylation
+6: Multicolor super-resolution imaging to study human coronavirus RNA during cellular infection
+7: Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection
+
+Researcher B:
+1: Atmospheric transport of microplastic particles as a function of their size and shape
+2: Estimating the turbulent kinetic energy dissipation rate from one-dimensional velocity measurements in time
+3: Honeybees modify flight trajectories in turbulent wind
+4: Experimental measurement of respiratory particles dispersed by wind instruments and analysis of the associated risk of infection transmission
+5: Size, concentration, and origin of human exhaled particles and their dependence on human factors with implications on infection transmission
+6: Cloud droplet distribution in shallow cumulus clouds: CloudKite measurements from EUREC4A
+7: Gravitational settling of microplastic fibers: experimental results and implications for global transport
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+neural net: A neural net is a parametrized, layered composition of simple nonlinear functions whose weights are optimized (typically by gradient-based learning) to approximate a mapping from inputs to outputs, much like fitting a high-dimensional, nonlinear model to data.
+
+precision spectroscopy: Precision spectroscopy is the use of highly stable, high-resolution measurement techniques (often involving lasers and frequency standards) to determine atomic or molecular transition frequencies—and related quantities like energy levels and fundamental constants—with extremely small uncertainties, enabling stringent tests of theory and detection of subtle effects.
+
+Two researchers A and B, with expertise in "neural net" and "precision spectroscopy" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Inter-Vortex Forward Brillouin Scattering by Chiral Phonons
+2: Optoacoustic cooling of traveling hypersound waves
+3: Guided Brillouin Interactions-from Optical Vortex Isolators to Extreme Thermodynamics
+4: Localizing Eavesdroppers Inside a Quantum Channel Using Stimulated Brillouin Scattering
+5: Inter-vortex forward Brillouin scattering by chiral flexural phonons in twisted photonic crystal fibre
+6: Order of Magnitude Increase in Storage Time of Brillouin-based Memory
+7: Implementation of an Optoacoustic Activation Function based on Stimulated Brillouin Scattering
+
+Researcher B:
+1: Quintic Dispersion Soliton Frequency Combs in a Microresonator
+2: Pure quintic dispersion microresonator frequency combs
+3: Spontaneous symmetry breaking of Kerr solitons in Fabry Perot Resonators
+4: Symmetry Broken Vectorial Kerr Frequency Combs for Fabry-P\'erot Resonators
+5: Symmetry Breaking in High-Q Silicon Nitride Resonators
+6: Long-Range "Talking" of Vector Solitons and their Synchronization in Fabry-Perot Resonators
+7: Multi-stage spontaneous symmetry breaking of light in Kerr ring resonators
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+imaging method: An **imaging method** is any measurement and reconstruction technique that maps a physical quantity or material property (e.g., absorption, emission, scattering, phase, or density) into a spatially resolved representation (an “image”) by acquiring data with a probe and applying a forward model and inversion/processing to estimate the underlying field or structure.
+
+honeycomb structure: A honeycomb structure is a two‑dimensional lattice of hexagonal cells (as in graphene) that achieves high stiffness and strength per unit mass by distributing loads efficiently through its geometry, often modeled as a hexagonal network with characteristic band-structure and symmetry properties.
+
+Two researchers A and B, with expertise in "imaging method" and "honeycomb structure" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Highly Nonlinear Dynamics of Deep Tissue upon in vivo Interaction with Femtosecond Laser Pulses at 1030 nm
+2: Speeding up Field-Resolved Spectroscopy by Compressed Sensing
+3: Time-domain Compressed Sensing
+4: Recent advances in petahertz electric field sampling
+5: Method and apparatus for creating a microscopic sample image of a molecular vibrational response of a sample
+
+Researcher B:
+1: Wachstum von N-heterocyclischen Carbenen auf Cu (100) und Cu (111): von einzelnen Molekulen bis hin zu Inseln mit magischen Zahlen
+2: Variation of bending rigidity with material density: bilayer silica with nanoscale holes
+3: The real honeycomb structure--From the macroscopic down to the atomic scale
+4: A high-speed variable-temperature ultrahigh vacuum scanning tunneling microscope with spiral scan capabilities
+5: Structure and registry of the silica bilayer film on Ru (0001) as viewed by LEED and DFT
+6: Growth of N-heterocyclic carbene assemblies on Cu (100) and Cu (111): from single molecules to magic-number islands
+7: Covalent adsorption of N-heterocyclic carbenes on a copper oxide surface
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
+
+
+
+
+
+###################
+
+
+
+
+brillouin scattering: Brillouin scattering is the inelastic scattering of light (or other waves) from thermally or externally excited acoustic phonons (density fluctuations) in a medium, producing frequency-shifted sidebands whose shifts encode the sound velocity and elastic properties of that medium.
+
+cerebral blood flow: Cerebral blood flow is the volumetric perfusion rate of blood through brain tissue—typically expressed as mL of blood per 100 g of brain per minute—set by the pressure gradient across the cerebral vasculature and its effective resistance (which the brain actively modulates to maintain adequate oxygen and nutrient delivery).
+
+Two researchers A and B, with expertise in "brillouin scattering" and "cerebral blood flow" respectively, are eager to collaborate on a novel interdisciplinary project that leverages their unique strengths and creates synergy between their fields.
+
+To better understand their backgrounds, here are the titles of recent publications from each researcher:
+
+Researcher A:
+1: Nonreciprocal vortex conversion and frequency shifting using light-driven chiral flexural waves
+2: Inter-vortex forward Brillouin scattering by chiral flexural phonons in twisted photonic crystal fibre
+3: Optoacoustic Active Cooling in Waveguides
+4: Order of Magnitude Increase in Storage Time of Brillouin-based Memory
+5: Optical vortex Brillouin laser
+6: Observation of Brillouin Spin-Orbit Interaction in a Silica Optical Nanofiber
+7: Eavesdropper localization for quantum and classical channels via nonlinear scattering
+
+Researcher B:
+1: The dopamine D1 receptor availability is reduced in Gilles de la Tourette syndrome: A C-11-SCH23390 PET study
+2: Multi-echo investigations of positive and negative CBF and concomitant BOLD changes
+3: Editorial on "Quantification of Cerebral Glucose Concentrations via Detection of the H1-a-Glucose Peak in 1 H MRS at 7 T".
+4: Brain dysconnectivity with heart failure
+5: Rapid Volumetric Brain Changes After Acute Psychosocial Stress
+6: Analysis of radiation damping effects on T1-measurements of paramagnetic solutions at 3 Tesla
+7: Considerations on gradual glutamate accumulation related to cognitive task performance
+
+Define an interesting and new scientific project for a collaboration between the two researchers. Write:
+1) project title
+2) followed by a brief explanation of the project's main objective. [1-2 short sentences]
+3) Finally, address the following questions: What specific interesting research questions will this project address, that will lead to innovative novel results? [2 bullet points, one sentence each]
+
+
+Project Title: 
+Main Objective (1-2 sentences):
+
+Research Question & Novel Results (2 points):
+1)
+2)
