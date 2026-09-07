@@ -59,7 +59,7 @@ The final concept list is included here in [`concept list/full_concepts.txt`](co
 
 ## Repository structure
 
-The repository is organized by analysis. The tree below lists the research files; repeated result and participant files are grouped with `*`. Editor settings and operating-system metadata are omitted.
+The repository is organized in the following way.
 
 ```text
 .
